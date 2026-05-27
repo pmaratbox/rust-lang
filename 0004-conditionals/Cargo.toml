@@ -1,0 +1,8 @@
+[package]
+name = "conditionals"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "conditionals"
+path = "src/main.rs"
