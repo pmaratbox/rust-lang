@@ -26,6 +26,7 @@ macOS via Homebrew (alternative):
 - [0002-variables-and-types](0002-variables-and-types/) — declare and print an int, float, string, and bool
 - [0003-arithmetic-and-operators](0003-arithmetic-and-operators/) — sum, difference, product, quotient, modulo of two integers
 - [0004-conditionals](0004-conditionals/) — compare to 10 and print less / equal / greater
+- [0005-loops](0005-loops/) — print 1..5 with a for-loop
 
 ## How to run
 
