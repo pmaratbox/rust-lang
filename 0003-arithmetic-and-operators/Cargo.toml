@@ -1,0 +1,8 @@
+[package]
+name = "arithmetic-and-operators"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "arithmetic"
+path = "src/main.rs"
