@@ -27,6 +27,7 @@ macOS via Homebrew (alternative):
 - [0003-arithmetic-and-operators](0003-arithmetic-and-operators/) — sum, difference, product, quotient, modulo of two integers
 - [0004-conditionals](0004-conditionals/) — compare to 10 and print less / equal / greater
 - [0005-loops](0005-loops/) — print 1..5 with a for-loop
+- [0006-functions](0006-functions/) — define add(a, b), call it, print the result
 
 ## How to run
 
