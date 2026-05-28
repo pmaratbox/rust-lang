@@ -28,6 +28,7 @@ macOS via Homebrew (alternative):
 - [0004-conditionals](0004-conditionals/) — compare to 10 and print less / equal / greater
 - [0005-loops](0005-loops/) — print 1..5 with a for-loop
 - [0006-functions](0006-functions/) — define add(a, b), call it, print the result
+- [0007-collections](0007-collections/) — build a list of 1..5; print its count, first, and last
 
 ## How to run
 
