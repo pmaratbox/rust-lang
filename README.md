@@ -30,6 +30,7 @@ macOS via Homebrew (alternative):
 - [0006-functions](0006-functions/) — define add(a, b), call it, print the result
 - [0007-collections](0007-collections/) — build a list of 1..5; print its count, first, and last
 - [0008-strings](0008-strings/) — greet, uppercase, and print the length of a string
+- [0009-maps](0009-maps/) — build a map, look up a key, print the value and size
 
 ## How to run
 
