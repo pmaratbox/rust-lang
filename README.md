@@ -31,6 +31,7 @@ macOS via Homebrew (alternative):
 - [0007-collections](0007-collections/) — build a list of 1..5; print its count, first, and last
 - [0008-strings](0008-strings/) — greet, uppercase, and print the length of a string
 - [0009-maps](0009-maps/) — build a map, look up a key, print the value and size
+- [0010-structs](0010-structs/) — define a Person type with name and age, print its fields
 
 ## How to run
 
