@@ -34,6 +34,7 @@ macOS via Homebrew (alternative):
 - [0010-structs](0010-structs/) — define a Person type with name and age, print its fields
 - [0011-error-handling](0011-error-handling/) — divide with a divide-by-zero guard; print result or error
 - [0012-enums](0012-enums/) — define a Color enum; print the integer position of two variants
+- [0013-optional](0013-optional/) — hold a present and an absent value; print each with a fallback
 
 ## How to run
 
