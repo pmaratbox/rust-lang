@@ -32,6 +32,7 @@ macOS via Homebrew (alternative):
 - [0008-strings](0008-strings/) — greet, uppercase, and print the length of a string
 - [0009-maps](0009-maps/) — build a map, look up a key, print the value and size
 - [0010-structs](0010-structs/) — define a Person type with name and age, print its fields
+- [0011-error-handling](0011-error-handling/) — divide with a divide-by-zero guard; print result or error
 
 ## How to run
 
