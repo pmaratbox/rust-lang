@@ -36,6 +36,7 @@ macOS via Homebrew (alternative):
 - [0012-enums](0012-enums/) — define a Color enum; print the integer position of two variants
 - [0013-optional](0013-optional/) — hold a present and an absent value; print each with a fallback
 - [0014-higher-order-functions](0014-higher-order-functions/) — pass functions as values: apply inc and double via apply(f, x)
+- [0015-interfaces](0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically
 
 ## How to run
 
