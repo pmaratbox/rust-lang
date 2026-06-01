@@ -40,6 +40,7 @@ macOS via Homebrew (alternative):
 - [0016-generics](0016-generics/) — define a generic first(list) returning the first element; call it on ints and strings
 - [0017-iterators](0017-iterators/) — filter evens, double them, and sum 1..5 with map/filter/reduce
 - [0018-closures](0018-closures/) — return a counter function that captures private state; call it twice for 1 then 2
+- [0019-recursion](0019-recursion/) — define a recursive factorial(n); print factorial(5) = 120
 
 ## How to run
 
