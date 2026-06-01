@@ -1,0 +1,8 @@
+[package]
+name = "concurrency"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "concurrency"
+path = "src/main.rs"

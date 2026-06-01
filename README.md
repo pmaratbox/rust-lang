@@ -43,6 +43,7 @@ macOS via Homebrew (alternative):
 - [0019-recursion](0019-recursion/) — define a recursive factorial(n); print factorial(5) = 120
 - [0020-pattern-matching](0020-pattern-matching/) — match a number against literal cases with a default; map 1, 2, 5 to one, two, many
 - [0021-mutability-and-references](0021-mutability-and-references/) — increment a value through a reference so the caller sees before: 1 / after: 2
+- [0022-concurrency](0022-concurrency/) — run two tasks concurrently and combine their results into sum: 3
 
 ## How to run
 
