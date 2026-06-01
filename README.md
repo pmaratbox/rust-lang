@@ -44,6 +44,7 @@ macOS via Homebrew (alternative):
 - [0020-pattern-matching](0020-pattern-matching/) — match a number against literal cases with a default; map 1, 2, 5 to one, two, many
 - [0021-mutability-and-references](0021-mutability-and-references/) — increment a value through a reference so the caller sees before: 1 / after: 2
 - [0022-concurrency](0022-concurrency/) — run two tasks concurrently and combine their results into sum: 3
+- [0023-modules-and-imports](0023-modules-and-imports/) — define square(n) in a second module, import it, and print square(8) = 64
 
 ## How to run
 
