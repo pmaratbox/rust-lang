@@ -61,6 +61,7 @@ macOS via Homebrew (alternative):
 - [0037-operator-overloading](0037-operator-overloading/) — define + for a Point type and add two points
 - [0038-string-methods](0038-string-methods/) — split, uppercase, and join: a,b,c → A-B-C
 - [0039-records-and-value-equality](0039-records-and-value-equality/) — two records with equal fields compare equal
+- [0040-generators-and-lazy-sequences](0040-generators-and-lazy-sequences/) — a lazy sequence of squares; take the first three
 
 ## How to run
 
