@@ -1,0 +1,8 @@
+[package]
+name = "formatting"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "formatting"
+path = "src/main.rs"
