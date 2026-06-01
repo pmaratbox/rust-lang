@@ -62,6 +62,7 @@ macOS via Homebrew (alternative):
 - [0038-string-methods](0038-string-methods/) — split, uppercase, and join: a,b,c → A-B-C
 - [0039-records-and-value-equality](0039-records-and-value-equality/) — two records with equal fields compare equal
 - [0040-generators-and-lazy-sequences](0040-generators-and-lazy-sequences/) — a lazy sequence of squares; take the first three
+- [0041-command-line-arguments](0041-command-line-arguments/) — read the first CLI argument and greet it
 
 ## How to run
 
