@@ -57,6 +57,7 @@ macOS via Homebrew (alternative):
 - [0033-custom-error-types](0033-custom-error-types/) — define a custom error, raise it, catch it, and print its message
 - [0034-default-and-named-arguments](0034-default-and-named-arguments/) — a function with a default argument, called with and without it
 - [0035-ranges-and-slicing](0035-ranges-and-slicing/) — extract a sub-sequence (indices 1..4) from a list
+- [0036-inheritance-and-overriding](0036-inheritance-and-overriding/) — a base type with a method, a subtype that overrides it
 
 ## How to run
 
