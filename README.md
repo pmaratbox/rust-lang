@@ -71,6 +71,7 @@ macOS via Homebrew (alternative):
 - [0047-immutable-update-copy-with](0047-immutable-update-copy-with/) — copy a record changing one field: (1,2) → (9,2)
 - [0048-maps-iterate-and-transform](0048-maps-iterate-and-transform/) — sum the values of a map → 6
 - [0049-zip-and-enumerate](0049-zip-and-enumerate/) — pair letters with numbers → a=1 b=2 c=3
+- [0050-stacks](0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
 
 ## How to run
 
