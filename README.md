@@ -55,6 +55,7 @@ macOS via Homebrew (alternative):
 - [0031-type-conversion-and-parsing](0031-type-conversion-and-parsing/) — parse a string to int and float, and convert a number back to a string
 - [0032-math-functions](0032-math-functions/) — sqrt, power, abs, and max on numbers
 - [0033-custom-error-types](0033-custom-error-types/) — define a custom error, raise it, catch it, and print its message
+- [0034-default-and-named-arguments](0034-default-and-named-arguments/) — a function with a default argument, called with and without it
 
 ## How to run
 
