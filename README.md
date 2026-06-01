@@ -73,6 +73,7 @@ macOS via Homebrew (alternative):
 - [0049-zip-and-enumerate](0049-zip-and-enumerate/) — pair letters with numbers → a=1 b=2 c=3
 - [0050-stacks](0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
 - [0051-ternary-and-conditional-expressions](0051-ternary-and-conditional-expressions/) — classify 4 and 7 as even/odd
+- [0052-queues](0052-queues/) — enqueue 1 2 3, dequeue all → 1 2 3
 
 ## How to run
 
