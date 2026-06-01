@@ -42,6 +42,7 @@ macOS via Homebrew (alternative):
 - [0018-closures](0018-closures/) — return a counter function that captures private state; call it twice for 1 then 2
 - [0019-recursion](0019-recursion/) — define a recursive factorial(n); print factorial(5) = 120
 - [0020-pattern-matching](0020-pattern-matching/) — match a number against literal cases with a default; map 1, 2, 5 to one, two, many
+- [0021-mutability-and-references](0021-mutability-and-references/) — increment a value through a reference so the caller sees before: 1 / after: 2
 
 ## How to run
 
