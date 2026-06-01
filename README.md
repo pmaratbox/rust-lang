@@ -60,6 +60,7 @@ macOS via Homebrew (alternative):
 - [0036-inheritance-and-overriding](0036-inheritance-and-overriding/) — a base type with a method, a subtype that overrides it
 - [0037-operator-overloading](0037-operator-overloading/) — define + for a Point type and add two points
 - [0038-string-methods](0038-string-methods/) — split, uppercase, and join: a,b,c → A-B-C
+- [0039-records-and-value-equality](0039-records-and-value-equality/) — two records with equal fields compare equal
 
 ## How to run
 
