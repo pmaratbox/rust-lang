@@ -46,6 +46,7 @@ macOS via Homebrew (alternative):
 - [0022-concurrency](0022-concurrency/) — run two tasks concurrently and combine their results into sum: 3
 - [0023-modules-and-imports](0023-modules-and-imports/) — define square(n) in a second module, import it, and print square(8) = 64
 - [0024-sorting-and-comparators](0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator
+- [0025-tuples-and-multiple-return](0025-tuples-and-multiple-return/) — return min and max from one function; print min: 3 / max: 7
 
 ## How to run
 
