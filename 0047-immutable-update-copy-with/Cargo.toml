@@ -1,0 +1,8 @@
+[package]
+name = "immutable"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "immutable"
+path = "src/main.rs"

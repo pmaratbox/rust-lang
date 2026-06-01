@@ -68,6 +68,7 @@ macOS via Homebrew (alternative):
 - [0044-generic-constraints](0044-generic-constraints/) — a generic largest(a, b) bounded to ordered types; ints and strings
 - [0045-abstract-classes-and-methods](0045-abstract-classes-and-methods/) — an abstract base with an abstract method, implemented by a subclass
 - [0046-number-bases-and-radix](0046-number-bases-and-radix/) — print 255 in hex, octal, and binary
+- [0047-immutable-update-copy-with](0047-immutable-update-copy-with/) — copy a record changing one field: (1,2) → (9,2)
 
 ## How to run
 
