@@ -70,6 +70,7 @@ macOS via Homebrew (alternative):
 - [0046-number-bases-and-radix](0046-number-bases-and-radix/) — print 255 in hex, octal, and binary
 - [0047-immutable-update-copy-with](0047-immutable-update-copy-with/) — copy a record changing one field: (1,2) → (9,2)
 - [0048-maps-iterate-and-transform](0048-maps-iterate-and-transform/) — sum the values of a map → 6
+- [0049-zip-and-enumerate](0049-zip-and-enumerate/) — pair letters with numbers → a=1 b=2 c=3
 
 ## How to run
 
