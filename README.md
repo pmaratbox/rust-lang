@@ -74,6 +74,7 @@ macOS via Homebrew (alternative):
 - [0050-stacks](0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
 - [0051-ternary-and-conditional-expressions](0051-ternary-and-conditional-expressions/) — classify 4 and 7 as even/odd
 - [0052-queues](0052-queues/) — enqueue 1 2 3, dequeue all → 1 2 3
+- [0053-binary-search](0053-binary-search/) — find 7 in a sorted array → found 7 at index 3
 
 ## How to run
 
