@@ -1,0 +1,8 @@
+[package]
+name = "conversion"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "conversion"
+path = "src/main.rs"

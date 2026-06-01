@@ -52,6 +52,7 @@ macOS via Homebrew (alternative):
 - [0028-string-formatting](0028-string-formatting/) — format a float to 2 decimals and zero-pad an int to width 5
 - [0029-bitwise-operations](0029-bitwise-operations/) — AND, OR, XOR, and left-shift two integers
 - [0030-variadic-functions](0030-variadic-functions/) — sum a variable number of arguments: sum(1, 2, 3) = 6
+- [0031-type-conversion-and-parsing](0031-type-conversion-and-parsing/) — parse a string to int and float, and convert a number back to a string
 
 ## How to run
 
