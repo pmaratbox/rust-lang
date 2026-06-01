@@ -54,6 +54,7 @@ macOS via Homebrew (alternative):
 - [0030-variadic-functions](0030-variadic-functions/) — sum a variable number of arguments: sum(1, 2, 3) = 6
 - [0031-type-conversion-and-parsing](0031-type-conversion-and-parsing/) — parse a string to int and float, and convert a number back to a string
 - [0032-math-functions](0032-math-functions/) — sqrt, power, abs, and max on numbers
+- [0033-custom-error-types](0033-custom-error-types/) — define a custom error, raise it, catch it, and print its message
 
 ## How to run
 
