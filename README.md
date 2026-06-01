@@ -66,6 +66,7 @@ macOS via Homebrew (alternative):
 - [0042-environment-variables](0042-environment-variables/) — read an env var with a fallback default
 - [0043-function-composition](0043-function-composition/) — compose inc ∘ twice and apply to 3
 - [0044-generic-constraints](0044-generic-constraints/) — a generic largest(a, b) bounded to ordered types; ints and strings
+- [0045-abstract-classes-and-methods](0045-abstract-classes-and-methods/) — an abstract base with an abstract method, implemented by a subclass
 
 ## How to run
 
