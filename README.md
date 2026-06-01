@@ -50,6 +50,7 @@ macOS via Homebrew (alternative):
 - [0026-sets](0026-sets/) — build a set with a duplicate; print its size and membership of 2 and 5
 - [0027-file-io](0027-file-io/) — write a line to a file, read it back, delete it, and print it
 - [0028-string-formatting](0028-string-formatting/) — format a float to 2 decimals and zero-pad an int to width 5
+- [0029-bitwise-operations](0029-bitwise-operations/) — AND, OR, XOR, and left-shift two integers
 
 ## How to run
 
