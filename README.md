@@ -65,6 +65,7 @@ macOS via Homebrew (alternative):
 - [0041-command-line-arguments](0041-command-line-arguments/) — read the first CLI argument and greet it
 - [0042-environment-variables](0042-environment-variables/) — read an env var with a fallback default
 - [0043-function-composition](0043-function-composition/) — compose inc ∘ twice and apply to 3
+- [0044-generic-constraints](0044-generic-constraints/) — a generic largest(a, b) bounded to ordered types; ints and strings
 
 ## How to run
 
