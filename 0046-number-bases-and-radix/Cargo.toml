@@ -1,0 +1,8 @@
+[package]
+name = "bases"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "bases"
+path = "src/main.rs"
