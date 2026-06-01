@@ -45,6 +45,7 @@ macOS via Homebrew (alternative):
 - [0021-mutability-and-references](0021-mutability-and-references/) — increment a value through a reference so the caller sees before: 1 / after: 2
 - [0022-concurrency](0022-concurrency/) — run two tasks concurrently and combine their results into sum: 3
 - [0023-modules-and-imports](0023-modules-and-imports/) — define square(n) in a second module, import it, and print square(8) = 64
+- [0024-sorting-and-comparators](0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator
 
 ## How to run
 
