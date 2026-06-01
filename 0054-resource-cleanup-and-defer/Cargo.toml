@@ -1,0 +1,8 @@
+[package]
+name = "cleanup"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "cleanup"
+path = "src/main.rs"
