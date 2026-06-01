@@ -47,6 +47,7 @@ macOS via Homebrew (alternative):
 - [0023-modules-and-imports](0023-modules-and-imports/) — define square(n) in a second module, import it, and print square(8) = 64
 - [0024-sorting-and-comparators](0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator
 - [0025-tuples-and-multiple-return](0025-tuples-and-multiple-return/) — return min and max from one function; print min: 3 / max: 7
+- [0026-sets](0026-sets/) — build a set with a duplicate; print its size and membership of 2 and 5
 
 ## How to run
 

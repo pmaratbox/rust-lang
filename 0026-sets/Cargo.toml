@@ -1,0 +1,8 @@
+[package]
+name = "sets"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sets"
+path = "src/main.rs"
