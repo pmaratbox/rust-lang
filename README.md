@@ -48,6 +48,7 @@ macOS via Homebrew (alternative):
 - [0024-sorting-and-comparators](0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator
 - [0025-tuples-and-multiple-return](0025-tuples-and-multiple-return/) — return min and max from one function; print min: 3 / max: 7
 - [0026-sets](0026-sets/) — build a set with a duplicate; print its size and membership of 2 and 5
+- [0027-file-io](0027-file-io/) — write a line to a file, read it back, delete it, and print it
 
 ## How to run
 
