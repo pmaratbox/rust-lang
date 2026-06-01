@@ -76,6 +76,7 @@ macOS via Homebrew (alternative):
 - [0052-queues](0052-queues/) — enqueue 1 2 3, dequeue all → 1 2 3
 - [0053-binary-search](0053-binary-search/) — find 7 in a sorted array → found 7 at index 3
 - [0054-resource-cleanup-and-defer](0054-resource-cleanup-and-defer/) — acquire and auto-release a resource → open / use / close
+- [0055-frequency-count](0055-frequency-count/) — count letters in "banana" → a:3 b:1 n:2
 
 ## How to run
 
