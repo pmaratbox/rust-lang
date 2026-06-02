@@ -94,6 +94,7 @@ macOS via Homebrew (alternative):
 - [0070-digit-sum](0070-digit-sum/) — sum the digits of 1234 → 10
 - [0071-celsius-to-fahrenheit](0071-celsius-to-fahrenheit/) — convert 100C and 0C → 212F / 32F
 - [0072-palindrome-check](0072-palindrome-check/) — is it a palindrome? → level: yes / hello: no
+- [0073-caesar-cipher](0073-caesar-cipher/) — shift "abc" by 1 → bcd
 
 ## How to run
 
