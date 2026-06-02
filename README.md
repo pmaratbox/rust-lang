@@ -113,6 +113,7 @@ macOS via Homebrew (alternative):
 - [0089-quicksort](0089-quicksort/) — quicksort 3 1 4 1 5 2 → 1 1 2 3 4 5
 - [0090-binary-search-tree](0090-binary-search-tree/) — insert + in-order traversal → 1 3 4 5 8
 - [0091-balanced-parentheses](0091-balanced-parentheses/) — stack-based bracket check → yes / no
+- [0092-two-sum](0092-two-sum/) — find indices summing to 9 → 0 1
 
 ## How to run
 
