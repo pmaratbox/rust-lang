@@ -106,6 +106,7 @@ macOS via Homebrew (alternative):
 - [0082-chunk-list](0082-chunk-list/) — split into chunks of 3 → 1 2 3 / 4 5 6 / 7
 - [0083-sliding-window](0083-sliding-window/) — windows of size 2 → 1 2 / 2 3 / 3 4
 - [0084-partition](0084-partition/) — split into evens and odds → evens: 2 4 6 / odds: 1 3 5
+- [0085-rotate-list](0085-rotate-list/) — rotate left by 2 → 3 4 5 1 2
 
 ## How to run
 
