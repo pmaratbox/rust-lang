@@ -89,6 +89,7 @@ macOS via Homebrew (alternative):
 - [0065-merge-sort](0065-merge-sort/) — merge sort 3 1 4 1 5 2 → 1 1 2 3 4 5
 - [0066-multiple-assignment-and-destructuring](0066-multiple-assignment-and-destructuring/) — swap and unpack → 2 1 / 3 4
 - [0067-prefix-sums](0067-prefix-sums/) — running totals of 1 2 3 4 → 1 3 6 10
+- [0068-gcd-euclid](0068-gcd-euclid/) — gcd(48, 36) via Euclid → 12
 
 ## How to run
 

@@ -1,0 +1,8 @@
+[package]
+name = "gcd"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "gcd"
+path = "src/main.rs"
