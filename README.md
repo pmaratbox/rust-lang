@@ -99,6 +99,7 @@ macOS via Homebrew (alternative):
 - [0075-anagram-check](0075-anagram-check/) — are they anagrams? → listen/silent: yes
 - [0076-count-vowels](0076-count-vowels/) — count vowels in "hello" → 2
 - [0077-title-case](0077-title-case/) — title-case "hello world" → Hello World
+- [0078-substring-search](0078-substring-search/) — index of "lo" in "hello" → 3
 
 ## How to run
 
