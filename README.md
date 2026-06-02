@@ -108,6 +108,7 @@ macOS via Homebrew (alternative):
 - [0084-partition](0084-partition/) — split into evens and odds → evens: 2 4 6 / odds: 1 3 5
 - [0085-rotate-list](0085-rotate-list/) — rotate left by 2 → 3 4 5 1 2
 - [0086-sort-map-by-value](0086-sort-map-by-value/) — sort entries by value → b:1 c:2 a:3
+- [0087-invert-map](0087-invert-map/) — swap keys and values → 1:a 2:b 3:c
 
 ## How to run
 
