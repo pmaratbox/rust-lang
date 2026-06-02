@@ -1,0 +1,8 @@
+[package]
+name = "partition"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "partition"
+path = "src/main.rs"
