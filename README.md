@@ -82,6 +82,7 @@ macOS via Homebrew (alternative):
 - [0058-labeled-break-and-continue](0058-labeled-break-and-continue/) — labeled continue/break over nested loops → 1,1 / 2,1 / stop at 2,2
 - [0059-group-by](0059-group-by/) — group words by length → 3:[one,two] 5:[three]
 - [0060-priority-queue](0060-priority-queue/) — pop 3 1 2 in priority order → 1 2 3
+- [0061-reverse-a-string](0061-reverse-a-string/) — reverse "abc" → cba
 
 ## How to run
 
