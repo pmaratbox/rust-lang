@@ -109,6 +109,7 @@ macOS via Homebrew (alternative):
 - [0085-rotate-list](0085-rotate-list/) — rotate left by 2 → 3 4 5 1 2
 - [0086-sort-map-by-value](0086-sort-map-by-value/) — sort entries by value → b:1 c:2 a:3
 - [0087-invert-map](0087-invert-map/) — swap keys and values → 1:a 2:b 3:c
+- [0088-string-builder](0088-string-builder/) — build a string incrementally → 1-2-3
 
 ## How to run
 

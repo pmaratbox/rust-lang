@@ -1,0 +1,8 @@
+[package]
+name = "stringbuilder"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "stringbuilder"
+path = "src/main.rs"
