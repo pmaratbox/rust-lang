@@ -85,6 +85,7 @@ macOS via Homebrew (alternative):
 - [0061-reverse-a-string](0061-reverse-a-string/) — reverse "abc" → cba
 - [0062-do-while-loop](0062-do-while-loop/) — run the body once before testing → 1 2 3
 - [0063-flatten-nested-list](0063-flatten-nested-list/) — flatten [[1,2],[3,4]] → 1 2 3 4
+- [0064-matrix-transpose](0064-matrix-transpose/) — transpose a 2x3 matrix → 1 4 / 2 5 / 3 6
 
 ## How to run
 

@@ -1,0 +1,8 @@
+[package]
+name = "transpose"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "transpose"
+path = "src/main.rs"
