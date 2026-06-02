@@ -101,6 +101,7 @@ macOS via Homebrew (alternative):
 - [0077-title-case](0077-title-case/) — title-case "hello world" → Hello World
 - [0078-substring-search](0078-substring-search/) — index of "lo" in "hello" → 3
 - [0079-character-codes](0079-character-codes/) — code of A and char 66 → 65 B
+- [0080-deduplicate](0080-deduplicate/) — remove duplicates, keep first-seen order → 1 2 3
 
 ## How to run
 
