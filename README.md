@@ -118,6 +118,7 @@ macOS via Homebrew (alternative):
 - [0094-linear-search](0094-linear-search/) — scan for 7 → found 7 at index 2
 - [0095-guard-clauses](0095-guard-clauses/) — early-return classification → negative / zero / positive
 - [0096-mutual-recursion](0096-mutual-recursion/) — isEven/isOdd call each other → even / odd
+- [0097-enums-with-associated-values](0097-enums-with-associated-values/) — tagged shapes → 6 / 16
 
 ## How to run
 
