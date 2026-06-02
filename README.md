@@ -111,6 +111,7 @@ macOS via Homebrew (alternative):
 - [0087-invert-map](0087-invert-map/) — swap keys and values → 1:a 2:b 3:c
 - [0088-string-builder](0088-string-builder/) — build a string incrementally → 1-2-3
 - [0089-quicksort](0089-quicksort/) — quicksort 3 1 4 1 5 2 → 1 1 2 3 4 5
+- [0090-binary-search-tree](0090-binary-search-tree/) — insert + in-order traversal → 1 3 4 5 8
 
 ## How to run
 
