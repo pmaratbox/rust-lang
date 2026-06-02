@@ -92,6 +92,7 @@ macOS via Homebrew (alternative):
 - [0068-gcd-euclid](0068-gcd-euclid/) — gcd(48, 36) via Euclid → 12
 - [0069-fibonacci-iterative](0069-fibonacci-iterative/) — first 7 Fibonacci numbers → 0 1 1 2 3 5 8
 - [0070-digit-sum](0070-digit-sum/) — sum the digits of 1234 → 10
+- [0071-celsius-to-fahrenheit](0071-celsius-to-fahrenheit/) — convert 100C and 0C → 212F / 32F
 
 ## How to run
 
