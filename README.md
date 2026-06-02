@@ -120,6 +120,7 @@ macOS via Homebrew (alternative):
 - [0096-mutual-recursion](0096-mutual-recursion/) — isEven/isOdd call each other → even / odd
 - [0097-enums-with-associated-values](0097-enums-with-associated-values/) — tagged shapes → 6 / 16
 - [0098-memoization](0098-memoization/) — memoized fibonacci(10) → 55
+- [0099-method-chaining](0099-method-chaining/) — fluent calculator → 16
 
 ## How to run
 
