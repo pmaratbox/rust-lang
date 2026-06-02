@@ -1,0 +1,8 @@
+[package]
+name = "destructuring"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "destructuring"
+path = "src/main.rs"

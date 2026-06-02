@@ -87,6 +87,7 @@ macOS via Homebrew (alternative):
 - [0063-flatten-nested-list](0063-flatten-nested-list/) — flatten [[1,2],[3,4]] → 1 2 3 4
 - [0064-matrix-transpose](0064-matrix-transpose/) — transpose a 2x3 matrix → 1 4 / 2 5 / 3 6
 - [0065-merge-sort](0065-merge-sort/) — merge sort 3 1 4 1 5 2 → 1 1 2 3 4 5
+- [0066-multiple-assignment-and-destructuring](0066-multiple-assignment-and-destructuring/) — swap and unpack → 2 1 / 3 4
 
 ## How to run
 
