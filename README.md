@@ -115,6 +115,7 @@ macOS via Homebrew (alternative):
 - [0091-balanced-parentheses](0091-balanced-parentheses/) — stack-based bracket check → yes / no
 - [0092-two-sum](0092-two-sum/) — find indices summing to 9 → 0 1
 - [0093-matrix-multiply](0093-matrix-multiply/) — multiply two 2x2 matrices → 19 22 / 43 50
+- [0094-linear-search](0094-linear-search/) — scan for 7 → found 7 at index 2
 
 ## How to run
 
