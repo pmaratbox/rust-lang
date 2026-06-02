@@ -78,6 +78,7 @@ macOS via Homebrew (alternative):
 - [0054-resource-cleanup-and-defer](0054-resource-cleanup-and-defer/) — acquire and auto-release a resource → open / use / close
 - [0055-frequency-count](0055-frequency-count/) — count letters in "banana" → a:3 b:1 n:2
 - [0056-linked-list](0056-linked-list/) — build and traverse a singly-linked list → 1 -> 2 -> 3
+- [0057-sieve-of-eratosthenes](0057-sieve-of-eratosthenes/) — primes up to 10 → 2 3 5 7
 
 ## How to run
 
