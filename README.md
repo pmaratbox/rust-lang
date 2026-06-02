@@ -98,6 +98,7 @@ macOS via Homebrew (alternative):
 - [0074-run-length-encoding](0074-run-length-encoding/) — encode "aaabbc" → a3b2c1
 - [0075-anagram-check](0075-anagram-check/) — are they anagrams? → listen/silent: yes
 - [0076-count-vowels](0076-count-vowels/) — count vowels in "hello" → 2
+- [0077-title-case](0077-title-case/) — title-case "hello world" → Hello World
 
 ## How to run
 
