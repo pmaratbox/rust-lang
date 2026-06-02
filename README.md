@@ -100,6 +100,7 @@ macOS via Homebrew (alternative):
 - [0076-count-vowels](0076-count-vowels/) — count vowels in "hello" → 2
 - [0077-title-case](0077-title-case/) — title-case "hello world" → Hello World
 - [0078-substring-search](0078-substring-search/) — index of "lo" in "hello" → 3
+- [0079-character-codes](0079-character-codes/) — code of A and char 66 → 65 B
 
 ## How to run
 
