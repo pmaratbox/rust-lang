@@ -103,6 +103,7 @@ macOS via Homebrew (alternative):
 - [0079-character-codes](0079-character-codes/) — code of A and char 66 → 65 B
 - [0080-deduplicate](0080-deduplicate/) — remove duplicates, keep first-seen order → 1 2 3
 - [0081-set-operations](0081-set-operations/) — union & intersection → 1 2 3 4 / 2 3
+- [0082-chunk-list](0082-chunk-list/) — split into chunks of 3 → 1 2 3 / 4 5 6 / 7
 
 ## How to run
 
