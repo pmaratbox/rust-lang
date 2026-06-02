@@ -83,6 +83,7 @@ macOS via Homebrew (alternative):
 - [0059-group-by](0059-group-by/) — group words by length → 3:[one,two] 5:[three]
 - [0060-priority-queue](0060-priority-queue/) — pop 3 1 2 in priority order → 1 2 3
 - [0061-reverse-a-string](0061-reverse-a-string/) — reverse "abc" → cba
+- [0062-do-while-loop](0062-do-while-loop/) — run the body once before testing → 1 2 3
 
 ## How to run
 
