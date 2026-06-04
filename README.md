@@ -103,6 +103,7 @@ macOS via Homebrew (alternative):
 - [0155-reverse-words](05-strings/0155-reverse-words/) — reverse the order of words in "hello world", printing `world hello`
 - [0156-count-substring](05-strings/0156-count-substring/) — count non-overlapping occurrences of "ab" in "ababab", printing `3`
 - [0157-longest-common-prefix](05-strings/0157-longest-common-prefix/) — find the longest common prefix of ["flower","flow","flight"], printing `fl`
+- [0158-string-rotation](05-strings/0158-string-rotation/) — check whether "cdab" is a rotation of "abcd", printing `yes`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
