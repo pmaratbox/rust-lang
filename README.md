@@ -146,6 +146,7 @@ macOS via Homebrew (alternative):
 - [0103-mutex-shared-counter](10-concurrency/0103-mutex-shared-counter/) — have multiple threads each increment a shared counter under a mutex so the total is exactly `1000`
 - [0104-atomic-counter](10-concurrency/0104-atomic-counter/) — increment a shared atomic counter from multiple threads 1000 times total without a lock, printing `1000`
 - [0105-channels-message-passing](10-concurrency/0105-channels-message-passing/) — send the values 1, 2, 3 through a channel (or queue) from one thread and receive them in order, printing `1 2 3`
+- [0106-producer-consumer](10-concurrency/0106-producer-consumer/) — a producer sends 1..5 to a consumer that sums them, printing `15`
 
 ## How to run
 
