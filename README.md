@@ -263,6 +263,7 @@ macOS via Homebrew (alternative):
 - [0210-strategy](15-design-patterns/0210-strategy/) — select an "add" then a "mul" strategy and apply each to (3,4), printing `7 12`
 - [0211-command](15-design-patterns/0211-command/) — execute an AddCommand that takes a counter from 0 to 5, then undo it back to 0, printing `5 0`
 - [0212-template-method](15-design-patterns/0212-template-method/) — run an algorithm skeleton whose middle step is overridden, printing `start work end` on one line
+- [0213-iterator-pattern](15-design-patterns/0213-iterator-pattern/) — implement a custom iterator over a range 1..3 and consume it, printing `1 2 3`
 
 ## How to run
 
