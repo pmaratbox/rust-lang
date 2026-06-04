@@ -161,6 +161,7 @@ macOS via Homebrew (alternative):
 - [0168-list-difference](06-collections/0168-list-difference/) — compute [1,2,3,4] minus the elements of [2,4], printing `1 3`
 - [0169-max-by-key](06-collections/0169-max-by-key/) — from ["a","bbb","cc"] pick the longest string, printing `bbb`
 - [0170-index-by-key](06-collections/0170-index-by-key/) — index people [(1,alice),(2,bob)] by id into a map, look up id 2, and print `id 2: bob`
+- [0357-zip-longest](06-collections/0357-zip-longest/) — zip [1,2,3] with ["a","b"], filling the missing slot with "-", printing `1a 2b 3-`
 
 ### Data Structures
 - [0050-stacks](07-data-structures/0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
