@@ -205,6 +205,7 @@ macOS via Homebrew (alternative):
 - [0197-enum-iteration](09-systems/0197-enum-iteration/) — iterate over all values of a Color enum (RED, GREEN, BLUE) and print their names `RED GREEN BLUE`
 - [0198-seeded-lcg-prng](09-systems/0198-seeded-lcg-prng/) — implement a linear congruential generator next=(5*x+3) mod 16 seeded at 1 and print its first 3 outputs `8 11 10`
 - [0199-struct-field-names](09-systems/0199-struct-field-names/) — list the field names of a Point{x,y} struct/record and print `x y`
+- [0200-precondition-assert](09-systems/0200-precondition-assert/) — check a precondition arg>0: for 5 print `ok`, and for -1 report the failure `error: must be positive`, on two lines
 
 ### Concurrency & Parallelism
 - [0101-threads-spawn-join](10-concurrency/0101-threads-spawn-join/) — spawn 3 worker threads, wait for all of them to finish, then print `done: 3`
