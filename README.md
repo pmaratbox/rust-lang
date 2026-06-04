@@ -383,6 +383,7 @@ macOS via Homebrew (alternative):
 - [0314-preorder-iterative](23-trees-heaps/0314-preorder-iterative/) — print the iterative (stack-based) preorder traversal of the BST built from 5,3,8,1,4 `5 3 1 4 8`
 - [0315-tree-diameter](23-trees-heaps/0315-tree-diameter/) — compute the diameter (longest path in edges) of a tree where root has children A and B, and A has children C and D, printing `3`
 - [0316-max-heap-pop](23-trees-heaps/0316-max-heap-pop/) — build a max-heap from [3,1,4,1,5], pop the top three values, printing `5 4 3`
+- [0317-heap-sort](23-trees-heaps/0317-heap-sort/) — heap-sort [5,3,8,1,4] ascending, printing `1 3 4 5 8`
 
 ## How to run
 
