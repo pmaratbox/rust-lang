@@ -265,6 +265,7 @@ macOS via Homebrew (alternative):
 - [0378-barrier-sync](10-concurrency/0378-barrier-sync/) — have 3 threads each arrive at a barrier before any proceeds, then print `all reached: 3`
 - [0379-future-chain](10-concurrency/0379-future-chain/) — chain asynchronous steps 5 -> (*2) -> (+1) and print the final value `11`
 - [0380-compare-and-swap](10-concurrency/0380-compare-and-swap/) — increment a shared value to 100 using a CAS retry loop from multiple threads, printing `100`
+- [0381-parallel-map](10-concurrency/0381-parallel-map/) — square 1,2,3,4 in parallel and collect the results in input order, printing `1 4 9 16`
 
 ### Functional Programming
 - [0110-currying](11-functional/0110-currying/) — curry a two-argument add into a chain of one-argument functions and call it as `add(2)(3)`, printing `5`
