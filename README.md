@@ -338,6 +338,7 @@ macOS via Homebrew (alternative):
 - [0275-lcs-length](20-text-algorithms/0275-lcs-length/) — compute the LCS length of "ABCBDAB" and "BDCAB", printing `4`
 - [0276-longest-common-substring](20-text-algorithms/0276-longest-common-substring/) — find the longest common contiguous substring of "abcde" and "xbcdy", printing `bcd`
 - [0277-longest-palindrome-substring](20-text-algorithms/0277-longest-palindrome-substring/) — find the longest palindromic substring of "babad" (first of maximal length), printing `bab`
+- [0278-suffix-array](20-text-algorithms/0278-suffix-array/) — build the suffix array of "banana" (sorted suffix start indices), printing `5 3 1 0 4 2`
 
 ## How to run
 
