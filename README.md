@@ -292,6 +292,7 @@ macOS via Homebrew (alternative):
 - [0124-path-manipulation](12-io-serialization/0124-path-manipulation/) — join "/tmp" and "file.txt", then take the basename and extension, printing `/tmp/file.txt file.txt .txt`
 - [0125-temp-file-roundtrip](12-io-serialization/0125-temp-file-roundtrip/) — write a string to a temporary file, read it back, confirm it matches, delete the file, and print `roundtrip: ok`
 - [0387-json-stringify](12-io-serialization/0387-json-stringify/) — serialize the object {name:"Ada", age:36} to compact JSON `{"name":"Ada","age":36}`
+- [0388-json-parse](12-io-serialization/0388-json-parse/) — parse the JSON object `{"x":1,"y":2}` and print its entries `x=1 y=2`
 
 ### Dates & Calendars
 - [0126-leap-year](13-datetime/0126-leap-year/) — determine whether 2000, 1900, and 2024 are leap years, printing `yes no yes`

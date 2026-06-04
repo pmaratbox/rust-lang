@@ -1,0 +1,8 @@
+[package]
+name = "jsonparse"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "jsonparse"
+path = "src/main.rs"
