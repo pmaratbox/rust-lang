@@ -1,0 +1,8 @@
+[package]
+name = "scanproduct"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "scanproduct"
+path = "src/main.rs"
