@@ -224,6 +224,7 @@ macOS via Homebrew (alternative):
 - [0367-selection-sort](08-algorithms/0367-selection-sort/) — selection-sort [5,1,4,2] ascending, printing `1 2 4 5`
 - [0368-shell-sort](08-algorithms/0368-shell-sort/) — shell-sort [5,2,8,1,9,3] ascending, printing `1 2 3 5 8 9`
 - [0369-search-bounds](08-algorithms/0369-search-bounds/) — in the sorted array [1,3,5,5,7] find the lower bound (2) and upper bound (4) of 5, printing `2 4`
+- [0370-quickselect](08-algorithms/0370-quickselect/) — find the 3rd smallest element of [7,10,4,3,20,15] with quickselect, printing `7`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
