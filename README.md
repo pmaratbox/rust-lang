@@ -315,6 +315,7 @@ macOS via Homebrew (alternative):
 - [0396-call-counter](14-tooling/0396-call-counter/) — wrap a function so each call increments a counter; after five calls print `calls: 5`
 - [0397-log-levels](14-tooling/0397-log-levels/) — with a threshold of WARN, log messages at INFO, WARN, and ERROR but only emit WARN and ERROR, on two lines
 - [0398-table-format](14-tooling/0398-table-format/) — format the rows (a,1),(bb,22) with the first column left-padded to the widest value, printing two aligned rows
+- [0399-progress-bar](14-tooling/0399-progress-bar/) — render a width-10 progress bar at 40% completion, printing `[####------]`
 
 ### Design Patterns
 - [0201-factory-method](15-design-patterns/0201-factory-method/) — use a factory method to create shapes by name and print their kinds `circle square`
