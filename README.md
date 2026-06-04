@@ -130,6 +130,7 @@ macOS via Homebrew (alternative):
 - [0352-rot13](05-strings/0352-rot13/) — apply ROT13 to "hello" (->"uryyb") and ROT13 again to recover "hello", printing `uryyb hello`
 - [0353-char-frequency](05-strings/0353-char-frequency/) — count character frequencies in "aab" and print them in first-seen order `a:2 b:1`
 - [0354-snake-to-camel](05-strings/0354-snake-to-camel/) — convert "hello_world" to camelCase `helloWorld`
+- [0355-expand-char-range](05-strings/0355-expand-char-range/) — expand the range spec "a-e" into the characters `abcde`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
