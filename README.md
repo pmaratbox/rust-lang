@@ -128,6 +128,7 @@ macOS via Homebrew (alternative):
 - [0161-remove-duplicate-chars](05-strings/0161-remove-duplicate-chars/) — remove duplicate characters from "aabbcc" keeping first occurrence, printing `abc`
 - [0162-pad-left-right](05-strings/0162-pad-left-right/) — left-pad and right-pad "5" with spaces to width 3 and print both joined by a pipe: `  5|5  `
 - [0352-rot13](05-strings/0352-rot13/) — apply ROT13 to "hello" (->"uryyb") and ROT13 again to recover "hello", printing `uryyb hello`
+- [0353-char-frequency](05-strings/0353-char-frequency/) — count character frequencies in "aab" and print them in first-seen order `a:2 b:1`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
