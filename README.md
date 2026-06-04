@@ -82,6 +82,7 @@ macOS via Homebrew (alternative):
 - [0148-parse-or-default](03-types/0148-parse-or-default/) — parse "42" to 42 and "x" (invalid) to a default 0, printing `42 0`
 - [0342-tagged-union-eval](03-types/0342-tagged-union-eval/) — model an expression tagged union Num | Add and evaluate Add(Num 1, Num 2), printing `3`
 - [0343-optional-chaining](03-types/0343-optional-chaining/) — read a deeply optional value a.b.c when present (5) and when absent (default 0), printing `5 0`
+- [0344-enum-ordinal](03-types/0344-enum-ordinal/) — for the enum Direction(N,E,S,W) print the ordinal of S (2) and the name at ordinal 3 (W), printing `2 W`
 
 ### OOP & Polymorphism
 - [0015-interfaces](04-oop/0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically
