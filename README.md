@@ -151,6 +151,7 @@ macOS via Homebrew (alternative):
 - [0175-graph-bfs](07-data-structures/0175-graph-bfs/) — breadth-first traverse from node 0 of the graph 0:[1,2] 1:[0,3] 2:[0,3] 3:[1,2], printing visit order `0 1 2 3`
 - [0176-graph-dfs](07-data-structures/0176-graph-dfs/) — depth-first traverse from node 0 of the graph 0:[1,2] 1:[0,3] 2:[0,3] 3:[1,2], printing visit order `0 1 3 2`
 - [0177-min-heap-manual](07-data-structures/0177-min-heap-manual/) — implement a binary min-heap by hand, push 3,1,2, pop all, printing `1 2 3`
+- [0178-stack-with-min](07-data-structures/0178-stack-with-min/) — build a stack that tracks its minimum in O(1); after pushing 3,1,2 print `min: 1`
 
 ### Algorithms & Math
 - [0024-sorting-and-comparators](08-algorithms/0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator

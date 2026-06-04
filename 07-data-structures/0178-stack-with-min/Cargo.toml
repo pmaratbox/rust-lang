@@ -1,0 +1,8 @@
+[package]
+name = "withmin"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "withmin"
+path = "src/main.rs"
