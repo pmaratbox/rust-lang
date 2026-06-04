@@ -371,6 +371,7 @@ macOS via Homebrew (alternative):
 - [0304-connected-components](22-graphs/0304-connected-components/) — count the connected components of the undirected graph with edges (0,1),(1,2),(3,4) over nodes 0..4, printing `2`
 - [0305-bipartite-check](22-graphs/0305-bipartite-check/) — check bipartiteness of a 4-cycle 0-1-2-3-0 (yes) and a triangle 0-1-2-0 (no), printing `yes no`
 - [0306-shortest-path-reconstruct](22-graphs/0306-shortest-path-reconstruct/) — on the Dijkstra graph 0->1(4),0->2(1),2->1(2),1->3(1),2->3(5), print the actual shortest path from 0 to 3 `0 2 1 3`
+- [0307-astar-grid](22-graphs/0307-astar-grid/) — find the shortest path length from (0,0) to (2,2) on an obstacle-free 3x3 grid (4-directional) with the Manhattan heuristic, printing `4`
 
 ## How to run
 
