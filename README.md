@@ -100,6 +100,7 @@ macOS via Homebrew (alternative):
 - [0078-substring-search](05-strings/0078-substring-search/) — index of "lo" in "hello" → 3
 - [0079-character-codes](05-strings/0079-character-codes/) — code of A and char 66 → 65 B
 - [0088-string-builder](05-strings/0088-string-builder/) — build a string incrementally → 1-2-3
+- [0155-reverse-words](05-strings/0155-reverse-words/) — reverse the order of words in "hello world", printing `world hello`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
