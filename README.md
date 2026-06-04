@@ -396,6 +396,7 @@ macOS via Homebrew (alternative):
 - [0325-point-free](24-functional-advanced/0325-point-free/) — express "sum of squares" point-free (compose map-square with sum) and apply it to [1,2,3], printing `14`
 - [0326-monoid-fold](24-functional-advanced/0326-monoid-fold/) — fold lists under two monoids: string concat ["a","b","c"]->"abc" and integer sum [1,2,3]->6, printing `abc 6`
 - [0327-flatmap](24-functional-advanced/0327-flatmap/) — flatMap [1,2,3] with x -> [x, x*10] and print the flattened result `1 10 2 20 3 30`
+- [0328-trampoline](24-functional-advanced/0328-trampoline/) — sum 1..100 with a trampolined recursion that avoids deep stacks, printing `5050`
 
 ## How to run
 
