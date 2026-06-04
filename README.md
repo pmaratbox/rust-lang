@@ -366,6 +366,7 @@ macOS via Homebrew (alternative):
 - [0299-floyd-warshall](22-graphs/0299-floyd-warshall/) — run all-pairs shortest paths on 0->1(3),1->2(1),0->2(5) and print the distance from 0 to 2 `4`
 - [0300-topological-sort](22-graphs/0300-topological-sort/) — topologically sort the DAG 0->1,0->2,1->3,2->3 using the Kahn algorithm (smallest index first), printing `0 1 2 3`
 - [0301-cycle-detect-directed](22-graphs/0301-cycle-detect-directed/) — detect a cycle in the digraph 0->1,1->2,2->0, printing `cycle`
+- [0302-kruskal-mst](22-graphs/0302-kruskal-mst/) — compute the MST total weight of edges (0,1,1),(1,2,2),(0,2,3) with union-find, printing `3`
 
 ## How to run
 
