@@ -370,6 +370,7 @@ macOS via Homebrew (alternative):
 - [0303-prim-mst](22-graphs/0303-prim-mst/) — compute the MST total weight of the chain (0,1,1),(1,2,2),(2,3,3) with Prim, printing `6`
 - [0304-connected-components](22-graphs/0304-connected-components/) — count the connected components of the undirected graph with edges (0,1),(1,2),(3,4) over nodes 0..4, printing `2`
 - [0305-bipartite-check](22-graphs/0305-bipartite-check/) — check bipartiteness of a 4-cycle 0-1-2-3-0 (yes) and a triangle 0-1-2-0 (no), printing `yes no`
+- [0306-shortest-path-reconstruct](22-graphs/0306-shortest-path-reconstruct/) — on the Dijkstra graph 0->1(4),0->2(1),2->1(2),1->3(1),2->3(5), print the actual shortest path from 0 to 3 `0 2 1 3`
 
 ## How to run
 
