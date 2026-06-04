@@ -346,6 +346,9 @@ macOS via Homebrew (alternative):
 - [0283-rabin-karp](20-text-algorithms/0283-rabin-karp/) — use rolling-hash Rabin-Karp to find all start indices of "ab" in "xabxab", printing `1 4`
 - [0284-trie-autocomplete](20-text-algorithms/0284-trie-autocomplete/) — insert "car","card","dog" into a trie and autocomplete the prefix "car", printing `car card`
 
+### Dynamic Programming
+- [0285-coin-change-min](21-dynamic-programming/0285-coin-change-min/) — find the fewest coins from {1,2,5} summing to 11, printing `3`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
