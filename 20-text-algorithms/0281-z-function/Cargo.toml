@@ -1,0 +1,8 @@
+[package]
+name = "zfunction"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "zfunction"
+path = "src/main.rs"

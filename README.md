@@ -341,6 +341,7 @@ macOS via Homebrew (alternative):
 - [0278-suffix-array](20-text-algorithms/0278-suffix-array/) — build the suffix array of "banana" (sorted suffix start indices), printing `5 3 1 0 4 2`
 - [0279-min-window-substring](20-text-algorithms/0279-min-window-substring/) — find the smallest window in "ADOBECODEBANC" containing all of "ABC", printing `BANC`
 - [0280-group-anagrams](20-text-algorithms/0280-group-anagrams/) — group ["eat","tea","tan","ate","nat"] into anagram classes and print the number of groups `2`
+- [0281-z-function](20-text-algorithms/0281-z-function/) — compute the Z-array of "aaaa" (excluding z[0]) and print `3 2 1`
 
 ## How to run
 
