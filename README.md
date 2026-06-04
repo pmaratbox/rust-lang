@@ -296,6 +296,7 @@ macOS via Homebrew (alternative):
 - [0239-fraction-reduce](17-numerics/0239-fraction-reduce/) — reduce the fraction 6/8 to lowest terms `3/4`
 - [0240-complex-multiply](17-numerics/0240-complex-multiply/) — multiply the complex numbers (1+2i) and (3+4i), printing the real and imaginary parts `-5 10`
 - [0241-matrix-determinant](17-numerics/0241-matrix-determinant/) — compute the determinant of [[1,2],[3,4]], printing `-2`
+- [0242-matrix-vector-mult](17-numerics/0242-matrix-vector-mult/) — multiply [[1,2],[3,4]] by the vector [5,6], printing `17 39`
 
 ## How to run
 
