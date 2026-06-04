@@ -386,6 +386,7 @@ macOS via Homebrew (alternative):
 - [0317-heap-sort](23-trees-heaps/0317-heap-sort/) — heap-sort [5,3,8,1,4] ascending, printing `1 3 4 5 8`
 - [0318-kth-largest](23-trees-heaps/0318-kth-largest/) — find the 2nd largest element of [3,2,1,5,6,4] using a heap, printing `5`
 - [0319-segment-tree-sum](23-trees-heaps/0319-segment-tree-sum/) — build a segment tree over [1,2,3,4,5] and query the sum of indices 1..3 (inclusive), printing `9`
+- [0320-fenwick-tree](23-trees-heaps/0320-fenwick-tree/) — build a Fenwick (BIT) tree over [1,2,3,4,5] and query the prefix sum of the first 4 elements, printing `10`
 
 ## How to run
 
