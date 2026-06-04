@@ -332,6 +332,9 @@ macOS via Homebrew (alternative):
 - [0271-string-match-dfa](19-state-machines/0271-string-match-dfa/) — build a DFA for the pattern "ab" and report the first match index in "aab", printing `1`
 - [0272-glob-star-match](19-state-machines/0272-glob-star-match/) — match the glob "a*b" (* = any run) against "aaab" (yes) and "aac" (no), printing `yes no`
 
+### String Algorithms
+- [0273-kmp-search](20-text-algorithms/0273-kmp-search/) — use Knuth-Morris-Pratt to find all start indices of "ab" in "ababab", printing `0 2 4`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
