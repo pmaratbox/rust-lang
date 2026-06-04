@@ -306,6 +306,7 @@ macOS via Homebrew (alternative):
 - [0392-day-of-year](13-datetime/0392-day-of-year/) — compute the day-of-year of 2000-03-01 (a leap year), printing `61`
 - [0393-weekday-after-days](13-datetime/0393-weekday-after-days/) — given 2000-01-01 is a Saturday, compute the weekday 3 days later, printing `Tuesday`
 - [0394-time-add-minutes](13-datetime/0394-time-add-minutes/) — add 90 minutes to 10:45 and print the resulting 24-hour time `12:15`
+- [0395-days-in-month](13-datetime/0395-days-in-month/) — print the number of days in February 2000 (29) and February 2001 (28) as `29 28`
 
 ### Tooling & Meta
 - [0131-assertions](14-tooling/0131-assertions/) — assert several expected equalities (all true) and print `all passed`
