@@ -131,6 +131,7 @@ macOS via Homebrew (alternative):
 - [0087-invert-map](06-collections/0087-invert-map/) — swap keys and values → 1:a 2:b 3:c
 - [0163-take-while](06-collections/0163-take-while/) — from [1,2,3,4,1] take elements while they are < 3, printing `1 2`
 - [0164-map-merge](06-collections/0164-map-merge/) — merge {a:1,b:2} and {b:3,c:4} with the right map winning on conflicts, printing `a:1 b:3 c:4`
+- [0165-all-any](06-collections/0165-all-any/) — for [2,4,6] report whether all are even (yes) and whether any are odd (no), printing `yes no`
 
 ### Data Structures
 - [0050-stacks](07-data-structures/0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
