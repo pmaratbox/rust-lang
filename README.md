@@ -49,6 +49,7 @@ macOS via Homebrew (alternative):
 - [0043-function-composition](02-functions/0043-function-composition/) — compose inc ∘ twice and apply to 3
 - [0096-mutual-recursion](02-functions/0096-mutual-recursion/) — isEven/isOdd call each other → even / odd
 - [0098-memoization](02-functions/0098-memoization/) — memoized fibonacci(10) → 55
+- [0139-recursive-power](02-functions/0139-recursive-power/) — compute 2 raised to the 10th power recursively and print `1024`
 
 ### Types & Data Modeling
 - [0010-structs](03-types/0010-structs/) — define a Person type with name and age, print its fields
