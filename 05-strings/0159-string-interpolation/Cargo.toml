@@ -1,0 +1,8 @@
+[package]
+name = "interpolation"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "interpolation"
+path = "src/main.rs"
