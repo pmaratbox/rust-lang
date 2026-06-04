@@ -394,6 +394,7 @@ macOS via Homebrew (alternative):
 - [0323-maybe-monad](24-functional-advanced/0323-maybe-monad/) — chain Maybe operations: Some(2) then +3 then *2 gives 10, and a None chain yields the fallback, printing `10 none`
 - [0324-either-monad](24-functional-advanced/0324-either-monad/) — chain Either computations: a successful divide chain yields 2, and a divide-by-zero yields an error, printing `2 err`
 - [0325-point-free](24-functional-advanced/0325-point-free/) — express "sum of squares" point-free (compose map-square with sum) and apply it to [1,2,3], printing `14`
+- [0326-monoid-fold](24-functional-advanced/0326-monoid-fold/) — fold lists under two monoids: string concat ["a","b","c"]->"abc" and integer sum [1,2,3]->6, printing `abc 6`
 
 ## How to run
 
