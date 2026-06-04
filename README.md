@@ -385,6 +385,7 @@ macOS via Homebrew (alternative):
 - [0316-max-heap-pop](23-trees-heaps/0316-max-heap-pop/) — build a max-heap from [3,1,4,1,5], pop the top three values, printing `5 4 3`
 - [0317-heap-sort](23-trees-heaps/0317-heap-sort/) — heap-sort [5,3,8,1,4] ascending, printing `1 3 4 5 8`
 - [0318-kth-largest](23-trees-heaps/0318-kth-largest/) — find the 2nd largest element of [3,2,1,5,6,4] using a heap, printing `5`
+- [0319-segment-tree-sum](23-trees-heaps/0319-segment-tree-sum/) — build a segment tree over [1,2,3,4,5] and query the sum of indices 1..3 (inclusive), printing `9`
 
 ## How to run
 
