@@ -180,6 +180,7 @@ macOS via Homebrew (alternative):
 
 ### Tooling & Meta
 - [0131-assertions](14-tooling/0131-assertions/) — assert several expected equalities (all true) and print `all passed`
+- [0132-mini-test-runner](14-tooling/0132-mini-test-runner/) — run three named test functions that all pass and report `3 passed, 0 failed`
 
 ## How to run
 
