@@ -1,0 +1,8 @@
+[package]
+name = "powerset"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "powerset"
+path = "src/main.rs"
