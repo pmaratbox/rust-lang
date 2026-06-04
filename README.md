@@ -36,6 +36,7 @@ macOS via Homebrew (alternative):
 - [0134-fizzbuzz](01-fundamentals/0134-fizzbuzz/) — print 1..15, replacing multiples of 3 with Fizz, of 5 with Buzz, and of both with FizzBuzz, one per line
 - [0135-clamp](01-fundamentals/0135-clamp/) — clamp 15 and -3 into the range [0, 10], printing `10 0`
 - [0136-sign-function](01-fundamentals/0136-sign-function/) — print the sign (-1, 0, or 1) of -5, 0, and 5: `-1 0 1`
+- [0137-triangle-pattern](01-fundamentals/0137-triangle-pattern/) — print a left-aligned triangle of asterisks of height 3
 
 ### Functions & Recursion
 - [0006-functions](02-functions/0006-functions/) — define add(a, b), call it, print the result
