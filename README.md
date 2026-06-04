@@ -317,6 +317,7 @@ macOS via Homebrew (alternative):
 - [0258-count-trailing-zeros](18-bit-manipulation/0258-count-trailing-zeros/) — count the trailing zero bits of 8 (1000), printing `3`
 - [0259-bitmask-subsets](18-bit-manipulation/0259-bitmask-subsets/) — enumerate all submasks of the mask 5 (101) in descending order `5 4 1 0`
 - [0260-pack-unpack-bits](18-bit-manipulation/0260-pack-unpack-bits/) — pack r=1,g=2,b=3 into one integer (8 bits each) then unpack them, printing `1 2 3`
+- [0261-rotate-left](18-bit-manipulation/0261-rotate-left/) — rotate the 8-bit value 1 left by 1 (->2) and 128 left by 1 (->1), printing `2 1`
 
 ## How to run
 
