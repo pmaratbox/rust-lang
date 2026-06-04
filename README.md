@@ -66,6 +66,7 @@ macOS via Homebrew (alternative):
 - [0047-immutable-update-copy-with](03-types/0047-immutable-update-copy-with/) — copy a record changing one field: (1,2) → (9,2)
 - [0097-enums-with-associated-values](03-types/0097-enums-with-associated-values/) — tagged shapes → 6 / 16
 - [0143-type-alias](03-types/0143-type-alias/) — define a semantic alias for an integer type (e.g. Meters), assign 5, and print `distance: 5`
+- [0144-flags-enum](03-types/0144-flags-enum/) — combine bit flags READ(1) and WRITE(2) into 3, check that WRITE is set, and print `3 yes`
 
 ### OOP & Polymorphism
 - [0015-interfaces](04-oop/0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically
