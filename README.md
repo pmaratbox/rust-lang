@@ -82,6 +82,7 @@ macOS via Homebrew (alternative):
 - [0149-encapsulation](04-oop/0149-encapsulation/) — keep an account balance private, deposit 50 onto an initial 100 through a method, and print `150`
 - [0150-builder-pattern](04-oop/0150-builder-pattern/) — use a fluent builder to construct a Pizza of size M with cheese, and print `Pizza(M, cheese)`
 - [0151-singleton](04-oop/0151-singleton/) — obtain a singleton instance twice and confirm both references are the same object, printing `same: yes`
+- [0152-tostring-override](04-oop/0152-tostring-override/) — override the string conversion of a Point(1,2) so it prints `Point(1, 2)`
 
 ### Strings & Text
 - [0008-strings](05-strings/0008-strings/) — greet, uppercase, and print the length of a string
