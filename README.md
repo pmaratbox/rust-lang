@@ -164,6 +164,7 @@ macOS via Homebrew (alternative):
 
 ### I/O & Serialization
 - [0119-read-file-lines](12-io-serialization/0119-read-file-lines/) — write three lines to a file, read them back, and print `lines: 3`
+- [0120-append-to-file](12-io-serialization/0120-append-to-file/) — write "a" to a file, append "b", then read both lines back and print `a b`
 
 ## How to run
 

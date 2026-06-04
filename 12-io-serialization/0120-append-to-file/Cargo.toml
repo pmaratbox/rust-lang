@@ -1,0 +1,8 @@
+[package]
+name = "tofile"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "tofile"
+path = "src/main.rs"
