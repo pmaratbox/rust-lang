@@ -285,6 +285,7 @@ macOS via Homebrew (alternative):
 - [0230-json-array-sum](16-parsing/0230-json-array-sum/) — parse the JSON array text "[1,2,3]" and print the sum of its elements `6`
 - [0231-template-substitute](16-parsing/0231-template-substitute/) — substitute the variable in the template "hi {name}" with name="Ada", printing `hi Ada`
 - [0232-wc-counts](16-parsing/0232-wc-counts/) — for the text "a b\\nc" report words, lines, and characters, printing `3 2 5`
+- [0233-expression-ast](16-parsing/0233-expression-ast/) — build an AST for "1+2*3" and evaluate it to `7`
 
 ## How to run
 
