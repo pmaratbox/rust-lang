@@ -1,0 +1,8 @@
+[package]
+name = "floydwarshall"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "floydwarshall"
+path = "src/main.rs"
