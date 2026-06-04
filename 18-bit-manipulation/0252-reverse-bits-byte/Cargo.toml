@@ -1,0 +1,8 @@
+[package]
+name = "reversebitsbyte"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "reversebitsbyte"
+path = "src/main.rs"
