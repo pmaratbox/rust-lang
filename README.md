@@ -181,6 +181,7 @@ macOS via Homebrew (alternative):
 - [0185-collatz-steps](08-algorithms/0185-collatz-steps/) — count Collatz steps to reach 1 starting from 6 and print `8`
 - [0186-reverse-integer](08-algorithms/0186-reverse-integer/) — reverse the digits of 1234 and print `4321`
 - [0187-count-set-bits](08-algorithms/0187-count-set-bits/) — count the set bits (popcount) of 13 and print `3`
+- [0188-kadane-max-subarray](08-algorithms/0188-kadane-max-subarray/) — find the maximum subarray sum of [-2,1,-3,4,-1,2,1,-5,4] with Kadane and print `6`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
