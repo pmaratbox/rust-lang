@@ -381,6 +381,7 @@ macOS via Homebrew (alternative):
 - [0312-tree-height](23-trees-heaps/0312-tree-height/) — compute the height (in nodes) of the BST built from 5,3,8,1,4, printing `3`
 - [0313-level-order-traversal](23-trees-heaps/0313-level-order-traversal/) — print the breadth-first (level-order) traversal of the BST built from 5,3,8,1,4 `5 3 8 1 4`
 - [0314-preorder-iterative](23-trees-heaps/0314-preorder-iterative/) — print the iterative (stack-based) preorder traversal of the BST built from 5,3,8,1,4 `5 3 1 4 8`
+- [0315-tree-diameter](23-trees-heaps/0315-tree-diameter/) — compute the diameter (longest path in edges) of a tree where root has children A and B, and A has children C and D, printing `3`
 
 ## How to run
 

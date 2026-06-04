@@ -1,0 +1,8 @@
+[package]
+name = "treediameter"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "treediameter"
+path = "src/main.rs"
