@@ -282,6 +282,7 @@ macOS via Homebrew (alternative):
 - [0227-int-to-roman](16-parsing/0227-int-to-roman/) — format the integer 14 as the Roman numeral `XIV`
 - [0228-csv-quoted-parse](16-parsing/0228-csv-quoted-parse/) — parse the CSV row `a,"b,c",d`, respecting the quoted comma, into three fields joined by pipes `a|b,c|d`
 - [0229-ini-parse](16-parsing/0229-ini-parse/) — parse the INI text with section [s] and key k=v, printing the flattened entry `s.k=v`
+- [0230-json-array-sum](16-parsing/0230-json-array-sum/) — parse the JSON array text "[1,2,3]" and print the sum of its elements `6`
 
 ## How to run
 
