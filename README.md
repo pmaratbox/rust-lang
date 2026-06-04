@@ -303,6 +303,7 @@ macOS via Homebrew (alternative):
 - [0128-days-between-dates](13-datetime/0128-days-between-dates/) — compute the number of days from 2000-01-01 to 2000-12-31 and print `365`
 - [0129-add-days](13-datetime/0129-add-days/) — add 40 days to 2000-01-01 and print the result as `2000-02-10`
 - [0130-format-iso-date](13-datetime/0130-format-iso-date/) — format the date y=2026, m=6, d=4 as a zero-padded ISO string `2026-06-04`
+- [0392-day-of-year](13-datetime/0392-day-of-year/) — compute the day-of-year of 2000-03-01 (a leap year), printing `61`
 
 ### Tooling & Meta
 - [0131-assertions](14-tooling/0131-assertions/) — assert several expected equalities (all true) and print `all passed`
