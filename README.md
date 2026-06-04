@@ -185,6 +185,7 @@ macOS via Homebrew (alternative):
 - [0189-permutations](08-algorithms/0189-permutations/) — generate all permutations of [1,2,3] in lexicographic order, one per line space-separated
 - [0190-subsets-powerset](08-algorithms/0190-subsets-powerset/) — generate the power set of [1,2,3] in bitmask order 0..7 (empty printed as `{}`), one subset per line space-separated
 - [0191-pascal-triangle](08-algorithms/0191-pascal-triangle/) — print the first 4 rows of Pascal’s triangle, each row space-separated
+- [0192-majority-element](08-algorithms/0192-majority-element/) — find the majority element of [2,2,1,2,3,2] using Boyer-Moore voting and print `2`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
