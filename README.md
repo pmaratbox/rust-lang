@@ -51,6 +51,7 @@ macOS via Homebrew (alternative):
 - [0098-memoization](02-functions/0098-memoization/) — memoized fibonacci(10) → 55
 - [0139-recursive-power](02-functions/0139-recursive-power/) — compute 2 raised to the 10th power recursively and print `1024`
 - [0140-tower-of-hanoi](02-functions/0140-tower-of-hanoi/) — count the moves needed to solve Tower of Hanoi for 3 disks recursively and print `7`
+- [0141-ackermann](02-functions/0141-ackermann/) — compute the Ackermann function A(2,3) recursively and print `9`
 
 ### Types & Data Modeling
 - [0010-structs](03-types/0010-structs/) — define a Person type with name and age, print its fields
