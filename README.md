@@ -147,6 +147,7 @@ macOS via Homebrew (alternative):
 - [0171-doubly-linked-list](07-data-structures/0171-doubly-linked-list/) — build a doubly linked list 1<->2<->3, traverse forward then backward, printing `1 2 3` then `3 2 1` on two lines
 - [0172-ring-buffer](07-data-structures/0172-ring-buffer/) — push 1,2,3,4,5 into a fixed capacity-3 ring buffer (overwriting oldest) and print the final contents `3 4 5`
 - [0173-trie](07-data-structures/0173-trie/) — insert "cat" and "car" into a trie, then search "car" (yes) and "can" (no), printing `yes no`
+- [0174-graph-adjacency-list](07-data-structures/0174-graph-adjacency-list/) — build an undirected graph with adjacency 0:[1,2] 1:[0,3] 2:[0,3] 3:[1,2] and print the neighbors of node 0: `1 2`
 
 ### Algorithms & Math
 - [0024-sorting-and-comparators](08-algorithms/0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator

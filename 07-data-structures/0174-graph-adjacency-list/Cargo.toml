@@ -1,0 +1,8 @@
+[package]
+name = "adjacencylist"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "adjacencylist"
+path = "src/main.rs"
