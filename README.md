@@ -287,6 +287,7 @@ macOS via Homebrew (alternative):
 - [0232-wc-counts](16-parsing/0232-wc-counts/) — for the text "a b\\nc" report words, lines, and characters, printing `3 2 5`
 - [0233-expression-ast](16-parsing/0233-expression-ast/) — build an AST for "1+2*3" and evaluate it to `7`
 - [0234-number-base-parse](16-parsing/0234-number-base-parse/) — parse "ff" as hexadecimal (255) and "101" as binary (5), printing `255 5`
+- [0235-brainfuck-cell](16-parsing/0235-brainfuck-cell/) — interpret the Brainfuck program "+++" on a single zeroed cell and print the cell value `3`
 
 ## How to run
 
