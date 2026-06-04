@@ -1,0 +1,8 @@
+[package]
+name = "hexdump"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "hexdump"
+path = "src/main.rs"
