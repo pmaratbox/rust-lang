@@ -68,6 +68,7 @@ macOS via Homebrew (alternative):
 - [0143-type-alias](03-types/0143-type-alias/) — define a semantic alias for an integer type (e.g. Meters), assign 5, and print `distance: 5`
 - [0144-flags-enum](03-types/0144-flags-enum/) — combine bit flags READ(1) and WRITE(2) into 3, check that WRITE is set, and print `3 yes`
 - [0145-nested-struct](03-types/0145-nested-struct/) — model a person whose address is a nested struct, and print the city `London`
+- [0146-numeric-conversions](03-types/0146-numeric-conversions/) — truncate 3.9 to the int 3 and widen the int 3 to the float 3.0, printing `3 3.0`
 
 ### OOP & Polymorphism
 - [0015-interfaces](04-oop/0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically
