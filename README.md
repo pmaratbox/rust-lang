@@ -252,6 +252,7 @@ macOS via Homebrew (alternative):
 
 ### Design Patterns
 - [0201-factory-method](15-design-patterns/0201-factory-method/) — use a factory method to create shapes by name and print their kinds `circle square`
+- [0202-abstract-factory](15-design-patterns/0202-abstract-factory/) — use a "dark" theme abstract factory to build a button and a checkbox, printing `dark-button dark-checkbox`
 
 ## How to run
 
