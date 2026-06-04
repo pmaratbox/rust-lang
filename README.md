@@ -281,6 +281,7 @@ macOS via Homebrew (alternative):
 - [0383-partition-runs](11-functional/0383-partition-runs/) — partition [1,1,2,3,3,3] into runs of equal adjacent elements, printing `1 1|2|3 3 3`
 - [0384-scan-product](11-functional/0384-scan-product/) — produce the running products of [1,2,3,4], printing `1 2 6 24`
 - [0385-unfold](11-functional/0385-unfold/) — unfold a sequence by doubling from 1, taking five terms, printing `1 2 4 8 16`
+- [0386-iterate-take](11-functional/0386-iterate-take/) — iterate f(x)=x*3 from 1 and take the first four values, printing `1 3 9 27`
 
 ### I/O & Serialization
 - [0119-read-file-lines](12-io-serialization/0119-read-file-lines/) — write three lines to a file, read them back, and print `lines: 3`
