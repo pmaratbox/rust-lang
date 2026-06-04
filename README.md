@@ -184,6 +184,7 @@ macOS via Homebrew (alternative):
 - [0179-union-find](07-data-structures/0179-union-find/) — union (0,1) and (2,3), then query connectivity of (0,1)=yes and (0,2)=no, printing `yes no`
 - [0362-lru-cache](07-data-structures/0362-lru-cache/) — with a capacity-2 LRU cache: put(1,1),put(2,2),get(1),put(3,3) evicts key 2; then get(1)=1 and get(2)=-1, printing `1 -1`
 - [0363-circular-queue](07-data-structures/0363-circular-queue/) — in a capacity-3 circular queue enqueue 1,2,3, dequeue once, enqueue 4, then print the contents `2 3 4`
+- [0364-deque](07-data-structures/0364-deque/) — using a deque, push 1 and 2 to the back and 0 to the front, then print front-to-back `0 1 2`
 
 ### Algorithms & Math
 - [0024-sorting-and-comparators](08-algorithms/0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator
