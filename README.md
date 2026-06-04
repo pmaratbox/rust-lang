@@ -101,6 +101,7 @@ macOS via Homebrew (alternative):
 - [0079-character-codes](05-strings/0079-character-codes/) — code of A and char 66 → 65 B
 - [0088-string-builder](05-strings/0088-string-builder/) — build a string incrementally → 1-2-3
 - [0155-reverse-words](05-strings/0155-reverse-words/) — reverse the order of words in "hello world", printing `world hello`
+- [0156-count-substring](05-strings/0156-count-substring/) — count non-overlapping occurrences of "ab" in "ababab", printing `3`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
