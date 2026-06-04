@@ -376,6 +376,7 @@ macOS via Homebrew (alternative):
 
 ### Trees & Heaps
 - [0309-validate-bst](23-trees-heaps/0309-validate-bst/) — check whether two trees are valid BSTs: a correct one (yes) and one with an out-of-place node (no), printing `yes no`
+- [0310-bst-search](23-trees-heaps/0310-bst-search/) — insert 5,3,8,1,4 into a BST, then search for 4 (yes) and 6 (no), printing `yes no`
 
 ## How to run
 

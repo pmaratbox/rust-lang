@@ -1,0 +1,8 @@
+[package]
+name = "bstsearch"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "bstsearch"
+path = "src/main.rs"
