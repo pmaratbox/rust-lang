@@ -261,6 +261,7 @@ macOS via Homebrew (alternative):
 - [0208-proxy](15-design-patterns/0208-proxy/) — use a lazy virtual proxy that loads the real subject only on first access, printing `loaded`
 - [0209-observer](15-design-patterns/0209-observer/) — notify two observers of a new value 5; each prints its id and the value on its own line
 - [0210-strategy](15-design-patterns/0210-strategy/) — select an "add" then a "mul" strategy and apply each to (3,4), printing `7 12`
+- [0211-command](15-design-patterns/0211-command/) — execute an AddCommand that takes a counter from 0 to 5, then undo it back to 0, printing `5 0`
 
 ## How to run
 
