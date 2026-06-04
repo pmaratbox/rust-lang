@@ -374,6 +374,9 @@ macOS via Homebrew (alternative):
 - [0307-astar-grid](22-graphs/0307-astar-grid/) — find the shortest path length from (0,0) to (2,2) on an obstacle-free 3x3 grid (4-directional) with the Manhattan heuristic, printing `4`
 - [0308-scc-count](22-graphs/0308-scc-count/) — count the strongly connected components of 0->1,1->2,2->0,2->3, printing `2`
 
+### Trees & Heaps
+- [0309-validate-bst](23-trees-heaps/0309-validate-bst/) — check whether two trees are valid BSTs: a correct one (yes) and one with an out-of-place node (no), printing `yes no`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
