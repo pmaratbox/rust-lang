@@ -186,6 +186,7 @@ macOS via Homebrew (alternative):
 - [0190-subsets-powerset](08-algorithms/0190-subsets-powerset/) — generate the power set of [1,2,3] in bitmask order 0..7 (empty printed as `{}`), one subset per line space-separated
 - [0191-pascal-triangle](08-algorithms/0191-pascal-triangle/) — print the first 4 rows of Pascal’s triangle, each row space-separated
 - [0192-majority-element](08-algorithms/0192-majority-element/) — find the majority element of [2,2,1,2,3,2] using Boyer-Moore voting and print `2`
+- [0193-happy-number](08-algorithms/0193-happy-number/) — determine whether 19 is a happy number and print `yes`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
