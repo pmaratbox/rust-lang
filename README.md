@@ -349,6 +349,7 @@ macOS via Homebrew (alternative):
 ### Dynamic Programming
 - [0285-coin-change-min](21-dynamic-programming/0285-coin-change-min/) — find the fewest coins from {1,2,5} summing to 11, printing `3`
 - [0286-coin-change-count](21-dynamic-programming/0286-coin-change-count/) — count the ways to make 5 from {1,2,5}, printing `4`
+- [0287-knapsack-01](21-dynamic-programming/0287-knapsack-01/) — maximize value within capacity 5 for items (w,v)=(2,3),(3,4),(4,5), printing `7`
 
 ## How to run
 

@@ -1,0 +1,8 @@
+[package]
+name = "knapsack01"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "knapsack01"
+path = "src/main.rs"
