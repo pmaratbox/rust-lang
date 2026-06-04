@@ -343,6 +343,7 @@ macOS via Homebrew (alternative):
 - [0280-group-anagrams](20-text-algorithms/0280-group-anagrams/) — group ["eat","tea","tan","ate","nat"] into anagram classes and print the number of groups `2`
 - [0281-z-function](20-text-algorithms/0281-z-function/) — compute the Z-array of "aaaa" (excluding z[0]) and print `3 2 1`
 - [0282-boyer-moore-search](20-text-algorithms/0282-boyer-moore-search/) — use the bad-character rule to find "abc" in "zzabc", printing the index `2`
+- [0283-rabin-karp](20-text-algorithms/0283-rabin-karp/) — use rolling-hash Rabin-Karp to find all start indices of "ab" in "xabxab", printing `1 4`
 
 ## How to run
 
