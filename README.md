@@ -352,6 +352,7 @@ macOS via Homebrew (alternative):
 - [0287-knapsack-01](21-dynamic-programming/0287-knapsack-01/) — maximize value within capacity 5 for items (w,v)=(2,3),(3,4),(4,5), printing `7`
 - [0288-lis-length](21-dynamic-programming/0288-lis-length/) — compute the LIS length of [10,9,2,5,3,7,101,18], printing `4`
 - [0289-climbing-stairs](21-dynamic-programming/0289-climbing-stairs/) — count the ways to climb 5 stairs taking 1 or 2 steps, printing `8`
+- [0290-unique-paths](21-dynamic-programming/0290-unique-paths/) — count lattice paths from the top-left to bottom-right of a 3x3 grid moving right/down, printing `6`
 
 ## How to run
 
