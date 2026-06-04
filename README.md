@@ -250,6 +250,9 @@ macOS via Homebrew (alternative):
 - [0132-mini-test-runner](14-tooling/0132-mini-test-runner/) — run three named test functions that all pass and report `3 passed, 0 failed`
 - [0133-debug-repr](14-tooling/0133-debug-repr/) — produce a debug/structured representation of a Point(1,2) and print `Point(x=1, y=2)`
 
+### Design Patterns
+- [0201-factory-method](15-design-patterns/0201-factory-method/) — use a factory method to create shapes by name and print their kinds `circle square`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
