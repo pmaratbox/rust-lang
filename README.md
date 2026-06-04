@@ -286,6 +286,7 @@ macOS via Homebrew (alternative):
 - [0231-template-substitute](16-parsing/0231-template-substitute/) — substitute the variable in the template "hi {name}" with name="Ada", printing `hi Ada`
 - [0232-wc-counts](16-parsing/0232-wc-counts/) — for the text "a b\\nc" report words, lines, and characters, printing `3 2 5`
 - [0233-expression-ast](16-parsing/0233-expression-ast/) — build an AST for "1+2*3" and evaluate it to `7`
+- [0234-number-base-parse](16-parsing/0234-number-base-parse/) — parse "ff" as hexadecimal (255) and "101" as binary (5), printing `255 5`
 
 ## How to run
 
