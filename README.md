@@ -149,6 +149,7 @@ macOS via Homebrew (alternative):
 - [0173-trie](07-data-structures/0173-trie/) — insert "cat" and "car" into a trie, then search "car" (yes) and "can" (no), printing `yes no`
 - [0174-graph-adjacency-list](07-data-structures/0174-graph-adjacency-list/) — build an undirected graph with adjacency 0:[1,2] 1:[0,3] 2:[0,3] 3:[1,2] and print the neighbors of node 0: `1 2`
 - [0175-graph-bfs](07-data-structures/0175-graph-bfs/) — breadth-first traverse from node 0 of the graph 0:[1,2] 1:[0,3] 2:[0,3] 3:[1,2], printing visit order `0 1 2 3`
+- [0176-graph-dfs](07-data-structures/0176-graph-dfs/) — depth-first traverse from node 0 of the graph 0:[1,2] 1:[0,3] 2:[0,3] 3:[1,2], printing visit order `0 1 3 2`
 
 ### Algorithms & Math
 - [0024-sorting-and-comparators](08-algorithms/0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator

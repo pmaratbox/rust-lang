@@ -1,0 +1,8 @@
+[package]
+name = "dfs"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "dfs"
+path = "src/main.rs"
