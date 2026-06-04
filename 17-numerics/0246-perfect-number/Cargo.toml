@@ -1,0 +1,8 @@
+[package]
+name = "perfectnumber"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "perfectnumber"
+path = "src/main.rs"

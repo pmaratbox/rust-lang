@@ -300,6 +300,7 @@ macOS via Homebrew (alternative):
 - [0243-newton-sqrt](17-numerics/0243-newton-sqrt/) — approximate sqrt(2) with Newton iteration and print it to 4 decimals `1.4142`
 - [0244-gcd-extended](17-numerics/0244-gcd-extended/) — compute extended gcd(30,12) returning g and Bezout coefficients, printing `6 1 -2` (since 30*1+12*(-2)=6)
 - [0245-modular-exponentiation](17-numerics/0245-modular-exponentiation/) — compute 3^13 mod 7 by fast modular exponentiation, printing `3`
+- [0246-perfect-number](17-numerics/0246-perfect-number/) — test whether 6 (yes) and 8 (no) are perfect numbers, printing `yes no`
 
 ## How to run
 
