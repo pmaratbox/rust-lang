@@ -379,6 +379,7 @@ macOS via Homebrew (alternative):
 - [0310-bst-search](23-trees-heaps/0310-bst-search/) — insert 5,3,8,1,4 into a BST, then search for 4 (yes) and 6 (no), printing `yes no`
 - [0311-bst-delete](23-trees-heaps/0311-bst-delete/) — insert 5,3,8,1,4 into a BST, delete 3, and print the in-order traversal `1 4 5 8`
 - [0312-tree-height](23-trees-heaps/0312-tree-height/) — compute the height (in nodes) of the BST built from 5,3,8,1,4, printing `3`
+- [0313-level-order-traversal](23-trees-heaps/0313-level-order-traversal/) — print the breadth-first (level-order) traversal of the BST built from 5,3,8,1,4 `5 3 8 1 4`
 
 ## How to run
 

@@ -1,0 +1,8 @@
+[package]
+name = "levelordertraversal"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "levelordertraversal"
+path = "src/main.rs"
