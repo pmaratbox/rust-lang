@@ -354,6 +354,7 @@ macOS via Homebrew (alternative):
 - [0289-climbing-stairs](21-dynamic-programming/0289-climbing-stairs/) — count the ways to climb 5 stairs taking 1 or 2 steps, printing `8`
 - [0290-unique-paths](21-dynamic-programming/0290-unique-paths/) — count lattice paths from the top-left to bottom-right of a 3x3 grid moving right/down, printing `6`
 - [0291-min-path-sum](21-dynamic-programming/0291-min-path-sum/) — find the minimum path sum through [[1,3,1],[1,5,1],[4,2,1]] moving right/down, printing `7`
+- [0292-house-robber](21-dynamic-programming/0292-house-robber/) — maximize the sum of non-adjacent picks from [2,7,9,3,1], printing `12`
 
 ## How to run
 

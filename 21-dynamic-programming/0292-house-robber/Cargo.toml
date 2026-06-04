@@ -1,0 +1,8 @@
+[package]
+name = "houserobber"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "houserobber"
+path = "src/main.rs"
