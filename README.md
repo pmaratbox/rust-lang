@@ -265,6 +265,7 @@ macOS via Homebrew (alternative):
 - [0212-template-method](15-design-patterns/0212-template-method/) — run an algorithm skeleton whose middle step is overridden, printing `start work end` on one line
 - [0213-iterator-pattern](15-design-patterns/0213-iterator-pattern/) — implement a custom iterator over a range 1..3 and consume it, printing `1 2 3`
 - [0214-visitor](15-design-patterns/0214-visitor/) — use a visitor to sum the values of a small node tree with leaves 1, 2, 3, printing `6`
+- [0215-chain-of-responsibility](15-design-patterns/0215-chain-of-responsibility/) — pass a request of level 2 along a handler chain so the level-2 handler handles it, printing `handled by 2`
 
 ## How to run
 

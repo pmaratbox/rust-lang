@@ -1,0 +1,8 @@
+[package]
+name = "chainofresponsibility"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "chainofresponsibility"
+path = "src/main.rs"
