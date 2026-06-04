@@ -1,0 +1,8 @@
+[package]
+name = "taggedunioneval"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "taggedunioneval"
+path = "src/main.rs"

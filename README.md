@@ -80,6 +80,7 @@ macOS via Homebrew (alternative):
 - [0146-numeric-conversions](03-types/0146-numeric-conversions/) — truncate 3.9 to the int 3 and widen the int 3 to the float 3.0, printing `3 3.0`
 - [0147-deep-equality](03-types/0147-deep-equality/) — compare two nested structures with equal contents for structural equality and print `equal: yes`
 - [0148-parse-or-default](03-types/0148-parse-or-default/) — parse "42" to 42 and "x" (invalid) to a default 0, printing `42 0`
+- [0342-tagged-union-eval](03-types/0342-tagged-union-eval/) — model an expression tagged union Num | Add and evaluate Add(Num 1, Num 2), printing `3`
 
 ### OOP & Polymorphism
 - [0015-interfaces](04-oop/0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically
