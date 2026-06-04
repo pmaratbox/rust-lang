@@ -299,6 +299,7 @@ macOS via Homebrew (alternative):
 - [0242-matrix-vector-mult](17-numerics/0242-matrix-vector-mult/) — multiply [[1,2],[3,4]] by the vector [5,6], printing `17 39`
 - [0243-newton-sqrt](17-numerics/0243-newton-sqrt/) — approximate sqrt(2) with Newton iteration and print it to 4 decimals `1.4142`
 - [0244-gcd-extended](17-numerics/0244-gcd-extended/) — compute extended gcd(30,12) returning g and Bezout coefficients, printing `6 1 -2` (since 30*1+12*(-2)=6)
+- [0245-modular-exponentiation](17-numerics/0245-modular-exponentiation/) — compute 3^13 mod 7 by fast modular exponentiation, printing `3`
 
 ## How to run
 
