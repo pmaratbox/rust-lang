@@ -167,6 +167,7 @@ macOS via Homebrew (alternative):
 - [0120-append-to-file](12-io-serialization/0120-append-to-file/) — write "a" to a file, append "b", then read both lines back and print `a b`
 - [0121-csv-parse](12-io-serialization/0121-csv-parse/) — parse the two CSV rows `alice,30` and `bob,25` into name=value pairs and print `alice=30 bob=25`
 - [0122-utf8-bytes](12-io-serialization/0122-utf8-bytes/) — print the UTF-8 byte values of "Hi": `72 105`
+- [0123-base64-encode](12-io-serialization/0123-base64-encode/) — base64-encode the bytes of "hi" to get `aGk=`
 
 ## How to run
 
