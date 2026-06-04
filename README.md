@@ -142,6 +142,7 @@ macOS via Homebrew (alternative):
 
 ### Concurrency & Parallelism
 - [0101-threads-spawn-join](10-concurrency/0101-threads-spawn-join/) — spawn 3 worker threads, wait for all of them to finish, then print `done: 3`
+- [0102-thread-return-values](10-concurrency/0102-thread-return-values/) — run two threads that compute the squares of 3 and 4, join them, and print the sum of their results `25`
 
 ## How to run
 
