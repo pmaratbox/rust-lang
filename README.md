@@ -199,6 +199,7 @@ macOS via Homebrew (alternative):
 - [0042-environment-variables](09-systems/0042-environment-variables/) — read an env var with a fallback default
 - [0054-resource-cleanup-and-defer](09-systems/0054-resource-cleanup-and-defer/) — acquire and auto-release a resource → open / use / close
 - [0066-multiple-assignment-and-destructuring](09-systems/0066-multiple-assignment-and-destructuring/) — swap and unpack → 2 1 / 3 4
+- [0194-try-catch-finally](09-systems/0194-try-catch-finally/) — throw and catch an error, printing `caught`, and always run a finally block printing `cleanup`, on two lines
 
 ### Concurrency & Parallelism
 - [0101-threads-spawn-join](10-concurrency/0101-threads-spawn-join/) — spawn 3 worker threads, wait for all of them to finish, then print `done: 3`
