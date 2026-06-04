@@ -322,6 +322,7 @@ macOS via Homebrew (alternative):
 
 ### State Machines & Automata
 - [0263-traffic-light](19-state-machines/0263-traffic-light/) — starting at red, advance a traffic light through four transitions (red->green->yellow->red->green), printing each new state `green yellow red green`
+- [0264-turnstile-fsm](19-state-machines/0264-turnstile-fsm/) — drive a turnstile (locked/unlocked) with events coin, push, push and print the resulting states `unlocked locked locked`
 
 ## How to run
 
