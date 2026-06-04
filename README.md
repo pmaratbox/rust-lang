@@ -255,6 +255,7 @@ macOS via Homebrew (alternative):
 - [0202-abstract-factory](15-design-patterns/0202-abstract-factory/) — use a "dark" theme abstract factory to build a button and a checkbox, printing `dark-button dark-checkbox`
 - [0203-prototype](15-design-patterns/0203-prototype/) — clone a prototype object holding 1, mutate the clone to 2, and show the original is unchanged, printing `1 2`
 - [0204-adapter](15-design-patterns/0204-adapter/) — adapt a Celsius source (100) to a Fahrenheit interface, printing `212`
+- [0205-decorator](15-design-patterns/0205-decorator/) — decorate a base coffee (cost 2) with milk (+1) and sugar (+1), printing the total cost `4`
 
 ## How to run
 
