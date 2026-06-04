@@ -60,6 +60,7 @@ macOS via Homebrew (alternative):
 - [0142-countdown-recursion](02-functions/0142-countdown-recursion/) — recursively count down from 5 to 1, printing `5 4 3 2 1` on one line
 - [0338-min-max-return](02-functions/0338-min-max-return/) — return both the minimum and maximum of [4,1,7] from one function and print `1 7`
 - [0339-recursive-sum](02-functions/0339-recursive-sum/) — recursively sum the list [1,2,3,4], printing `10`
+- [0340-apply-twice](02-functions/0340-apply-twice/) — write applyTwice(f,x)=f(f(x)) and apply it with inc to 3, printing `5`
 
 ### Types & Data Modeling
 - [0010-structs](03-types/0010-structs/) — define a Person type with name and age, print its fields
