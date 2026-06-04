@@ -42,6 +42,7 @@ macOS via Homebrew (alternative):
 - [0334-count-digits](01-fundamentals/0334-count-digits/) — count the digits of 90210, printing `5`
 - [0335-factorial-iterative](01-fundamentals/0335-factorial-iterative/) — compute 5! iteratively, printing `120`
 - [0336-swap-values](01-fundamentals/0336-swap-values/) — swap a=1 and b=2 (without bitwise tricks) and print `2 1`
+- [0337-multiplication-table](01-fundamentals/0337-multiplication-table/) — print the 3x3 multiplication table, each row space-separated
 
 ### Functions & Recursion
 - [0006-functions](02-functions/0006-functions/) — define add(a, b), call it, print the result
