@@ -388,6 +388,9 @@ macOS via Homebrew (alternative):
 - [0319-segment-tree-sum](23-trees-heaps/0319-segment-tree-sum/) — build a segment tree over [1,2,3,4,5] and query the sum of indices 1..3 (inclusive), printing `9`
 - [0320-fenwick-tree](23-trees-heaps/0320-fenwick-tree/) — build a Fenwick (BIT) tree over [1,2,3,4,5] and query the prefix sum of the first 4 elements, printing `10`
 
+### Advanced Functional
+- [0321-lazy-take](24-functional-advanced/0321-lazy-take/) — build a lazy sequence of the natural numbers and take the first five, printing `1 2 3 4 5`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
