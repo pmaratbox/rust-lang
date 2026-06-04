@@ -355,6 +355,7 @@ macOS via Homebrew (alternative):
 - [0290-unique-paths](21-dynamic-programming/0290-unique-paths/) — count lattice paths from the top-left to bottom-right of a 3x3 grid moving right/down, printing `6`
 - [0291-min-path-sum](21-dynamic-programming/0291-min-path-sum/) — find the minimum path sum through [[1,3,1],[1,5,1],[4,2,1]] moving right/down, printing `7`
 - [0292-house-robber](21-dynamic-programming/0292-house-robber/) — maximize the sum of non-adjacent picks from [2,7,9,3,1], printing `12`
+- [0293-longest-palindromic-subseq](21-dynamic-programming/0293-longest-palindromic-subseq/) — compute the longest palindromic subsequence length of "bbbab", printing `4`
 
 ## How to run
 
