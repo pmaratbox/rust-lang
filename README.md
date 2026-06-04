@@ -390,6 +390,7 @@ macOS via Homebrew (alternative):
 
 ### Advanced Functional
 - [0321-lazy-take](24-functional-advanced/0321-lazy-take/) — build a lazy sequence of the natural numbers and take the first five, printing `1 2 3 4 5`
+- [0322-lazy-filter-take](24-functional-advanced/0322-lazy-filter-take/) — from a lazy stream of naturals, filter the even ones and take three, printing `2 4 6`
 
 ## How to run
 
