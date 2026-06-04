@@ -248,6 +248,7 @@ macOS via Homebrew (alternative):
 - [0200-precondition-assert](09-systems/0200-precondition-assert/) — check a precondition arg>0: for 5 print `ok`, and for -1 report the failure `error: must be positive`, on two lines
 - [0373-exception-hierarchy](09-systems/0373-exception-hierarchy/) — throw a specific error subtype and catch it through a base-type handler, printing `caught base`
 - [0374-error-codes](09-systems/0374-error-codes/) — map the numeric error code 2 to its message "not found" and print `not found`
+- [0375-retry-logic](09-systems/0375-retry-logic/) — retry an operation that fails on attempts 1 and 2 and succeeds on attempt 3, printing `ok after 3`
 
 ### Concurrency & Parallelism
 - [0101-threads-spawn-join](10-concurrency/0101-threads-spawn-join/) — spawn 3 worker threads, wait for all of them to finish, then print `done: 3`
