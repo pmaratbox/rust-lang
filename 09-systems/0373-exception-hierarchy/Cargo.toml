@@ -1,0 +1,8 @@
+[package]
+name = "exceptionhierarchy"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "exceptionhierarchy"
+path = "src/main.rs"
