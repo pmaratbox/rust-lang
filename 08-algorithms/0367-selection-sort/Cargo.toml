@@ -1,0 +1,8 @@
+[package]
+name = "selectionsort"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "selectionsort"
+path = "src/main.rs"
