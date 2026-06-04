@@ -250,6 +250,7 @@ macOS via Homebrew (alternative):
 - [0374-error-codes](09-systems/0374-error-codes/) — map the numeric error code 2 to its message "not found" and print `not found`
 - [0375-retry-logic](09-systems/0375-retry-logic/) — retry an operation that fails on attempts 1 and 2 and succeeds on attempt 3, printing `ok after 3`
 - [0376-feature-flag](09-systems/0376-feature-flag/) — branch on a boolean feature flag: on -> "enabled", off -> "disabled", printing `enabled disabled`
+- [0377-permission-bits](09-systems/0377-permission-bits/) — decode the Unix permission bits 0b101 into the rwx string `r-x`
 
 ### Concurrency & Parallelism
 - [0101-threads-spawn-join](10-concurrency/0101-threads-spawn-join/) — spawn 3 worker threads, wait for all of them to finish, then print `done: 3`
