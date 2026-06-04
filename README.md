@@ -226,6 +226,7 @@ macOS via Homebrew (alternative):
 - [0369-search-bounds](08-algorithms/0369-search-bounds/) — in the sorted array [1,3,5,5,7] find the lower bound (2) and upper bound (4) of 5, printing `2 4`
 - [0370-quickselect](08-algorithms/0370-quickselect/) — find the 3rd smallest element of [7,10,4,3,20,15] with quickselect, printing `7`
 - [0371-counting-sort](08-algorithms/0371-counting-sort/) — counting-sort [3,1,2,3,1] ascending, printing `1 1 2 3 3`
+- [0372-dutch-national-flag](08-algorithms/0372-dutch-national-flag/) — three-way partition [2,0,2,1,1,0] of values 0/1/2 in one pass, printing `0 0 1 1 2 2`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error

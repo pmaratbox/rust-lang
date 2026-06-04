@@ -1,0 +1,8 @@
+[package]
+name = "dutchnationalflag"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "dutchnationalflag"
+path = "src/main.rs"
