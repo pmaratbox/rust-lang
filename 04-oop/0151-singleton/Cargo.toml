@@ -1,0 +1,8 @@
+[package]
+name = "singleton"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "singleton"
+path = "src/main.rs"
