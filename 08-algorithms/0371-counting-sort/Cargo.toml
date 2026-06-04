@@ -1,0 +1,8 @@
+[package]
+name = "countingsort"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "countingsort"
+path = "src/main.rs"
