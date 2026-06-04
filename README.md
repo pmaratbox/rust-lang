@@ -158,6 +158,7 @@ macOS via Homebrew (alternative):
 - [0113-result-type](11-functional/0113-result-type/) — model success and failure with a Result type: safeDiv(10,2) prints `ok: 5` and safeDiv(1,0) prints `err: divide by zero`
 - [0114-zip-with](11-functional/0114-zip-with/) — combine [1,2,3] and [4,5,6] element-wise with addition, printing `5 7 9`
 - [0115-dispatch-table](11-functional/0115-dispatch-table/) — store functions in a map keyed by name, then apply "add" and "mul" to (3,4), printing `7 12`
+- [0116-function-pipeline](11-functional/0116-function-pipeline/) — compose inc, double, and negate into a left-to-right pipeline and apply it to 3: ((3+1)*2) negated = `-8`
 
 ## How to run
 
