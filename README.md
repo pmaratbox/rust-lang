@@ -314,6 +314,7 @@ macOS via Homebrew (alternative):
 - [0133-debug-repr](14-tooling/0133-debug-repr/) — produce a debug/structured representation of a Point(1,2) and print `Point(x=1, y=2)`
 - [0396-call-counter](14-tooling/0396-call-counter/) — wrap a function so each call increments a counter; after five calls print `calls: 5`
 - [0397-log-levels](14-tooling/0397-log-levels/) — with a threshold of WARN, log messages at INFO, WARN, and ERROR but only emit WARN and ERROR, on two lines
+- [0398-table-format](14-tooling/0398-table-format/) — format the rows (a,1),(bb,22) with the first column left-padded to the widest value, printing two aligned rows
 
 ### Design Patterns
 - [0201-factory-method](15-design-patterns/0201-factory-method/) — use a factory method to create shapes by name and print their kinds `circle square`
