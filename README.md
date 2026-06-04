@@ -267,6 +267,7 @@ macOS via Homebrew (alternative):
 - [0214-visitor](15-design-patterns/0214-visitor/) — use a visitor to sum the values of a small node tree with leaves 1, 2, 3, printing `6`
 - [0215-chain-of-responsibility](15-design-patterns/0215-chain-of-responsibility/) — pass a request of level 2 along a handler chain so the level-2 handler handles it, printing `handled by 2`
 - [0216-mediator](15-design-patterns/0216-mediator/) — have colleague A send "hi" through a mediator to colleague B, which prints `B got: hi`
+- [0217-memento](15-design-patterns/0217-memento/) — save state 1, change it to 2, then restore from the memento, printing current then restored `2 1`
 
 ## How to run
 
