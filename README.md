@@ -364,6 +364,7 @@ macOS via Homebrew (alternative):
 - [0297-dijkstra](22-graphs/0297-dijkstra/) — on the weighted digraph 0->1(4),0->2(1),2->1(2),1->3(1),2->3(5), print the shortest distances from node 0 `0 3 1 4`
 - [0298-bellman-ford](22-graphs/0298-bellman-ford/) — on the digraph with a negative edge 0->1(1),1->2(-2),0->2(4), print the shortest distances from node 0 `0 1 -1`
 - [0299-floyd-warshall](22-graphs/0299-floyd-warshall/) — run all-pairs shortest paths on 0->1(3),1->2(1),0->2(5) and print the distance from 0 to 2 `4`
+- [0300-topological-sort](22-graphs/0300-topological-sort/) — topologically sort the DAG 0->1,0->2,1->3,2->3 using the Kahn algorithm (smallest index first), printing `0 1 2 3`
 
 ## How to run
 
