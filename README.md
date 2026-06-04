@@ -400,6 +400,7 @@ macOS via Homebrew (alternative):
 - [0329-cps-factorial](24-functional-advanced/0329-cps-factorial/) — compute 5! in continuation-passing style, printing `120`
 - [0330-lens-get-set](24-functional-advanced/0330-lens-get-set/) — use a lens over the nested value {a:{b:1}} to get b (1) and to set b to 2, printing `1 2`
 - [0331-transducer-pipeline](24-functional-advanced/0331-transducer-pipeline/) — compose map(+1) with filter(even) and run it over [1,2,3,4], printing `2 4`
+- [0332-y-combinator](24-functional-advanced/0332-y-combinator/) — define factorial via a fixed-point combinator (no named self-recursion) and compute 5!, printing `120`
 
 ## How to run
 
