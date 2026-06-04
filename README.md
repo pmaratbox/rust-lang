@@ -351,6 +351,7 @@ macOS via Homebrew (alternative):
 - [0286-coin-change-count](21-dynamic-programming/0286-coin-change-count/) — count the ways to make 5 from {1,2,5}, printing `4`
 - [0287-knapsack-01](21-dynamic-programming/0287-knapsack-01/) — maximize value within capacity 5 for items (w,v)=(2,3),(3,4),(4,5), printing `7`
 - [0288-lis-length](21-dynamic-programming/0288-lis-length/) — compute the LIS length of [10,9,2,5,3,7,101,18], printing `4`
+- [0289-climbing-stairs](21-dynamic-programming/0289-climbing-stairs/) — count the ways to climb 5 stairs taking 1 or 2 steps, printing `8`
 
 ## How to run
 
