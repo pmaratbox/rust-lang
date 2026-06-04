@@ -257,6 +257,7 @@ macOS via Homebrew (alternative):
 - [0204-adapter](15-design-patterns/0204-adapter/) — adapt a Celsius source (100) to a Fahrenheit interface, printing `212`
 - [0205-decorator](15-design-patterns/0205-decorator/) — decorate a base coffee (cost 2) with milk (+1) and sugar (+1), printing the total cost `4`
 - [0206-facade](15-design-patterns/0206-facade/) — expose a single facade call that starts three subsystems and reports `ready`
+- [0207-composite](15-design-patterns/0207-composite/) — sum a composite tree of leaf values 1, 2, 3 through a uniform size() interface, printing `6`
 
 ## How to run
 
