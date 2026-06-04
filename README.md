@@ -316,6 +316,7 @@ macOS via Homebrew (alternative):
 - [0257-gray-code](18-bit-manipulation/0257-gray-code/) — print the Gray code (as decimals) for 0..3 `0 1 3 2`
 - [0258-count-trailing-zeros](18-bit-manipulation/0258-count-trailing-zeros/) — count the trailing zero bits of 8 (1000), printing `3`
 - [0259-bitmask-subsets](18-bit-manipulation/0259-bitmask-subsets/) — enumerate all submasks of the mask 5 (101) in descending order `5 4 1 0`
+- [0260-pack-unpack-bits](18-bit-manipulation/0260-pack-unpack-bits/) — pack r=1,g=2,b=3 into one integer (8 bits each) then unpack them, printing `1 2 3`
 
 ## How to run
 
