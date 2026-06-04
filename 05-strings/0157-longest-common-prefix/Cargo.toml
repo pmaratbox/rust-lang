@@ -1,0 +1,8 @@
+[package]
+name = "commonprefix"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "commonprefix"
+path = "src/main.rs"
