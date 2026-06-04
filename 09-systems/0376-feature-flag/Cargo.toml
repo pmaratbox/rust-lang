@@ -1,0 +1,8 @@
+[package]
+name = "featureflag"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "featureflag"
+path = "src/main.rs"
