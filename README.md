@@ -174,6 +174,7 @@ macOS via Homebrew (alternative):
 ### Dates & Calendars
 - [0126-leap-year](13-datetime/0126-leap-year/) — determine whether 2000, 1900, and 2024 are leap years, printing `yes no yes`
 - [0127-day-of-week-zeller](13-datetime/0127-day-of-week-zeller/) — use Zeller’s congruence to compute the weekday of 2000-01-01 and print `Saturday`
+- [0128-days-between-dates](13-datetime/0128-days-between-dates/) — compute the number of days from 2000-01-01 to 2000-12-31 and print `365`
 
 ## How to run
 
