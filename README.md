@@ -171,6 +171,9 @@ macOS via Homebrew (alternative):
 - [0124-path-manipulation](12-io-serialization/0124-path-manipulation/) — join "/tmp" and "file.txt", then take the basename and extension, printing `/tmp/file.txt file.txt .txt`
 - [0125-temp-file-roundtrip](12-io-serialization/0125-temp-file-roundtrip/) — write a string to a temporary file, read it back, confirm it matches, delete the file, and print `roundtrip: ok`
 
+### Dates & Calendars
+- [0126-leap-year](13-datetime/0126-leap-year/) — determine whether 2000, 1900, and 2024 are leap years, printing `yes no yes`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

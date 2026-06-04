@@ -1,0 +1,8 @@
+[package]
+name = "year"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "year"
+path = "src/main.rs"
