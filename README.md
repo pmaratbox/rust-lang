@@ -318,6 +318,7 @@ macOS via Homebrew (alternative):
 - [0259-bitmask-subsets](18-bit-manipulation/0259-bitmask-subsets/) — enumerate all submasks of the mask 5 (101) in descending order `5 4 1 0`
 - [0260-pack-unpack-bits](18-bit-manipulation/0260-pack-unpack-bits/) — pack r=1,g=2,b=3 into one integer (8 bits each) then unpack them, printing `1 2 3`
 - [0261-rotate-left](18-bit-manipulation/0261-rotate-left/) — rotate the 8-bit value 1 left by 1 (->2) and 128 left by 1 (->1), printing `2 1`
+- [0262-parity-check](18-bit-manipulation/0262-parity-check/) — compute the bit parity (XOR of all bits) of 7 (->1) and 5 (->0), printing `1 0`
 
 ## How to run
 

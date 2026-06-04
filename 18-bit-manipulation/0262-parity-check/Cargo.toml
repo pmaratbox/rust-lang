@@ -1,0 +1,8 @@
+[package]
+name = "paritycheck"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "paritycheck"
+path = "src/main.rs"
