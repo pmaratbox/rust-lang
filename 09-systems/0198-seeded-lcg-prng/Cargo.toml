@@ -1,0 +1,8 @@
+[package]
+name = "lcgprng"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "lcgprng"
+path = "src/main.rs"
