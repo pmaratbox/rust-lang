@@ -1,0 +1,8 @@
+[package]
+name = "recursivesum"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "recursivesum"
+path = "src/main.rs"
