@@ -326,6 +326,7 @@ macOS via Homebrew (alternative):
 - [0265-vending-machine](19-state-machines/0265-vending-machine/) — insert coins 10, 10, 5 to reach the price 25 and dispense, printing `dispensed`
 - [0266-dfa-divisible-by-3](19-state-machines/0266-dfa-divisible-by-3/) — use a 3-state DFA over binary input to test whether "110" (6, yes) and "100" (4, no) are divisible by 3, printing `yes no`
 - [0267-game-of-life-step](19-state-machines/0267-game-of-life-step/) — advance one step of a vertical blinker on a 3x3 grid (it becomes horizontal); print the grid using . and #
+- [0268-rule90-step](19-state-machines/0268-rule90-step/) — apply one Rule 90 step (new = left XOR right) to the row "00100" with zero boundaries, printing `01010`
 
 ## How to run
 
