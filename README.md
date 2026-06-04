@@ -259,6 +259,7 @@ macOS via Homebrew (alternative):
 - [0206-facade](15-design-patterns/0206-facade/) — expose a single facade call that starts three subsystems and reports `ready`
 - [0207-composite](15-design-patterns/0207-composite/) — sum a composite tree of leaf values 1, 2, 3 through a uniform size() interface, printing `6`
 - [0208-proxy](15-design-patterns/0208-proxy/) — use a lazy virtual proxy that loads the real subject only on first access, printing `loaded`
+- [0209-observer](15-design-patterns/0209-observer/) — notify two observers of a new value 5; each prints its id and the value on its own line
 
 ## How to run
 
