@@ -178,6 +178,7 @@ macOS via Homebrew (alternative):
 - [0182-is-prime](08-algorithms/0182-is-prime/) — test whether 7 (prime) and 9 (not) are prime, printing `yes no`
 - [0183-prime-factorization](08-algorithms/0183-prime-factorization/) — factor 60 into primes, printing `2 2 3 5`
 - [0184-lcm](08-algorithms/0184-lcm/) — compute lcm(4,6) via gcd and print `12`
+- [0185-collatz-steps](08-algorithms/0185-collatz-steps/) — count Collatz steps to reach 1 starting from 6 and print `8`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
