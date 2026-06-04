@@ -1,0 +1,8 @@
+[package]
+name = "taskscombine"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "taskscombine"
+path = "src/main.rs"
