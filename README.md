@@ -360,6 +360,9 @@ macOS via Homebrew (alternative):
 - [0295-partition-equal-subset](21-dynamic-programming/0295-partition-equal-subset/) — decide whether [1,5,11,5] can split into two equal-sum subsets, printing `yes`
 - [0296-matrix-chain-order](21-dynamic-programming/0296-matrix-chain-order/) — find the minimum scalar multiplications to multiply matrices with dimensions [10,20,30,40], printing `18000`
 
+### Graph Algorithms
+- [0297-dijkstra](22-graphs/0297-dijkstra/) — on the weighted digraph 0->1(4),0->2(1),2->1(2),1->3(1),2->3(5), print the shortest distances from node 0 `0 3 1 4`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
