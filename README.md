@@ -279,6 +279,7 @@ macOS via Homebrew (alternative):
 - [0224-shunting-yard](16-parsing/0224-shunting-yard/) — convert the infix expression "3 + 4 * 2" to postfix `3 4 2 * +`
 - [0225-recursive-descent-calc](16-parsing/0225-recursive-descent-calc/) — parse and evaluate "2+3*4" honoring precedence, printing `14`
 - [0226-roman-to-int](16-parsing/0226-roman-to-int/) — parse the Roman numeral "XIV" to its value `14`
+- [0227-int-to-roman](16-parsing/0227-int-to-roman/) — format the integer 14 as the Roman numeral `XIV`
 
 ## How to run
 
