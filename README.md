@@ -201,6 +201,7 @@ macOS via Homebrew (alternative):
 - [0066-multiple-assignment-and-destructuring](09-systems/0066-multiple-assignment-and-destructuring/) — swap and unpack → 2 1 / 3 4
 - [0194-try-catch-finally](09-systems/0194-try-catch-finally/) — throw and catch an error, printing `caught`, and always run a finally block printing `cleanup`, on two lines
 - [0195-defer-lifo-order](09-systems/0195-defer-lifo-order/) — register three deferred actions printing 1, 2, 3 and show they run in last-in-first-out order `3 2 1`
+- [0196-error-wrapping](09-systems/0196-error-wrapping/) — wrap an inner error "inner" inside an outer context and print the combined message `outer: inner`
 
 ### Concurrency & Parallelism
 - [0101-threads-spawn-join](10-concurrency/0101-threads-spawn-join/) — spawn 3 worker threads, wait for all of them to finish, then print `done: 3`
