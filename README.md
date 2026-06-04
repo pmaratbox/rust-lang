@@ -277,6 +277,7 @@ macOS via Homebrew (alternative):
 - [0222-bracket-matching](16-parsing/0222-bracket-matching/) — check that mixed brackets are balanced: "([{}])" (yes) and "([)]" (no), printing `yes no`
 - [0223-rpn-eval](16-parsing/0223-rpn-eval/) — evaluate the postfix expression "3 4 + 5 *" and print `35`
 - [0224-shunting-yard](16-parsing/0224-shunting-yard/) — convert the infix expression "3 + 4 * 2" to postfix `3 4 2 * +`
+- [0225-recursive-descent-calc](16-parsing/0225-recursive-descent-calc/) — parse and evaluate "2+3*4" honoring precedence, printing `14`
 
 ## How to run
 
