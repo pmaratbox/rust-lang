@@ -1,0 +1,8 @@
+[package]
+name = "ofweekzeller"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "ofweekzeller"
+path = "src/main.rs"
