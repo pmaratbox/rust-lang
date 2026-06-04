@@ -135,6 +135,7 @@ macOS via Homebrew (alternative):
 - [0166-cartesian-product](06-collections/0166-cartesian-product/) — print the cartesian product of [1,2] and ["a","b"] as `1a 1b 2a 2b`
 - [0167-top-k-frequent](06-collections/0167-top-k-frequent/) — find the 2 most frequent elements of [a,b,a,c,b,a], printing `a b`
 - [0168-list-difference](06-collections/0168-list-difference/) — compute [1,2,3,4] minus the elements of [2,4], printing `1 3`
+- [0169-max-by-key](06-collections/0169-max-by-key/) — from ["a","bbb","cc"] pick the longest string, printing `bbb`
 
 ### Data Structures
 - [0050-stacks](07-data-structures/0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
