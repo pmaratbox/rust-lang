@@ -1,0 +1,8 @@
+[package]
+name = "buffer"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "buffer"
+path = "src/main.rs"
