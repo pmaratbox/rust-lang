@@ -1,0 +1,8 @@
+[package]
+name = "circularqueue"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "circularqueue"
+path = "src/main.rs"
