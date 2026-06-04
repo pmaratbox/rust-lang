@@ -1,0 +1,8 @@
+[package]
+name = "difference"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "difference"
+path = "src/main.rs"
