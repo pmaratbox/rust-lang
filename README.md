@@ -289,6 +289,9 @@ macOS via Homebrew (alternative):
 - [0234-number-base-parse](16-parsing/0234-number-base-parse/) — parse "ff" as hexadecimal (255) and "101" as binary (5), printing `255 5`
 - [0235-brainfuck-cell](16-parsing/0235-brainfuck-cell/) — interpret the Brainfuck program "+++" on a single zeroed cell and print the cell value `3`
 
+### Numerics & Math
+- [0236-bignum-add](17-numerics/0236-bignum-add/) — add the large numbers 999999999999 and 1 as digit strings, printing `1000000000000`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
