@@ -298,6 +298,7 @@ macOS via Homebrew (alternative):
 - [0241-matrix-determinant](17-numerics/0241-matrix-determinant/) — compute the determinant of [[1,2],[3,4]], printing `-2`
 - [0242-matrix-vector-mult](17-numerics/0242-matrix-vector-mult/) — multiply [[1,2],[3,4]] by the vector [5,6], printing `17 39`
 - [0243-newton-sqrt](17-numerics/0243-newton-sqrt/) — approximate sqrt(2) with Newton iteration and print it to 4 decimals `1.4142`
+- [0244-gcd-extended](17-numerics/0244-gcd-extended/) — compute extended gcd(30,12) returning g and Bezout coefficients, printing `6 1 -2` (since 30*1+12*(-2)=6)
 
 ## How to run
 
