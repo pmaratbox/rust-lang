@@ -1,0 +1,8 @@
+[package]
+name = "loglevels"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "loglevels"
+path = "src/main.rs"
