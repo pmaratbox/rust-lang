@@ -294,6 +294,7 @@ macOS via Homebrew (alternative):
 - [0387-json-stringify](12-io-serialization/0387-json-stringify/) — serialize the object {name:"Ada", age:36} to compact JSON `{"name":"Ada","age":36}`
 - [0388-json-parse](12-io-serialization/0388-json-parse/) — parse the JSON object `{"x":1,"y":2}` and print its entries `x=1 y=2`
 - [0389-hex-dump](12-io-serialization/0389-hex-dump/) — print the bytes of "Hi" as lowercase hex `48 69`
+- [0390-binary-endian](12-io-serialization/0390-binary-endian/) — encode the integer 258 as two big-endian bytes (1, 2), decode them back to 258, printing `1 2 258`
 
 ### Dates & Calendars
 - [0126-leap-year](13-datetime/0126-leap-year/) — determine whether 2000, 1900, and 2024 are leap years, printing `yes no yes`
