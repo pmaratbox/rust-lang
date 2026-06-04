@@ -1,0 +1,8 @@
+[package]
+name = "leftright"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "leftright"
+path = "src/main.rs"
