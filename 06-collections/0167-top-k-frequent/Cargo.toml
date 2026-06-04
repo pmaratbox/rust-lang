@@ -1,0 +1,8 @@
+[package]
+name = "kfrequent"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "kfrequent"
+path = "src/main.rs"
