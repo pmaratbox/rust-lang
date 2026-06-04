@@ -1,0 +1,8 @@
+[package]
+name = "transducerpipeline"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "transducerpipeline"
+path = "src/main.rs"
