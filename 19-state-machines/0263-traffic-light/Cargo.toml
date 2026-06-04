@@ -1,0 +1,8 @@
+[package]
+name = "trafficlight"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "trafficlight"
+path = "src/main.rs"

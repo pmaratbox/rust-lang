@@ -320,6 +320,9 @@ macOS via Homebrew (alternative):
 - [0261-rotate-left](18-bit-manipulation/0261-rotate-left/) — rotate the 8-bit value 1 left by 1 (->2) and 128 left by 1 (->1), printing `2 1`
 - [0262-parity-check](18-bit-manipulation/0262-parity-check/) — compute the bit parity (XOR of all bits) of 7 (->1) and 5 (->0), printing `1 0`
 
+### State Machines & Automata
+- [0263-traffic-light](19-state-machines/0263-traffic-light/) — starting at red, advance a traffic light through four transitions (red->green->yellow->red->green), printing each new state `green yellow red green`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
