@@ -149,6 +149,7 @@ macOS via Homebrew (alternative):
 - [0106-producer-consumer](10-concurrency/0106-producer-consumer/) — a producer sends 1..5 to a consumer that sums them, printing `15`
 - [0107-worker-pool](10-concurrency/0107-worker-pool/) — distribute squaring of 1..4 across a pool of workers, collect the results, and print them sorted ascending `1 4 9 16`
 - [0108-parallel-tasks-combine](10-concurrency/0108-parallel-tasks-combine/) — run two independent tasks that produce 10 and 20 concurrently, then combine (sum) their results into `30`
+- [0109-run-once-init](10-concurrency/0109-run-once-init/) — ensure an initializer runs exactly once even when several threads race to trigger it, printing `init count: 1`
 
 ## How to run
 
