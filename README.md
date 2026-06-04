@@ -305,6 +305,7 @@ macOS via Homebrew (alternative):
 - [0130-format-iso-date](13-datetime/0130-format-iso-date/) — format the date y=2026, m=6, d=4 as a zero-padded ISO string `2026-06-04`
 - [0392-day-of-year](13-datetime/0392-day-of-year/) — compute the day-of-year of 2000-03-01 (a leap year), printing `61`
 - [0393-weekday-after-days](13-datetime/0393-weekday-after-days/) — given 2000-01-01 is a Saturday, compute the weekday 3 days later, printing `Tuesday`
+- [0394-time-add-minutes](13-datetime/0394-time-add-minutes/) — add 90 minutes to 10:45 and print the resulting 24-hour time `12:15`
 
 ### Tooling & Meta
 - [0131-assertions](14-tooling/0131-assertions/) — assert several expected equalities (all true) and print `all passed`
