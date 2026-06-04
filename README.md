@@ -329,6 +329,7 @@ macOS via Homebrew (alternative):
 - [0268-rule90-step](19-state-machines/0268-rule90-step/) — apply one Rule 90 step (new = left XOR right) to the row "00100" with zero boundaries, printing `01010`
 - [0269-markov-deterministic](19-state-machines/0269-markov-deterministic/) — walk a deterministic transition map A->B->C->A for three steps from A, printing the visited states `B C A`
 - [0270-elevator-fsm](19-state-machines/0270-elevator-fsm/) — move an elevator from floor 0 up to floor 2 then back to 0, printing every floor it stops at `0 1 2 1 0`
+- [0271-string-match-dfa](19-state-machines/0271-string-match-dfa/) — build a DFA for the pattern "ab" and report the first match index in "aab", printing `1`
 
 ## How to run
 
