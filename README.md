@@ -153,6 +153,7 @@ macOS via Homebrew (alternative):
 
 ### Functional Programming
 - [0110-currying](11-functional/0110-currying/) — curry a two-argument add into a chain of one-argument functions and call it as `add(2)(3)`, printing `5`
+- [0111-partial-application](11-functional/0111-partial-application/) — partially apply a two-argument add by fixing the first argument to 10, then call the result with 3 to print `13`
 
 ## How to run
 
