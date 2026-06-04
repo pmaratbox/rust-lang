@@ -1,0 +1,8 @@
+[package]
+name = "trie"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "trie"
+path = "src/main.rs"
