@@ -254,6 +254,7 @@ macOS via Homebrew (alternative):
 - [0201-factory-method](15-design-patterns/0201-factory-method/) — use a factory method to create shapes by name and print their kinds `circle square`
 - [0202-abstract-factory](15-design-patterns/0202-abstract-factory/) — use a "dark" theme abstract factory to build a button and a checkbox, printing `dark-button dark-checkbox`
 - [0203-prototype](15-design-patterns/0203-prototype/) — clone a prototype object holding 1, mutate the clone to 2, and show the original is unchanged, printing `1 2`
+- [0204-adapter](15-design-patterns/0204-adapter/) — adapt a Celsius source (100) to a Fahrenheit interface, printing `212`
 
 ## How to run
 
