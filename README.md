@@ -102,6 +102,7 @@ macOS via Homebrew (alternative):
 - [0347-virtual-dispatch](04-oop/0347-virtual-dispatch/) — store a Circle, Square, and Triangle in one Shape collection and call describe() on each, printing `circle square triangle`
 - [0348-interface-default-method](04-oop/0348-interface-default-method/) — define an interface with a default greet() returning "hi" and an implementer that overrides it to "hey", printing `hi hey`
 - [0349-trait-composition](04-oop/0349-trait-composition/) — compose two capabilities (A printing "a", B printing "b") into one type and invoke both, printing `a b`
+- [0350-static-factory](04-oop/0350-static-factory/) — use a static factory Color.fromHex("#ff0000") to build a color and print its components `255 0 0`
 
 ### Strings & Text
 - [0008-strings](05-strings/0008-strings/) — greet, uppercase, and print the length of a string

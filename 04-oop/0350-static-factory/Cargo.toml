@@ -1,0 +1,8 @@
+[package]
+name = "staticfactory"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "staticfactory"
+path = "src/main.rs"
