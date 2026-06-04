@@ -312,6 +312,7 @@ macOS via Homebrew (alternative):
 - [0253-power-of-two-check](18-bit-manipulation/0253-power-of-two-check/) — test whether 16 (yes) and 18 (no) are powers of two, printing `yes no`
 - [0254-swap-xor](18-bit-manipulation/0254-swap-xor/) — swap the values 3 and 5 using only XOR (no temporary), printing `5 3`
 - [0255-lowest-set-bit](18-bit-manipulation/0255-lowest-set-bit/) — isolate the lowest set bit of 12 (1100), printing `4`
+- [0256-hamming-distance](18-bit-manipulation/0256-hamming-distance/) — compute the bit Hamming distance between 1 and 4, printing `2`
 
 ## How to run
 

@@ -1,0 +1,8 @@
+[package]
+name = "hammingdistance"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "hammingdistance"
+path = "src/main.rs"
