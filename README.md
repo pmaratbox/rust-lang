@@ -293,6 +293,7 @@ macOS via Homebrew (alternative):
 - [0236-bignum-add](17-numerics/0236-bignum-add/) — add the large numbers 999999999999 and 1 as digit strings, printing `1000000000000`
 - [0237-bignum-multiply](17-numerics/0237-bignum-multiply/) — multiply 123 by 456 with schoolbook long multiplication on digit strings, printing `56088`
 - [0238-fraction-add](17-numerics/0238-fraction-add/) — add the fractions 1/2 and 1/3 and print the reduced result `5/6`
+- [0239-fraction-reduce](17-numerics/0239-fraction-reduce/) — reduce the fraction 6/8 to lowest terms `3/4`
 
 ## How to run
 
