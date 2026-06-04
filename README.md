@@ -131,6 +131,7 @@ macOS via Homebrew (alternative):
 - [0353-char-frequency](05-strings/0353-char-frequency/) — count character frequencies in "aab" and print them in first-seen order `a:2 b:1`
 - [0354-snake-to-camel](05-strings/0354-snake-to-camel/) — convert "hello_world" to camelCase `helloWorld`
 - [0355-expand-char-range](05-strings/0355-expand-char-range/) — expand the range spec "a-e" into the characters `abcde`
+- [0356-atoi-itoa](05-strings/0356-atoi-itoa/) — parse "-42" to the integer -42 and format it back to "-42", printing `-42 -42`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
