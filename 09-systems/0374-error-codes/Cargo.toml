@@ -1,0 +1,8 @@
+[package]
+name = "errorcodes"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "errorcodes"
+path = "src/main.rs"
