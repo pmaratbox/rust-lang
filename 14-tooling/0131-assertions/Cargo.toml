@@ -1,0 +1,8 @@
+[package]
+name = "assertions"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "assertions"
+path = "src/main.rs"
