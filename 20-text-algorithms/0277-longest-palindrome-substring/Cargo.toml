@@ -1,0 +1,8 @@
+[package]
+name = "longestpalindromesubstring"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "longestpalindromesubstring"
+path = "src/main.rs"
