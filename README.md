@@ -177,6 +177,7 @@ macOS via Homebrew (alternative):
 - [0181-insertion-sort](08-algorithms/0181-insertion-sort/) — insertion-sort [5,1,4,2,8] ascending, printing `1 2 4 5 8`
 - [0182-is-prime](08-algorithms/0182-is-prime/) — test whether 7 (prime) and 9 (not) are prime, printing `yes no`
 - [0183-prime-factorization](08-algorithms/0183-prime-factorization/) — factor 60 into primes, printing `2 2 3 5`
+- [0184-lcm](08-algorithms/0184-lcm/) — compute lcm(4,6) via gcd and print `12`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
