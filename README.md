@@ -315,6 +315,7 @@ macOS via Homebrew (alternative):
 - [0256-hamming-distance](18-bit-manipulation/0256-hamming-distance/) — compute the bit Hamming distance between 1 and 4, printing `2`
 - [0257-gray-code](18-bit-manipulation/0257-gray-code/) — print the Gray code (as decimals) for 0..3 `0 1 3 2`
 - [0258-count-trailing-zeros](18-bit-manipulation/0258-count-trailing-zeros/) — count the trailing zero bits of 8 (1000), printing `3`
+- [0259-bitmask-subsets](18-bit-manipulation/0259-bitmask-subsets/) — enumerate all submasks of the mask 5 (101) in descending order `5 4 1 0`
 
 ## How to run
 
