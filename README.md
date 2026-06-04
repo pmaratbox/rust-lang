@@ -275,6 +275,7 @@ macOS via Homebrew (alternative):
 ### Parsing & Interpreters
 - [0221-tokenizer](16-parsing/0221-tokenizer/) — tokenize the expression "1 + 2" into token types, printing `NUM PLUS NUM`
 - [0222-bracket-matching](16-parsing/0222-bracket-matching/) — check that mixed brackets are balanced: "([{}])" (yes) and "([)]" (no), printing `yes no`
+- [0223-rpn-eval](16-parsing/0223-rpn-eval/) — evaluate the postfix expression "3 4 + 5 *" and print `35`
 
 ## How to run
 
