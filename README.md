@@ -356,6 +356,7 @@ macOS via Homebrew (alternative):
 - [0291-min-path-sum](21-dynamic-programming/0291-min-path-sum/) — find the minimum path sum through [[1,3,1],[1,5,1],[4,2,1]] moving right/down, printing `7`
 - [0292-house-robber](21-dynamic-programming/0292-house-robber/) — maximize the sum of non-adjacent picks from [2,7,9,3,1], printing `12`
 - [0293-longest-palindromic-subseq](21-dynamic-programming/0293-longest-palindromic-subseq/) — compute the longest palindromic subsequence length of "bbbab", printing `4`
+- [0294-subset-sum](21-dynamic-programming/0294-subset-sum/) — decide whether some subset of [3,34,4,12,5,2] sums to 9, printing `yes`
 
 ## How to run
 

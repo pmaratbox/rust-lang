@@ -1,0 +1,8 @@
+[package]
+name = "subsetsum"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "subsetsum"
+path = "src/main.rs"
