@@ -79,6 +79,7 @@ macOS via Homebrew (alternative):
 - [0045-abstract-classes-and-methods](04-oop/0045-abstract-classes-and-methods/) — an abstract base with an abstract method, implemented by a subclass
 - [0099-method-chaining](04-oop/0099-method-chaining/) — fluent calculator → 16
 - [0100-static-methods](04-oop/0100-static-methods/) — class-level square(6) → 36
+- [0149-encapsulation](04-oop/0149-encapsulation/) — keep an account balance private, deposit 50 onto an initial 100 through a method, and print `150`
 
 ### Strings & Text
 - [0008-strings](05-strings/0008-strings/) — greet, uppercase, and print the length of a string
