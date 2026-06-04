@@ -1,0 +1,8 @@
+[package]
+name = "sparsematrix"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sparsematrix"
+path = "src/main.rs"

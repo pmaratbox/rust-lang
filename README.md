@@ -186,6 +186,7 @@ macOS via Homebrew (alternative):
 - [0363-circular-queue](07-data-structures/0363-circular-queue/) — in a capacity-3 circular queue enqueue 1,2,3, dequeue once, enqueue 4, then print the contents `2 3 4`
 - [0364-deque](07-data-structures/0364-deque/) — using a deque, push 1 and 2 to the back and 0 to the front, then print front-to-back `0 1 2`
 - [0365-multiset-count](07-data-structures/0365-multiset-count/) — add 1,1,2 to a multiset; print the count of 1 (2), remove one 1, then print the count of 1 (1), as `2 1`
+- [0366-sparse-matrix](07-data-structures/0366-sparse-matrix/) — store only nonzero entries; with (1,1)=5 set, read (1,1) (5) and (0,0) (0), printing `5 0`
 
 ### Algorithms & Math
 - [0024-sorting-and-comparators](08-algorithms/0024-sorting-and-comparators/) — sort 3 1 2 ascending, then descending with a custom comparator
