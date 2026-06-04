@@ -33,6 +33,7 @@ macOS via Homebrew (alternative):
 - [0058-labeled-break-and-continue](01-fundamentals/0058-labeled-break-and-continue/) — labeled continue/break over nested loops → 1,1 / 2,1 / stop at 2,2
 - [0062-do-while-loop](01-fundamentals/0062-do-while-loop/) — run the body once before testing → 1 2 3
 - [0095-guard-clauses](01-fundamentals/0095-guard-clauses/) — early-return classification → negative / zero / positive
+- [0134-fizzbuzz](01-fundamentals/0134-fizzbuzz/) — print 1..15, replacing multiples of 3 with Fizz, of 5 with Buzz, and of both with FizzBuzz, one per line
 
 ### Functions & Recursion
 - [0006-functions](02-functions/0006-functions/) — define add(a, b), call it, print the result
