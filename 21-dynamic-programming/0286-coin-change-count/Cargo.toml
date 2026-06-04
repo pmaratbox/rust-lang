@@ -1,0 +1,8 @@
+[package]
+name = "coinchangecount"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "coinchangecount"
+path = "src/main.rs"
