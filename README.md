@@ -357,6 +357,7 @@ macOS via Homebrew (alternative):
 - [0292-house-robber](21-dynamic-programming/0292-house-robber/) — maximize the sum of non-adjacent picks from [2,7,9,3,1], printing `12`
 - [0293-longest-palindromic-subseq](21-dynamic-programming/0293-longest-palindromic-subseq/) — compute the longest palindromic subsequence length of "bbbab", printing `4`
 - [0294-subset-sum](21-dynamic-programming/0294-subset-sum/) — decide whether some subset of [3,34,4,12,5,2] sums to 9, printing `yes`
+- [0295-partition-equal-subset](21-dynamic-programming/0295-partition-equal-subset/) — decide whether [1,5,11,5] can split into two equal-sum subsets, printing `yes`
 
 ## How to run
 
