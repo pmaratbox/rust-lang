@@ -342,6 +342,7 @@ macOS via Homebrew (alternative):
 - [0279-min-window-substring](20-text-algorithms/0279-min-window-substring/) — find the smallest window in "ADOBECODEBANC" containing all of "ABC", printing `BANC`
 - [0280-group-anagrams](20-text-algorithms/0280-group-anagrams/) — group ["eat","tea","tan","ate","nat"] into anagram classes and print the number of groups `2`
 - [0281-z-function](20-text-algorithms/0281-z-function/) — compute the Z-array of "aaaa" (excluding z[0]) and print `3 2 1`
+- [0282-boyer-moore-search](20-text-algorithms/0282-boyer-moore-search/) — use the bad-character rule to find "abc" in "zzabc", printing the index `2`
 
 ## How to run
 
