@@ -1,0 +1,8 @@
+[package]
+name = "minpathsum"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "minpathsum"
+path = "src/main.rs"
