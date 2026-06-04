@@ -1,0 +1,8 @@
+[package]
+name = "repr"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "repr"
+path = "src/main.rs"
