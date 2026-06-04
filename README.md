@@ -358,6 +358,7 @@ macOS via Homebrew (alternative):
 - [0293-longest-palindromic-subseq](21-dynamic-programming/0293-longest-palindromic-subseq/) — compute the longest palindromic subsequence length of "bbbab", printing `4`
 - [0294-subset-sum](21-dynamic-programming/0294-subset-sum/) — decide whether some subset of [3,34,4,12,5,2] sums to 9, printing `yes`
 - [0295-partition-equal-subset](21-dynamic-programming/0295-partition-equal-subset/) — decide whether [1,5,11,5] can split into two equal-sum subsets, printing `yes`
+- [0296-matrix-chain-order](21-dynamic-programming/0296-matrix-chain-order/) — find the minimum scalar multiplications to multiply matrices with dimensions [10,20,30,40], printing `18000`
 
 ## How to run
 
