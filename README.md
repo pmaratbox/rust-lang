@@ -100,6 +100,7 @@ macOS via Homebrew (alternative):
 - [0153-comparable-sort](04-oop/0153-comparable-sort/) — sort people [(alice,30),(bob,25)] by age ascending and print their names `bob alice`
 - [0154-polymorphic-area](04-oop/0154-polymorphic-area/) — sum the areas of a Rectangle(2,3)=6 and a Triangle(base=4,height=4)=8 through a common Shape interface, printing `total area: 14`
 - [0347-virtual-dispatch](04-oop/0347-virtual-dispatch/) — store a Circle, Square, and Triangle in one Shape collection and call describe() on each, printing `circle square triangle`
+- [0348-interface-default-method](04-oop/0348-interface-default-method/) — define an interface with a default greet() returning "hi" and an implementer that overrides it to "hey", printing `hi hey`
 
 ### Strings & Text
 - [0008-strings](05-strings/0008-strings/) — greet, uppercase, and print the length of a string
