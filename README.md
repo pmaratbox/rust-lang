@@ -38,6 +38,7 @@ macOS via Homebrew (alternative):
 - [0136-sign-function](01-fundamentals/0136-sign-function/) — print the sign (-1, 0, or 1) of -5, 0, and 5: `-1 0 1`
 - [0137-triangle-pattern](01-fundamentals/0137-triangle-pattern/) — print a left-aligned triangle of asterisks of height 3
 - [0138-boolean-truth-table](01-fundamentals/0138-boolean-truth-table/) — for each (a,b) in (T,T),(T,F),(F,T),(F,F) print a, b, and a AND b, a OR b, a XOR b as lowercase booleans, one row per line
+- [0333-even-odd-classify](01-fundamentals/0333-even-odd-classify/) — classify each of [1,2,3,4] as odd or even, printing `odd even odd even`
 
 ### Functions & Recursion
 - [0006-functions](02-functions/0006-functions/) — define add(a, b), call it, print the result

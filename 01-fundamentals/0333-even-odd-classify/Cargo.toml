@@ -1,0 +1,8 @@
+[package]
+name = "evenoddclassify"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "evenoddclassify"
+path = "src/main.rs"
