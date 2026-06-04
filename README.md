@@ -274,6 +274,7 @@ macOS via Homebrew (alternative):
 
 ### Parsing & Interpreters
 - [0221-tokenizer](16-parsing/0221-tokenizer/) — tokenize the expression "1 + 2" into token types, printing `NUM PLUS NUM`
+- [0222-bracket-matching](16-parsing/0222-bracket-matching/) — check that mixed brackets are balanced: "([{}])" (yes) and "([)]" (no), printing `yes no`
 
 ## How to run
 
