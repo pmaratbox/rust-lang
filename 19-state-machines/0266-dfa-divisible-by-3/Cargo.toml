@@ -1,0 +1,8 @@
+[package]
+name = "dfadivisibleby3"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "dfadivisibleby3"
+path = "src/main.rs"
