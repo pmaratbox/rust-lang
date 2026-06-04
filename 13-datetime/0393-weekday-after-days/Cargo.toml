@@ -1,0 +1,8 @@
+[package]
+name = "weekdayafterdays"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "weekdayafterdays"
+path = "src/main.rs"
