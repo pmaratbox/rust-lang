@@ -105,6 +105,7 @@ macOS via Homebrew (alternative):
 - [0157-longest-common-prefix](05-strings/0157-longest-common-prefix/) — find the longest common prefix of ["flower","flow","flight"], printing `fl`
 - [0158-string-rotation](05-strings/0158-string-rotation/) — check whether "cdab" is a rotation of "abcd", printing `yes`
 - [0159-string-interpolation](05-strings/0159-string-interpolation/) — interpolate name="Ada" and age=36 into a sentence, printing `Ada is 36`
+- [0160-most-frequent-char](05-strings/0160-most-frequent-char/) — find the most frequent character in "hello", printing `l`
 
 ### Collections, Maps & Iteration
 - [0007-collections](06-collections/0007-collections/) — build a list of 1..5; print its count, first, and last
