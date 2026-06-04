@@ -1,0 +1,8 @@
+[package]
+name = "lifoorder"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "lifoorder"
+path = "src/main.rs"
