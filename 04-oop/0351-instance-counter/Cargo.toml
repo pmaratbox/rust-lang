@@ -1,0 +1,8 @@
+[package]
+name = "instancecounter"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "instancecounter"
+path = "src/main.rs"
