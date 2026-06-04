@@ -162,6 +162,9 @@ macOS via Homebrew (alternative):
 - [0117-fold-left-vs-right](11-functional/0117-fold-left-vs-right/) — fold subtraction over [1,2,3] from 0 both ways: left ((((0-1)-2)-3)) = -6 and right (1-(2-(3-0))) = 2, printing `-6 2`
 - [0118-option-map-chain](11-functional/0118-option-map-chain/) — map a function over a present optional (10 -> 12) and an absent one (-> fallback), printing `12 none`
 
+### I/O & Serialization
+- [0119-read-file-lines](12-io-serialization/0119-read-file-lines/) — write three lines to a file, read them back, and print `lines: 3`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
