@@ -270,6 +270,7 @@ macOS via Homebrew (alternative):
 - [0217-memento](15-design-patterns/0217-memento/) — save state 1, change it to 2, then restore from the memento, printing current then restored `2 1`
 - [0218-flyweight](15-design-patterns/0218-flyweight/) — share flyweight instances for repeated characters a, b, a and print the number of distinct objects created `2`
 - [0219-bridge](15-design-patterns/0219-bridge/) — bridge a Circle abstraction to a Red color implementation, printing `red circle`
+- [0220-null-object](15-design-patterns/0220-null-object/) — compare a no-op null logger with a real logger; only the real one records, so print the logged count `1`
 
 ## How to run
 

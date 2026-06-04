@@ -1,0 +1,8 @@
+[package]
+name = "nullobject"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "nullobject"
+path = "src/main.rs"
