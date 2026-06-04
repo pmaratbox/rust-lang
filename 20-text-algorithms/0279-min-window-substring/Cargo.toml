@@ -1,0 +1,8 @@
+[package]
+name = "minwindowsubstring"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "minwindowsubstring"
+path = "src/main.rs"
