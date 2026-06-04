@@ -1,0 +1,8 @@
+[package]
+name = "callcounter"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "callcounter"
+path = "src/main.rs"
