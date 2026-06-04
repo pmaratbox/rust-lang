@@ -164,6 +164,7 @@ macOS via Homebrew (alternative):
 - [0357-zip-longest](06-collections/0357-zip-longest/) — zip [1,2,3] with ["a","b"], filling the missing slot with "-", printing `1a 2b 3-`
 - [0358-adjacent-pairs](06-collections/0358-adjacent-pairs/) — produce the consecutive pairs of [1,2,3,4], printing `1,2 2,3 3,4`
 - [0359-flatten-deep](06-collections/0359-flatten-deep/) — flatten the arbitrarily nested structure [1,[2,[3,4]],5] into `1 2 3 4 5`
+- [0360-interleave-lists](06-collections/0360-interleave-lists/) — interleave [1,3,5] and [2,4,6] element by element, printing `1 2 3 4 5 6`
 
 ### Data Structures
 - [0050-stacks](07-data-structures/0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
