@@ -306,6 +306,9 @@ macOS via Homebrew (alternative):
 - [0249-binomial-coefficient](17-numerics/0249-binomial-coefficient/) — compute C(5,2) without overflow and print `10`
 - [0250-fast-power-iterative](17-numerics/0250-fast-power-iterative/) — compute 2^10 by iterative binary exponentiation, printing `1024`
 
+### Bit Manipulation
+- [0251-set-clear-toggle-bit](18-bit-manipulation/0251-set-clear-toggle-bit/) — on bit position 1: set it on 0 (->2), clear it on 2 (->0), toggle it on 0 (->2), printing `2 0 2`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
