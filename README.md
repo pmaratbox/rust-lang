@@ -40,6 +40,7 @@ macOS via Homebrew (alternative):
 - [0138-boolean-truth-table](01-fundamentals/0138-boolean-truth-table/) — for each (a,b) in (T,T),(T,F),(F,T),(F,F) print a, b, and a AND b, a OR b, a XOR b as lowercase booleans, one row per line
 - [0333-even-odd-classify](01-fundamentals/0333-even-odd-classify/) — classify each of [1,2,3,4] as odd or even, printing `odd even odd even`
 - [0334-count-digits](01-fundamentals/0334-count-digits/) — count the digits of 90210, printing `5`
+- [0335-factorial-iterative](01-fundamentals/0335-factorial-iterative/) — compute 5! iteratively, printing `120`
 
 ### Functions & Recursion
 - [0006-functions](02-functions/0006-functions/) — define add(a, b), call it, print the result
