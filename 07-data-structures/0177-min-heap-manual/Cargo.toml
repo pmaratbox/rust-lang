@@ -1,0 +1,8 @@
+[package]
+name = "heapmanual"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "heapmanual"
+path = "src/main.rs"
