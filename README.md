@@ -263,6 +263,7 @@ macOS via Homebrew (alternative):
 - [0108-parallel-tasks-combine](10-concurrency/0108-parallel-tasks-combine/) — run two independent tasks that produce 10 and 20 concurrently, then combine (sum) their results into `30`
 - [0109-run-once-init](10-concurrency/0109-run-once-init/) — ensure an initializer runs exactly once even when several threads race to trigger it, printing `init count: 1`
 - [0378-barrier-sync](10-concurrency/0378-barrier-sync/) — have 3 threads each arrive at a barrier before any proceeds, then print `all reached: 3`
+- [0379-future-chain](10-concurrency/0379-future-chain/) — chain asynchronous steps 5 -> (*2) -> (+1) and print the final value `11`
 
 ### Functional Programming
 - [0110-currying](11-functional/0110-currying/) — curry a two-argument add into a chain of one-argument functions and call it as `add(2)(3)`, printing `5`

@@ -1,0 +1,8 @@
+[package]
+name = "futurechain"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "futurechain"
+path = "src/main.rs"
