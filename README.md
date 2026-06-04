@@ -304,6 +304,7 @@ macOS via Homebrew (alternative):
 - [0247-horner-eval](17-numerics/0247-horner-eval/) — evaluate 2x^2+3x+1 at x=2 using the Horner method, printing `15`
 - [0248-catalan-number](17-numerics/0248-catalan-number/) — print the first five Catalan numbers `1 1 2 5 14`
 - [0249-binomial-coefficient](17-numerics/0249-binomial-coefficient/) — compute C(5,2) without overflow and print `10`
+- [0250-fast-power-iterative](17-numerics/0250-fast-power-iterative/) — compute 2^10 by iterative binary exponentiation, printing `1024`
 
 ## How to run
 
