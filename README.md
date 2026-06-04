@@ -184,6 +184,7 @@ macOS via Homebrew (alternative):
 - [0188-kadane-max-subarray](08-algorithms/0188-kadane-max-subarray/) — find the maximum subarray sum of [-2,1,-3,4,-1,2,1,-5,4] with Kadane and print `6`
 - [0189-permutations](08-algorithms/0189-permutations/) — generate all permutations of [1,2,3] in lexicographic order, one per line space-separated
 - [0190-subsets-powerset](08-algorithms/0190-subsets-powerset/) — generate the power set of [1,2,3] in bitmask order 0..7 (empty printed as `{}`), one subset per line space-separated
+- [0191-pascal-triangle](08-algorithms/0191-pascal-triangle/) — print the first 4 rows of Pascal’s triangle, each row space-separated
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
