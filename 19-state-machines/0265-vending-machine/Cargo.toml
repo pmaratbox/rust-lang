@@ -1,0 +1,8 @@
+[package]
+name = "vendingmachine"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "vendingmachine"
+path = "src/main.rs"
