@@ -1,0 +1,8 @@
+[package]
+name = "forkjoinsum"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "forkjoinsum"
+path = "src/main.rs"
