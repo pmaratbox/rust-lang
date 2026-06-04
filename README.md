@@ -284,6 +284,7 @@ macOS via Homebrew (alternative):
 - [0229-ini-parse](16-parsing/0229-ini-parse/) — parse the INI text with section [s] and key k=v, printing the flattened entry `s.k=v`
 - [0230-json-array-sum](16-parsing/0230-json-array-sum/) — parse the JSON array text "[1,2,3]" and print the sum of its elements `6`
 - [0231-template-substitute](16-parsing/0231-template-substitute/) — substitute the variable in the template "hi {name}" with name="Ada", printing `hi Ada`
+- [0232-wc-counts](16-parsing/0232-wc-counts/) — for the text "a b\\nc" report words, lines, and characters, printing `3 2 5`
 
 ## How to run
 

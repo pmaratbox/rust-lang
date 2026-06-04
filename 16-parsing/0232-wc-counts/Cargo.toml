@@ -1,0 +1,8 @@
+[package]
+name = "wccounts"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "wccounts"
+path = "src/main.rs"
