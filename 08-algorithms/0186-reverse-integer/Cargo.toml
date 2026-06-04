@@ -1,0 +1,8 @@
+[package]
+name = "integer"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "integer"
+path = "src/main.rs"
