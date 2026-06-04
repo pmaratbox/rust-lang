@@ -397,6 +397,7 @@ macOS via Homebrew (alternative):
 - [0326-monoid-fold](24-functional-advanced/0326-monoid-fold/) — fold lists under two monoids: string concat ["a","b","c"]->"abc" and integer sum [1,2,3]->6, printing `abc 6`
 - [0327-flatmap](24-functional-advanced/0327-flatmap/) — flatMap [1,2,3] with x -> [x, x*10] and print the flattened result `1 10 2 20 3 30`
 - [0328-trampoline](24-functional-advanced/0328-trampoline/) — sum 1..100 with a trampolined recursion that avoids deep stacks, printing `5050`
+- [0329-cps-factorial](24-functional-advanced/0329-cps-factorial/) — compute 5! in continuation-passing style, printing `120`
 
 ## How to run
 
