@@ -1,0 +1,8 @@
+[package]
+name = "newtonsqrt"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "newtonsqrt"
+path = "src/main.rs"
