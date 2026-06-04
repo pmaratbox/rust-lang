@@ -362,6 +362,7 @@ macOS via Homebrew (alternative):
 
 ### Graph Algorithms
 - [0297-dijkstra](22-graphs/0297-dijkstra/) — on the weighted digraph 0->1(4),0->2(1),2->1(2),1->3(1),2->3(5), print the shortest distances from node 0 `0 3 1 4`
+- [0298-bellman-ford](22-graphs/0298-bellman-ford/) — on the digraph with a negative edge 0->1(1),1->2(-2),0->2(4), print the shortest distances from node 0 `0 1 -1`
 
 ## How to run
 
