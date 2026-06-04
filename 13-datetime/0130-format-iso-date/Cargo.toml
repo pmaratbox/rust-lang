@@ -1,0 +1,8 @@
+[package]
+name = "isodate"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "isodate"
+path = "src/main.rs"

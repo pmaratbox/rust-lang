@@ -176,6 +176,7 @@ macOS via Homebrew (alternative):
 - [0127-day-of-week-zeller](13-datetime/0127-day-of-week-zeller/) — use Zeller’s congruence to compute the weekday of 2000-01-01 and print `Saturday`
 - [0128-days-between-dates](13-datetime/0128-days-between-dates/) — compute the number of days from 2000-01-01 to 2000-12-31 and print `365`
 - [0129-add-days](13-datetime/0129-add-days/) — add 40 days to 2000-01-01 and print the result as `2000-02-10`
+- [0130-format-iso-date](13-datetime/0130-format-iso-date/) — format the date y=2026, m=6, d=4 as a zero-padded ISO string `2026-06-04`
 
 ## How to run
 
