@@ -1,0 +1,8 @@
+[package]
+name = "frequencysort"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "frequencysort"
+path = "src/main.rs"

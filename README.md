@@ -165,6 +165,7 @@ macOS via Homebrew (alternative):
 - [0358-adjacent-pairs](06-collections/0358-adjacent-pairs/) — produce the consecutive pairs of [1,2,3,4], printing `1,2 2,3 3,4`
 - [0359-flatten-deep](06-collections/0359-flatten-deep/) — flatten the arbitrarily nested structure [1,[2,[3,4]],5] into `1 2 3 4 5`
 - [0360-interleave-lists](06-collections/0360-interleave-lists/) — interleave [1,3,5] and [2,4,6] element by element, printing `1 2 3 4 5 6`
+- [0361-frequency-sort](06-collections/0361-frequency-sort/) — sort [1,1,2,3,3,3] by descending frequency (ties keep first-seen order), printing `3 3 3 1 1 2`
 
 ### Data Structures
 - [0050-stacks](07-data-structures/0050-stacks/) — push 1 2 3 onto a stack, pop all → 3 2 1
