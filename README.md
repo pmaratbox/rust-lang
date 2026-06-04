@@ -368,6 +368,7 @@ macOS via Homebrew (alternative):
 - [0301-cycle-detect-directed](22-graphs/0301-cycle-detect-directed/) — detect a cycle in the digraph 0->1,1->2,2->0, printing `cycle`
 - [0302-kruskal-mst](22-graphs/0302-kruskal-mst/) — compute the MST total weight of edges (0,1,1),(1,2,2),(0,2,3) with union-find, printing `3`
 - [0303-prim-mst](22-graphs/0303-prim-mst/) — compute the MST total weight of the chain (0,1,1),(1,2,2),(2,3,3) with Prim, printing `6`
+- [0304-connected-components](22-graphs/0304-connected-components/) — count the connected components of the undirected graph with edges (0,1),(1,2),(3,4) over nodes 0..4, printing `2`
 
 ## How to run
 

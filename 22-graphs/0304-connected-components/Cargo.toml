@@ -1,0 +1,8 @@
+[package]
+name = "connectedcomponents"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "connectedcomponents"
+path = "src/main.rs"
