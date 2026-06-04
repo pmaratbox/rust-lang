@@ -280,6 +280,7 @@ macOS via Homebrew (alternative):
 - [0225-recursive-descent-calc](16-parsing/0225-recursive-descent-calc/) — parse and evaluate "2+3*4" honoring precedence, printing `14`
 - [0226-roman-to-int](16-parsing/0226-roman-to-int/) — parse the Roman numeral "XIV" to its value `14`
 - [0227-int-to-roman](16-parsing/0227-int-to-roman/) — format the integer 14 as the Roman numeral `XIV`
+- [0228-csv-quoted-parse](16-parsing/0228-csv-quoted-parse/) — parse the CSV row `a,"b,c",d`, respecting the quoted comma, into three fields joined by pipes `a|b,c|d`
 
 ## How to run
 
