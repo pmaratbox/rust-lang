@@ -272,6 +272,9 @@ macOS via Homebrew (alternative):
 - [0219-bridge](15-design-patterns/0219-bridge/) — bridge a Circle abstraction to a Red color implementation, printing `red circle`
 - [0220-null-object](15-design-patterns/0220-null-object/) — compare a no-op null logger with a real logger; only the real one records, so print the logged count `1`
 
+### Parsing & Interpreters
+- [0221-tokenizer](16-parsing/0221-tokenizer/) — tokenize the expression "1 + 2" into token types, printing `NUM PLUS NUM`
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
