@@ -1,0 +1,8 @@
+[package]
+name = "prime"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "prime"
+path = "src/main.rs"

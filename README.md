@@ -175,6 +175,7 @@ macOS via Homebrew (alternative):
 - [0094-linear-search](08-algorithms/0094-linear-search/) — scan for 7 → found 7 at index 2
 - [0180-bubble-sort](08-algorithms/0180-bubble-sort/) — bubble-sort [5,1,4,2,8] ascending, printing `1 2 4 5 8`
 - [0181-insertion-sort](08-algorithms/0181-insertion-sort/) — insertion-sort [5,1,4,2,8] ascending, printing `1 2 4 5 8`
+- [0182-is-prime](08-algorithms/0182-is-prime/) — test whether 7 (prime) and 9 (not) are prime, printing `yes no`
 
 ### Systems, Errors & Tooling
 - [0011-error-handling](09-systems/0011-error-handling/) — divide with a divide-by-zero guard; print result or error
