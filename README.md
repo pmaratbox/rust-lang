@@ -84,6 +84,7 @@ macOS via Homebrew (alternative):
 - [0343-optional-chaining](03-types/0343-optional-chaining/) — read a deeply optional value a.b.c when present (5) and when absent (default 0), printing `5 0`
 - [0344-enum-ordinal](03-types/0344-enum-ordinal/) — for the enum Direction(N,E,S,W) print the ordinal of S (2) and the name at ordinal 3 (W), printing `2 W`
 - [0345-struct-defaults](03-types/0345-struct-defaults/) — create a Point with default fields (0,0), then one overriding x to 5, printing each on its own line `0 0` then `5 0`
+- [0346-newtype-wrapper](03-types/0346-newtype-wrapper/) — wrap raw integers in distinct UserId and ProductId types so they cannot be confused, printing `user-1 prod-2`
 
 ### OOP & Polymorphism
 - [0015-interfaces](04-oop/0015-interfaces/) — define a Shape interface implemented by two types; call area() polymorphically

@@ -1,0 +1,8 @@
+[package]
+name = "newtypewrapper"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "newtypewrapper"
+path = "src/main.rs"
