@@ -482,6 +482,7 @@ macOS via Homebrew (alternative):
 - [0409-distinct-until-changed](25-reactive/0409-distinct-until-changed/) — implement distinctUntilChanged, dropping consecutive duplicate values from 1,1,2,2,2,3,1
 - [0410-merge-streams](25-reactive/0410-merge-streams/) — implement merge of two timed streams using a virtual-time scheduler, interleaving them by emission time
 - [0411-concat-streams](25-reactive/0411-concat-streams/) — implement concat: subscribe to the second source only after the first completes; concat [1,2] then [3,4]
+- [0412-combine-latest](25-reactive/0412-combine-latest/) — implement combineLatest of two timed streams, emitting the pair of latest values whenever either source emits (once both have emitted)
 
 ## How to run
 
