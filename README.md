@@ -477,6 +477,7 @@ macOS via Homebrew (alternative):
 - [0404-cold-vs-hot-observable](25-reactive/0404-cold-vs-hot-observable/) — contrast a cold observable (re-runs its producer per subscriber) with a hot one (shares a single execution, so late subscribers miss earlier values)
 - [0405-map-operator](25-reactive/0405-map-operator/) — implement a map operator that transforms each emitted value, applying x => x*2 to a stream of 1, 2, 3, 4
 - [0406-filter-operator](25-reactive/0406-filter-operator/) — implement a filter operator that forwards only values passing a predicate, keeping the even numbers of 1..6
+- [0407-scan-accumulate](25-reactive/0407-scan-accumulate/) — implement a scan operator that emits the running accumulation; produce the running sums of 1, 2, 3, 4
 
 ## How to run
 
