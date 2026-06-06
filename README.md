@@ -479,6 +479,7 @@ macOS via Homebrew (alternative):
 - [0406-filter-operator](25-reactive/0406-filter-operator/) — implement a filter operator that forwards only values passing a predicate, keeping the even numbers of 1..6
 - [0407-scan-accumulate](25-reactive/0407-scan-accumulate/) — implement a scan operator that emits the running accumulation; produce the running sums of 1, 2, 3, 4
 - [0408-take-operator](25-reactive/0408-take-operator/) — implement take(n) over an unbounded source of the natural numbers, emitting the first 3 then completing (and unsubscribing the source)
+- [0409-distinct-until-changed](25-reactive/0409-distinct-until-changed/) — implement distinctUntilChanged, dropping consecutive duplicate values from 1,1,2,2,2,3,1
 
 ## How to run
 
