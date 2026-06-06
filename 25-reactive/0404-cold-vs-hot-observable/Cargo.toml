@@ -1,0 +1,8 @@
+[package]
+name = "coldvshotobservable"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "coldvshotobservable"
+path = "src/main.rs"
