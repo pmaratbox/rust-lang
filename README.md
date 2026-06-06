@@ -478,6 +478,7 @@ macOS via Homebrew (alternative):
 - [0405-map-operator](25-reactive/0405-map-operator/) — implement a map operator that transforms each emitted value, applying x => x*2 to a stream of 1, 2, 3, 4
 - [0406-filter-operator](25-reactive/0406-filter-operator/) — implement a filter operator that forwards only values passing a predicate, keeping the even numbers of 1..6
 - [0407-scan-accumulate](25-reactive/0407-scan-accumulate/) — implement a scan operator that emits the running accumulation; produce the running sums of 1, 2, 3, 4
+- [0408-take-operator](25-reactive/0408-take-operator/) — implement take(n) over an unbounded source of the natural numbers, emitting the first 3 then completing (and unsubscribing the source)
 
 ## How to run
 
