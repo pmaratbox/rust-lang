@@ -1,0 +1,8 @@
+[package]
+name = "observablecreate"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "observablecreate"
+path = "src/main.rs"

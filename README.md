@@ -470,6 +470,9 @@ macOS via Homebrew (alternative):
 - [0331-transducer-pipeline](24-functional-advanced/0331-transducer-pipeline/) — compose map(+1) with filter(even) and run it over [1,2,3,4], printing `2 4`
 - [0332-y-combinator](24-functional-advanced/0332-y-combinator/) — define factorial via a fixed-point combinator (no named self-recursion) and compute 5!, printing `120`
 
+### Reactive Programming
+- [0401-observable-create](25-reactive/0401-observable-create/) — build a push-based Observable from scratch that emits 1, 2, 3 to its observer and then completes
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
