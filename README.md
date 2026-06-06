@@ -484,6 +484,7 @@ macOS via Homebrew (alternative):
 - [0411-concat-streams](25-reactive/0411-concat-streams/) — implement concat: subscribe to the second source only after the first completes; concat [1,2] then [3,4]
 - [0412-combine-latest](25-reactive/0412-combine-latest/) — implement combineLatest of two timed streams, emitting the pair of latest values whenever either source emits (once both have emitted)
 - [0413-zip-streams](25-reactive/0413-zip-streams/) — implement zip that pairs values by index and combines them; zip [1,2,3] with [10,20,30] using a+b
+- [0414-flatmap-streams](25-reactive/0414-flatmap-streams/) — implement flatMap/mergeMap: map each outer value to an inner timed stream and merge all inners concurrently (no cancellation)
 
 ## How to run
 
