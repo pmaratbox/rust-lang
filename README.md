@@ -494,6 +494,7 @@ macOS via Homebrew (alternative):
 - [0421-debounce-virtual-time](25-reactive/0421-debounce-virtual-time/) — implement debounce(window) on a virtual-time scheduler: emit a value only after a quiet gap of `window` ticks with no newer value
 - [0422-throttle-virtual-time](25-reactive/0422-throttle-virtual-time/) — implement throttle(window) (leading edge) on a virtual-time scheduler: emit a value, then suppress further values for `window` ticks
 - [0423-event-emitter-pubsub](25-reactive/0423-event-emitter-pubsub/) — build a multi-topic EventEmitter with on(topic, handler), emit(topic, payload), and off(topic, handler)
+- [0424-reactive-signal-computed](25-reactive/0424-reactive-signal-computed/) — implement fine-grained reactivity: a writable signal and a derived computed that recomputes when its dependency changes
 
 ## How to run
 
