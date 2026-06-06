@@ -476,6 +476,7 @@ macOS via Homebrew (alternative):
 - [0403-subscribe-unsubscribe](25-reactive/0403-subscribe-unsubscribe/) — return a Subscription from subscribe() and use it to unsubscribe so later values are not delivered
 - [0404-cold-vs-hot-observable](25-reactive/0404-cold-vs-hot-observable/) — contrast a cold observable (re-runs its producer per subscriber) with a hot one (shares a single execution, so late subscribers miss earlier values)
 - [0405-map-operator](25-reactive/0405-map-operator/) — implement a map operator that transforms each emitted value, applying x => x*2 to a stream of 1, 2, 3, 4
+- [0406-filter-operator](25-reactive/0406-filter-operator/) — implement a filter operator that forwards only values passing a predicate, keeping the even numbers of 1..6
 
 ## How to run
 

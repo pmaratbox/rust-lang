@@ -1,0 +1,8 @@
+[package]
+name = "filteroperator"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "filteroperator"
+path = "src/main.rs"
