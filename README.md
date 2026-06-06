@@ -490,6 +490,7 @@ macOS via Homebrew (alternative):
 - [0417-behavior-subject](25-reactive/0417-behavior-subject/) — implement a BehaviorSubject that holds a current value and replays it immediately to each new subscriber
 - [0418-replay-subject](25-reactive/0418-replay-subject/) — implement a ReplaySubject with a buffer of the last 2 values, replayed to a late subscriber, which then also receives new values
 - [0419-catch-error](25-reactive/0419-catch-error/) — implement catchError that, on an error from the source, switches to a fallback stream
+- [0420-retry-on-error](25-reactive/0420-retry-on-error/) — implement retry(n) that resubscribes to the source on error up to n times; the source succeeds on the 3rd subscription
 
 ## How to run
 

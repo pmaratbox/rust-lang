@@ -1,0 +1,8 @@
+[package]
+name = "retryonerror"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "retryonerror"
+path = "src/main.rs"
