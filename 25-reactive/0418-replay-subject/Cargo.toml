@@ -1,0 +1,8 @@
+[package]
+name = "replaysubject"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "replaysubject"
+path = "src/main.rs"
