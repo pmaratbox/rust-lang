@@ -1,0 +1,8 @@
+[package]
+name = "catcherror"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "catcherror"
+path = "src/main.rs"

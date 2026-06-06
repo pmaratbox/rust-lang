@@ -489,6 +489,7 @@ macOS via Homebrew (alternative):
 - [0416-subject-multicast](25-reactive/0416-subject-multicast/) — implement a Subject that multicasts each emission to all current observers; two observers both receive 1 then 2
 - [0417-behavior-subject](25-reactive/0417-behavior-subject/) — implement a BehaviorSubject that holds a current value and replays it immediately to each new subscriber
 - [0418-replay-subject](25-reactive/0418-replay-subject/) — implement a ReplaySubject with a buffer of the last 2 values, replayed to a late subscriber, which then also receives new values
+- [0419-catch-error](25-reactive/0419-catch-error/) — implement catchError that, on an error from the source, switches to a fallback stream
 
 ## How to run
 
