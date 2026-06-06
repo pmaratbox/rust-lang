@@ -1,0 +1,8 @@
+[package]
+name = "debouncevirtualtime"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "debouncevirtualtime"
+path = "src/main.rs"
