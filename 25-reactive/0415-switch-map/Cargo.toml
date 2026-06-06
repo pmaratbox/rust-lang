@@ -1,0 +1,8 @@
+[package]
+name = "switchmap"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "switchmap"
+path = "src/main.rs"

@@ -485,6 +485,7 @@ macOS via Homebrew (alternative):
 - [0412-combine-latest](25-reactive/0412-combine-latest/) — implement combineLatest of two timed streams, emitting the pair of latest values whenever either source emits (once both have emitted)
 - [0413-zip-streams](25-reactive/0413-zip-streams/) — implement zip that pairs values by index and combines them; zip [1,2,3] with [10,20,30] using a+b
 - [0414-flatmap-streams](25-reactive/0414-flatmap-streams/) — implement flatMap/mergeMap: map each outer value to an inner timed stream and merge all inners concurrently (no cancellation)
+- [0415-switch-map](25-reactive/0415-switch-map/) — implement switchMap: when a new outer value arrives, cancel the previous inner subscription before starting the new one
 
 ## How to run
 
