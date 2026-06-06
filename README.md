@@ -473,6 +473,7 @@ macOS via Homebrew (alternative):
 ### Reactive Programming
 - [0401-observable-create](25-reactive/0401-observable-create/) — build a push-based Observable from scratch that emits 1, 2, 3 to its observer and then completes
 - [0402-observer-next-error-complete](25-reactive/0402-observer-next-error-complete/) — demonstrate the observer contract next*-then-terminal: emit 1 and 2, complete, and show that a post-complete next is ignored
+- [0403-subscribe-unsubscribe](25-reactive/0403-subscribe-unsubscribe/) — return a Subscription from subscribe() and use it to unsubscribe so later values are not delivered
 
 ## How to run
 
