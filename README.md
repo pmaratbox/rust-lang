@@ -481,6 +481,7 @@ macOS via Homebrew (alternative):
 - [0408-take-operator](25-reactive/0408-take-operator/) — implement take(n) over an unbounded source of the natural numbers, emitting the first 3 then completing (and unsubscribing the source)
 - [0409-distinct-until-changed](25-reactive/0409-distinct-until-changed/) — implement distinctUntilChanged, dropping consecutive duplicate values from 1,1,2,2,2,3,1
 - [0410-merge-streams](25-reactive/0410-merge-streams/) — implement merge of two timed streams using a virtual-time scheduler, interleaving them by emission time
+- [0411-concat-streams](25-reactive/0411-concat-streams/) — implement concat: subscribe to the second source only after the first completes; concat [1,2] then [3,4]
 
 ## How to run
 
