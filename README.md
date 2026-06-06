@@ -487,6 +487,7 @@ macOS via Homebrew (alternative):
 - [0414-flatmap-streams](25-reactive/0414-flatmap-streams/) — implement flatMap/mergeMap: map each outer value to an inner timed stream and merge all inners concurrently (no cancellation)
 - [0415-switch-map](25-reactive/0415-switch-map/) — implement switchMap: when a new outer value arrives, cancel the previous inner subscription before starting the new one
 - [0416-subject-multicast](25-reactive/0416-subject-multicast/) — implement a Subject that multicasts each emission to all current observers; two observers both receive 1 then 2
+- [0417-behavior-subject](25-reactive/0417-behavior-subject/) — implement a BehaviorSubject that holds a current value and replays it immediately to each new subscriber
 
 ## How to run
 
