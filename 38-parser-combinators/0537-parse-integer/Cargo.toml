@@ -1,0 +1,11 @@
+[package]
+name = "parse-integer"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "parse-integer"
+path = "src/main.rs"
+
+[dependencies]
+nom = "7"

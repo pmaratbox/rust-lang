@@ -618,6 +618,9 @@ macOS via Homebrew (alternative):
 - [0535-prepend-append](37-immutable-collections/0535-prepend-append/) — add to both ends
 - [0536-nested-update](37-immutable-collections/0536-nested-update/) — update a nested value immutably
 
+### Parser Combinators
+- [0537-parse-integer](38-parser-combinators/0537-parse-integer/) — parse a run of digits into an int
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
