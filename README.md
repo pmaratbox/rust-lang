@@ -644,6 +644,7 @@ macOS via Homebrew (alternative):
 - [0555-elementwise-add](40-numeric-arrays/0555-elementwise-add/) — add two vectors element-wise
 - [0556-matrix-multiply](40-numeric-arrays/0556-matrix-multiply/) — multiply two 2x2 matrices
 - [0557-transpose](40-numeric-arrays/0557-transpose/) — transpose a matrix
+- [0558-scalar-multiply](40-numeric-arrays/0558-scalar-multiply/) — multiply a matrix by a scalar
 
 ## How to run
 
