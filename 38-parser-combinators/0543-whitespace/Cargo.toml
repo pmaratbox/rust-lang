@@ -1,0 +1,11 @@
+[package]
+name = "whitespace"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "whitespace"
+path = "src/main.rs"
+
+[dependencies]
+nom = "7"
