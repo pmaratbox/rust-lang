@@ -530,6 +530,7 @@ macOS via Homebrew (alternative):
 - [0463-array-of-primitives](29-serialization/0463-array-of-primitives/) — serialize a list of integers
 - [0464-optional-default](29-serialization/0464-optional-default/) — deserialize JSON missing a field, using a default
 - [0465-round-trip](29-serialization/0465-round-trip/) — serialize then deserialize the same object
+- [0466-parse-nested-access](29-serialization/0466-parse-nested-access/) — parse JSON and read a deeply nested value
 
 ## How to run
 
