@@ -524,6 +524,7 @@ macOS via Homebrew (alternative):
 
 ### Serialization & JSON
 - [0459-serialize-object](29-serialization/0459-serialize-object/) — serialize a typed object to a compact JSON string
+- [0460-deserialize-object](29-serialization/0460-deserialize-object/) — parse a JSON string into a typed object
 
 ## How to run
 
