@@ -578,6 +578,9 @@ macOS via Homebrew (alternative):
 - [0503-method-routing](33-web-frameworks/0503-method-routing/) — same path, different methods
 - [0504-error-handler](33-web-frameworks/0504-error-handler/) — handle a thrown error with a 500
 
+### GraphQL
+- [0505-hello-query](34-graphql/0505-hello-query/) — execute a simple query
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
