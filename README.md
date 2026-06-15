@@ -574,6 +574,7 @@ macOS via Homebrew (alternative):
 - [0499-custom-status](33-web-frameworks/0499-custom-status/) — return a custom status code
 - [0500-request-header](33-web-frameworks/0500-request-header/) — read a request header
 - [0501-middleware](33-web-frameworks/0501-middleware/) — apply middleware that transforms the response
+- [0502-multiple-routes](33-web-frameworks/0502-multiple-routes/) — register and hit two routes
 
 ## How to run
 
