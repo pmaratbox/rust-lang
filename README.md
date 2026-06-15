@@ -654,6 +654,7 @@ macOS via Homebrew (alternative):
 - [0563-hmac-sha256](41-crypto-hashing/0563-hmac-sha256/) — hMAC-SHA256 with a key
 - [0564-pbkdf2](41-crypto-hashing/0564-pbkdf2/) — derive a key with PBKDF2
 - [0565-base64-encode](41-crypto-hashing/0565-base64-encode/) — base64-encode bytes
+- [0566-incremental-hash](41-crypto-hashing/0566-incremental-hash/) — hash data in two update calls
 
 ## How to run
 
