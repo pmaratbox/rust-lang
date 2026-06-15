@@ -576,6 +576,7 @@ macOS via Homebrew (alternative):
 - [0501-middleware](33-web-frameworks/0501-middleware/) — apply middleware that transforms the response
 - [0502-multiple-routes](33-web-frameworks/0502-multiple-routes/) — register and hit two routes
 - [0503-method-routing](33-web-frameworks/0503-method-routing/) — same path, different methods
+- [0504-error-handler](33-web-frameworks/0504-error-handler/) — handle a thrown error with a 500
 
 ## How to run
 
