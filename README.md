@@ -554,6 +554,9 @@ macOS via Homebrew (alternative):
 - [0483-default-value](31-template-engines/0483-default-value/) — provide a default for a missing value
 - [0484-list-length](31-template-engines/0484-list-length/) — render the length of a list
 
+### Validation & Schemas
+- [0485-valid-input](32-validation/0485-valid-input/) — a valid object passes validation
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
