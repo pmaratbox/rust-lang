@@ -550,6 +550,7 @@ macOS via Homebrew (alternative):
 - [0479-loop](31-template-engines/0479-loop/) — iterate a list in a template
 - [0480-nested-access](31-template-engines/0480-nested-access/) — access a nested field in a template
 - [0481-loop-objects](31-template-engines/0481-loop-objects/) — iterate a list of objects
+- [0482-uppercase-filter](31-template-engines/0482-uppercase-filter/) — apply an uppercase filter/helper
 
 ## How to run
 

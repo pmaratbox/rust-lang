@@ -1,0 +1,11 @@
+[package]
+name = "uppercase_filter"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "uppercase_filter"
+path = "src/main.rs"
+
+[dependencies]
+tera = "1"
