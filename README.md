@@ -641,6 +641,7 @@ macOS via Homebrew (alternative):
 ### Numeric & Arrays
 - [0553-vector-sum](40-numeric-arrays/0553-vector-sum/) — sum the elements of a vector
 - [0554-dot-product](40-numeric-arrays/0554-dot-product/) — dot product of two vectors
+- [0555-elementwise-add](40-numeric-arrays/0555-elementwise-add/) — add two vectors element-wise
 
 ## How to run
 

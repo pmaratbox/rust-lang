@@ -1,0 +1,11 @@
+[package]
+name = "elementwise-add"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "elementwise-add"
+path = "src/main.rs"
+
+[dependencies]
+ndarray = "0.16"
