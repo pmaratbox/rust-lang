@@ -601,6 +601,7 @@ macOS via Homebrew (alternative):
 ### Date & Time Libraries
 - [0521-parse-and-format](36-datetime/0521-parse-and-format/) — parse an ISO date and format it back
 - [0522-add-days](36-datetime/0522-add-days/) — add a number of days to a date
+- [0523-difference-days](36-datetime/0523-difference-days/) — days between two dates
 
 ## How to run
 
