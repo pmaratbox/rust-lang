@@ -580,6 +580,7 @@ macOS via Homebrew (alternative):
 
 ### GraphQL
 - [0505-hello-query](34-graphql/0505-hello-query/) — execute a simple query
+- [0506-field-argument](34-graphql/0506-field-argument/) — pass an argument to a field
 
 ## How to run
 
