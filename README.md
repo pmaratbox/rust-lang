@@ -586,6 +586,7 @@ macOS via Homebrew (alternative):
 - [0509-nested-object](34-graphql/0509-nested-object/) — select a field through nested object types
 - [0510-multiple-fields](34-graphql/0510-multiple-fields/) — select multiple fields of an object
 - [0511-mutation](34-graphql/0511-mutation/) — execute a mutation
+- [0512-variables](34-graphql/0512-variables/) — execute a query with variables
 
 ## How to run
 
