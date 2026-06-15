@@ -501,6 +501,7 @@ macOS via Homebrew (alternative):
 - [0438-create-table-insert](27-database-sqlite/0438-create-table-insert/) — create a table, insert rows, and select them back
 - [0439-parameterized-query](27-database-sqlite/0439-parameterized-query/) — bind a parameter to query safely (no string concatenation)
 - [0440-update-delete](27-database-sqlite/0440-update-delete/) — modify and remove rows, then read the result
+- [0441-aggregate-functions](27-database-sqlite/0441-aggregate-functions/) — compute count, sum, min, and max
 
 ## How to run
 
