@@ -537,6 +537,7 @@ macOS via Homebrew (alternative):
 ### CLI Argument Parsing
 - [0469-positional-argument](30-cli-args/0469-positional-argument/) — parse a positional argument
 - [0470-boolean-flag](30-cli-args/0470-boolean-flag/) — parse a boolean flag
+- [0471-option-with-value](30-cli-args/0471-option-with-value/) — parse an option that takes a value
 
 ## How to run
 
