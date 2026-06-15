@@ -513,6 +513,7 @@ macOS via Homebrew (alternative):
 ### ORM & Query Builders
 - [0449-define-model-and-insert](28-orm/0449-define-model-and-insert/) — define an entity/model, insert rows, and read them back
 - [0450-filter-where](28-orm/0450-filter-where/) — query rows matching a condition
+- [0451-order-by](28-orm/0451-order-by/) — sort results by a column
 
 ## How to run
 
