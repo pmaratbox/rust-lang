@@ -1,0 +1,11 @@
+[package]
+name = "create_table_insert"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "create_table_insert"
+path = "src/main.rs"
+
+[dependencies]
+rusqlite = { version = "0.32", features = ["bundled"] }

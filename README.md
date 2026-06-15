@@ -498,6 +498,7 @@ macOS via Homebrew (alternative):
 
 ### Databases (SQLite)
 - [0437-connect-and-query](27-database-sqlite/0437-connect-and-query/) — open an in-memory SQLite database and run a single query
+- [0438-create-table-insert](27-database-sqlite/0438-create-table-insert/) — create a table, insert rows, and select them back
 
 ## How to run
 
