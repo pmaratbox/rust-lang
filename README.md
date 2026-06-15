@@ -573,6 +573,7 @@ macOS via Homebrew (alternative):
 - [0498-status-404](33-web-frameworks/0498-status-404/) — unknown route returns 404
 - [0499-custom-status](33-web-frameworks/0499-custom-status/) — return a custom status code
 - [0500-request-header](33-web-frameworks/0500-request-header/) — read a request header
+- [0501-middleware](33-web-frameworks/0501-middleware/) — apply middleware that transforms the response
 
 ## How to run
 
