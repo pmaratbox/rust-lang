@@ -1,0 +1,11 @@
+[package]
+name = "set_union"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "set_union"
+path = "src/main.rs"
+
+[dependencies]
+im = "15"

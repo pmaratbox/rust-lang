@@ -614,6 +614,7 @@ macOS via Homebrew (alternative):
 - [0531-immutable-set](37-immutable-collections/0531-immutable-set/) — adding to a set returns a new set
 - [0532-update-element](37-immutable-collections/0532-update-element/) — updating an index returns a new list
 - [0533-map-filter](37-immutable-collections/0533-map-filter/) — transform via map/filter returning new collections
+- [0534-set-union](37-immutable-collections/0534-set-union/) — union of two immutable sets
 
 ## How to run
 
