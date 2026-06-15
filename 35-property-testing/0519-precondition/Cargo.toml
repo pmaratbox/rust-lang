@@ -1,0 +1,11 @@
+[package]
+name = "precondition"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "precondition"
+path = "src/main.rs"
+
+[dependencies]
+proptest = "1"

@@ -595,6 +595,7 @@ macOS via Homebrew (alternative):
 - [0516-sort-idempotent](35-property-testing/0516-sort-idempotent/) — sorting twice equals sorting once
 - [0517-custom-generator](35-property-testing/0517-custom-generator/) — build a generator and test a property
 - [0518-multiple-args](35-property-testing/0518-multiple-args/) — a property with two generated arguments
+- [0519-precondition](35-property-testing/0519-precondition/) — constrain inputs with a precondition
 
 ## How to run
 
