@@ -1,0 +1,11 @@
+[package]
+name = "toggle"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "toggle"
+path = "src/main.rs"
+
+[dependencies]
+rust-fsm = "0.6"
