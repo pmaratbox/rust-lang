@@ -646,6 +646,9 @@ macOS via Homebrew (alternative):
 - [0557-transpose](40-numeric-arrays/0557-transpose/) — transpose a matrix
 - [0558-scalar-multiply](40-numeric-arrays/0558-scalar-multiply/) — multiply a matrix by a scalar
 
+### Cryptography & Hashing
+- [0559-sha256](41-crypto-hashing/0559-sha256/) — sHA-256 hash of a string
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
