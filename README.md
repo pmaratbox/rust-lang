@@ -531,6 +531,7 @@ macOS via Homebrew (alternative):
 - [0464-optional-default](29-serialization/0464-optional-default/) — deserialize JSON missing a field, using a default
 - [0465-round-trip](29-serialization/0465-round-trip/) — serialize then deserialize the same object
 - [0466-parse-nested-access](29-serialization/0466-parse-nested-access/) — parse JSON and read a deeply nested value
+- [0467-field-rename](29-serialization/0467-field-rename/) — map a code field name to a different JSON key
 
 ## How to run
 
