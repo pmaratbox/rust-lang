@@ -1,0 +1,11 @@
+[package]
+name = "sha512"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sha512"
+path = "src/main.rs"
+
+[dependencies]
+sha2 = "0.10"
