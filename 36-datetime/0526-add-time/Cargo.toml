@@ -1,0 +1,11 @@
+[package]
+name = "add-time"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "add-time"
+path = "src/main.rs"
+
+[dependencies]
+chrono = "0.4"
