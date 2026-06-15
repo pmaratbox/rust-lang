@@ -1,0 +1,11 @@
+[package]
+name = "number_range"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "number_range"
+path = "src/main.rs"
+
+[dependencies]
+validator = { version = "0.18", features = ["derive"] }
