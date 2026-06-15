@@ -1,0 +1,11 @@
+[package]
+name = "guarded-transition"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "guarded-transition"
+path = "src/main.rs"
+
+[dependencies]
+rust-fsm = "0.6"
