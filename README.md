@@ -588,6 +588,9 @@ macOS via Homebrew (alternative):
 - [0511-mutation](34-graphql/0511-mutation/) — execute a mutation
 - [0512-variables](34-graphql/0512-variables/) — execute a query with variables
 
+### Property-Based Testing
+- [0513-first-property](35-property-testing/0513-first-property/) — a property over generated lists
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

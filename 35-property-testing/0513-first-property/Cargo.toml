@@ -1,0 +1,11 @@
+[package]
+name = "first-property"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "first-property"
+path = "src/main.rs"
+
+[dependencies]
+proptest = "1"
