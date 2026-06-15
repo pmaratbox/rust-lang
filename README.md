@@ -560,6 +560,7 @@ macOS via Homebrew (alternative):
 - [0487-min-length](32-validation/0487-min-length/) — a string is too short
 - [0488-number-range](32-validation/0488-number-range/) — a number is out of range
 - [0489-max-length](32-validation/0489-max-length/) — a string is too long
+- [0490-email-format](32-validation/0490-email-format/) — an email is malformed
 
 ## How to run
 
