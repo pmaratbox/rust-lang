@@ -522,6 +522,9 @@ macOS via Homebrew (alternative):
 - [0457-group-by](28-orm/0457-group-by/) — aggregate per group via the query API
 - [0458-join](28-orm/0458-join/) — join two models/tables
 
+### Serialization & JSON
+- [0459-serialize-object](29-serialization/0459-serialize-object/) — serialize a typed object to a compact JSON string
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
