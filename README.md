@@ -552,6 +552,7 @@ macOS via Homebrew (alternative):
 - [0481-loop-objects](31-template-engines/0481-loop-objects/) — iterate a list of objects
 - [0482-uppercase-filter](31-template-engines/0482-uppercase-filter/) — apply an uppercase filter/helper
 - [0483-default-value](31-template-engines/0483-default-value/) — provide a default for a missing value
+- [0484-list-length](31-template-engines/0484-list-length/) — render the length of a list
 
 ## How to run
 
