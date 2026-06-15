@@ -583,6 +583,7 @@ macOS via Homebrew (alternative):
 - [0506-field-argument](34-graphql/0506-field-argument/) — pass an argument to a field
 - [0507-object-field](34-graphql/0507-object-field/) — return an object type and select a field
 - [0508-list-field](34-graphql/0508-list-field/) — return a list of scalars
+- [0509-nested-object](34-graphql/0509-nested-object/) — select a field through nested object types
 
 ## How to run
 
