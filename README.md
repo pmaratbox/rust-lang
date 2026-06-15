@@ -575,6 +575,7 @@ macOS via Homebrew (alternative):
 - [0500-request-header](33-web-frameworks/0500-request-header/) — read a request header
 - [0501-middleware](33-web-frameworks/0501-middleware/) — apply middleware that transforms the response
 - [0502-multiple-routes](33-web-frameworks/0502-multiple-routes/) — register and hit two routes
+- [0503-method-routing](33-web-frameworks/0503-method-routing/) — same path, different methods
 
 ## How to run
 
