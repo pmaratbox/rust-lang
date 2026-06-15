@@ -582,6 +582,7 @@ macOS via Homebrew (alternative):
 - [0505-hello-query](34-graphql/0505-hello-query/) — execute a simple query
 - [0506-field-argument](34-graphql/0506-field-argument/) — pass an argument to a field
 - [0507-object-field](34-graphql/0507-object-field/) — return an object type and select a field
+- [0508-list-field](34-graphql/0508-list-field/) — return a list of scalars
 
 ## How to run
 
