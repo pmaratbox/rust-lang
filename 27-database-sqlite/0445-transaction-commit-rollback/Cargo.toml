@@ -1,0 +1,11 @@
+[package]
+name = "transaction_commit_rollback"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "transaction_commit_rollback"
+path = "src/main.rs"
+
+[dependencies]
+rusqlite = { version = "0.32", features = ["bundled"] }

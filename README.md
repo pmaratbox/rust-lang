@@ -505,6 +505,7 @@ macOS via Homebrew (alternative):
 - [0442-group-by](27-database-sqlite/0442-group-by/) — aggregate amounts per group
 - [0443-order-by-limit](27-database-sqlite/0443-order-by-limit/) — sort descending and take the top rows
 - [0444-inner-join](27-database-sqlite/0444-inner-join/) — join two tables on a key
+- [0445-transaction-commit-rollback](27-database-sqlite/0445-transaction-commit-rollback/) — commit one change and roll back another
 
 ## How to run
 
