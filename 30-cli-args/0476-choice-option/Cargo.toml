@@ -1,0 +1,11 @@
+[package]
+name = "choice_option"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "choice_option"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
