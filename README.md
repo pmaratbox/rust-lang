@@ -603,6 +603,7 @@ macOS via Homebrew (alternative):
 - [0522-add-days](36-datetime/0522-add-days/) — add a number of days to a date
 - [0523-difference-days](36-datetime/0523-difference-days/) — days between two dates
 - [0524-components](36-datetime/0524-components/) — extract year, month, day
+- [0525-weekday](36-datetime/0525-weekday/) — iSO weekday number of a date
 
 ## How to run
 

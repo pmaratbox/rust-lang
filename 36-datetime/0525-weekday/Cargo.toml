@@ -1,0 +1,11 @@
+[package]
+name = "weekday"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "weekday"
+path = "src/main.rs"
+
+[dependencies]
+chrono = "0.4"
