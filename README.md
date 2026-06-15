@@ -593,6 +593,7 @@ macOS via Homebrew (alternative):
 - [0514-integer-property](35-property-testing/0514-integer-property/) — a property over generated integers
 - [0515-string-property](35-property-testing/0515-string-property/) — a property over generated strings
 - [0516-sort-idempotent](35-property-testing/0516-sort-idempotent/) — sorting twice equals sorting once
+- [0517-custom-generator](35-property-testing/0517-custom-generator/) — build a generator and test a property
 
 ## How to run
 
