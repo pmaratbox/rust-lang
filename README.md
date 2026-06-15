@@ -638,6 +638,9 @@ macOS via Homebrew (alternative):
 - [0551-reset](39-state-machines/0551-reset/) — a reset event returns to the initial state
 - [0552-workflow](39-state-machines/0552-workflow/) — a multi-step approval workflow
 
+### Numeric & Arrays
+- [0553-vector-sum](40-numeric-arrays/0553-vector-sum/) — sum the elements of a vector
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

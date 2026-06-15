@@ -1,0 +1,11 @@
+[package]
+name = "vector-sum"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "vector-sum"
+path = "src/main.rs"
+
+[dependencies]
+ndarray = "0.16"
