@@ -606,6 +606,7 @@ macOS via Homebrew (alternative):
 - [0525-weekday](36-datetime/0525-weekday/) — iSO weekday number of a date
 - [0526-add-time](36-datetime/0526-add-time/) — add minutes to a datetime
 - [0527-timezone-offset](36-datetime/0527-timezone-offset/) — convert a UTC instant to a fixed offset
+- [0528-unix-timestamp](36-datetime/0528-unix-timestamp/) — epoch seconds of a UTC instant
 
 ## How to run
 
