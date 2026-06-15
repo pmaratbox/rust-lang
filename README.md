@@ -529,6 +529,7 @@ macOS via Homebrew (alternative):
 - [0462-array-of-objects](29-serialization/0462-array-of-objects/) — serialize a list of objects to a JSON array
 - [0463-array-of-primitives](29-serialization/0463-array-of-primitives/) — serialize a list of integers
 - [0464-optional-default](29-serialization/0464-optional-default/) — deserialize JSON missing a field, using a default
+- [0465-round-trip](29-serialization/0465-round-trip/) — serialize then deserialize the same object
 
 ## How to run
 
