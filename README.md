@@ -633,6 +633,7 @@ macOS via Homebrew (alternative):
 - [0546-toggle](39-state-machines/0546-toggle/) — an event that flips between two states
 - [0547-traffic-light](39-state-machines/0547-traffic-light/) — cycle through states
 - [0548-guarded-transition](39-state-machines/0548-guarded-transition/) — a transition only valid from a specific state
+- [0549-invalid-transition](39-state-machines/0549-invalid-transition/) — an event with no transition leaves state unchanged
 
 ## How to run
 
