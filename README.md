@@ -549,6 +549,7 @@ macOS via Homebrew (alternative):
 - [0478-conditional](31-template-engines/0478-conditional/) — render based on a condition
 - [0479-loop](31-template-engines/0479-loop/) — iterate a list in a template
 - [0480-nested-access](31-template-engines/0480-nested-access/) — access a nested field in a template
+- [0481-loop-objects](31-template-engines/0481-loop-objects/) — iterate a list of objects
 
 ## How to run
 
