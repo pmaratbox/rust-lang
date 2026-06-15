@@ -519,6 +519,7 @@ macOS via Homebrew (alternative):
 - [0454-delete-row](28-orm/0454-delete-row/) — remove a persisted entity
 - [0455-count](28-orm/0455-count/) — count rows via the query API
 - [0456-sum-aggregate](28-orm/0456-sum-aggregate/) — sum a column via the query API
+- [0457-group-by](28-orm/0457-group-by/) — aggregate per group via the query API
 
 ## How to run
 
