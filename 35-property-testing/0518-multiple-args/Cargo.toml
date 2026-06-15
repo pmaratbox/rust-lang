@@ -1,0 +1,11 @@
+[package]
+name = "multiple-args"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "multiple-args"
+path = "src/main.rs"
+
+[dependencies]
+proptest = "1"
