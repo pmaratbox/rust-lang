@@ -570,6 +570,7 @@ macOS via Homebrew (alternative):
 - [0495-path-param](33-web-frameworks/0495-path-param/) — capture a path parameter
 - [0496-query-param](33-web-frameworks/0496-query-param/) — read a query-string parameter
 - [0497-post-json-body](33-web-frameworks/0497-post-json-body/) — parse a JSON request body
+- [0498-status-404](33-web-frameworks/0498-status-404/) — unknown route returns 404
 
 ## How to run
 
