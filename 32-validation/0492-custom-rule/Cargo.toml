@@ -1,0 +1,11 @@
+[package]
+name = "custom_rule"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "custom_rule"
+path = "src/main.rs"
+
+[dependencies]
+validator = { version = "0.18", features = ["derive"] }
