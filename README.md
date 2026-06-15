@@ -510,6 +510,9 @@ macOS via Homebrew (alternative):
 - [0447-batch-insert](27-database-sqlite/0447-batch-insert/) — insert many rows efficiently in one transaction
 - [0448-upsert](27-database-sqlite/0448-upsert/) — insert or update on primary-key conflict
 
+### ORM & Query Builders
+- [0449-define-model-and-insert](28-orm/0449-define-model-and-insert/) — define an entity/model, insert rows, and read them back
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
