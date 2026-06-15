@@ -634,6 +634,7 @@ macOS via Homebrew (alternative):
 - [0547-traffic-light](39-state-machines/0547-traffic-light/) — cycle through states
 - [0548-guarded-transition](39-state-machines/0548-guarded-transition/) — a transition only valid from a specific state
 - [0549-invalid-transition](39-state-machines/0549-invalid-transition/) — an event with no transition leaves state unchanged
+- [0550-transition-count](39-state-machines/0550-transition-count/) — an action runs on each transition
 
 ## How to run
 
