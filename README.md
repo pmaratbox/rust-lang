@@ -564,6 +564,9 @@ macOS via Homebrew (alternative):
 - [0491-multiple-errors](32-validation/0491-multiple-errors/) — collect several errors, sorted
 - [0492-custom-rule](32-validation/0492-custom-rule/) — a custom validation rule fails
 
+### Web Frameworks
+- [0493-hello-route](33-web-frameworks/0493-hello-route/) — define a GET route returning text
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
