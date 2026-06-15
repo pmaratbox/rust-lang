@@ -596,6 +596,7 @@ macOS via Homebrew (alternative):
 - [0517-custom-generator](35-property-testing/0517-custom-generator/) — build a generator and test a property
 - [0518-multiple-args](35-property-testing/0518-multiple-args/) — a property with two generated arguments
 - [0519-precondition](35-property-testing/0519-precondition/) — constrain inputs with a precondition
+- [0520-finds-counterexample](35-property-testing/0520-finds-counterexample/) — a false property is detected
 
 ## How to run
 
