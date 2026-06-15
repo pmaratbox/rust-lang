@@ -517,6 +517,7 @@ macOS via Homebrew (alternative):
 - [0452-limit](28-orm/0452-limit/) — take only the top N rows
 - [0453-update-row](28-orm/0453-update-row/) — modify a persisted entity
 - [0454-delete-row](28-orm/0454-delete-row/) — remove a persisted entity
+- [0455-count](28-orm/0455-count/) — count rows via the query API
 
 ## How to run
 
