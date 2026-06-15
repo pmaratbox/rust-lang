@@ -1,0 +1,11 @@
+[package]
+name = "prepend_append"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "prepend_append"
+path = "src/main.rs"
+
+[dependencies]
+im = "15"
