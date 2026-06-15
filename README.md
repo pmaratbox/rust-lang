@@ -568,6 +568,7 @@ macOS via Homebrew (alternative):
 - [0493-hello-route](33-web-frameworks/0493-hello-route/) — define a GET route returning text
 - [0494-json-response](33-web-frameworks/0494-json-response/) — return a JSON body
 - [0495-path-param](33-web-frameworks/0495-path-param/) — capture a path parameter
+- [0496-query-param](33-web-frameworks/0496-query-param/) — read a query-string parameter
 
 ## How to run
 
