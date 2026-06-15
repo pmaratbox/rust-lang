@@ -1,0 +1,11 @@
+[package]
+name = "separated-list"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "separated-list"
+path = "src/main.rs"
+
+[dependencies]
+nom = "7"

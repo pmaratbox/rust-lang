@@ -623,6 +623,7 @@ macOS via Homebrew (alternative):
 - [0538-sequence](38-parser-combinators/0538-sequence/) — parse two parsers in sequence
 - [0539-alternative](38-parser-combinators/0539-alternative/) — choice between two parsers
 - [0540-many](38-parser-combinators/0540-many/) — repeat a parser zero+ times
+- [0541-separated-list](38-parser-combinators/0541-separated-list/) — parse a comma-separated list
 
 ## How to run
 
