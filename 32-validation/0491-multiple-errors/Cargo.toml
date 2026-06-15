@@ -1,0 +1,11 @@
+[package]
+name = "multiple_errors"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "multiple_errors"
+path = "src/main.rs"
+
+[dependencies]
+validator = { version = "0.18", features = ["derive"] }

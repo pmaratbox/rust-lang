@@ -561,6 +561,7 @@ macOS via Homebrew (alternative):
 - [0488-number-range](32-validation/0488-number-range/) — a number is out of range
 - [0489-max-length](32-validation/0489-max-length/) — a string is too long
 - [0490-email-format](32-validation/0490-email-format/) — an email is malformed
+- [0491-multiple-errors](32-validation/0491-multiple-errors/) — collect several errors, sorted
 
 ## How to run
 
