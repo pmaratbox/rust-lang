@@ -507,6 +507,7 @@ macOS via Homebrew (alternative):
 - [0444-inner-join](27-database-sqlite/0444-inner-join/) — join two tables on a key
 - [0445-transaction-commit-rollback](27-database-sqlite/0445-transaction-commit-rollback/) — commit one change and roll back another
 - [0446-indexes](27-database-sqlite/0446-indexes/) — create an index and use it in a lookup
+- [0447-batch-insert](27-database-sqlite/0447-batch-insert/) — insert many rows efficiently in one transaction
 
 ## How to run
 
