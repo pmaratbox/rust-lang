@@ -652,6 +652,7 @@ macOS via Homebrew (alternative):
 - [0561-sha1](41-crypto-hashing/0561-sha1/) — sHA-1 hash of a string
 - [0562-md5](41-crypto-hashing/0562-md5/) — mD5 hash of a string
 - [0563-hmac-sha256](41-crypto-hashing/0563-hmac-sha256/) — hMAC-SHA256 with a key
+- [0564-pbkdf2](41-crypto-hashing/0564-pbkdf2/) — derive a key with PBKDF2
 
 ## How to run
 
