@@ -503,6 +503,7 @@ macOS via Homebrew (alternative):
 - [0440-update-delete](27-database-sqlite/0440-update-delete/) — modify and remove rows, then read the result
 - [0441-aggregate-functions](27-database-sqlite/0441-aggregate-functions/) — compute count, sum, min, and max
 - [0442-group-by](27-database-sqlite/0442-group-by/) — aggregate amounts per group
+- [0443-order-by-limit](27-database-sqlite/0443-order-by-limit/) — sort descending and take the top rows
 
 ## How to run
 
