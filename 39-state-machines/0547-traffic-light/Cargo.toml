@@ -1,0 +1,11 @@
+[package]
+name = "traffic-light"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "traffic-light"
+path = "src/main.rs"
+
+[dependencies]
+rust-fsm = "0.6"
