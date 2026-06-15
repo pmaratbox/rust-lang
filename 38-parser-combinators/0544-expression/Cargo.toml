@@ -1,0 +1,11 @@
+[package]
+name = "expression"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "expression"
+path = "src/main.rs"
+
+[dependencies]
+nom = "7"
