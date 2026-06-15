@@ -636,6 +636,7 @@ macOS via Homebrew (alternative):
 - [0549-invalid-transition](39-state-machines/0549-invalid-transition/) — an event with no transition leaves state unchanged
 - [0550-transition-count](39-state-machines/0550-transition-count/) — an action runs on each transition
 - [0551-reset](39-state-machines/0551-reset/) — a reset event returns to the initial state
+- [0552-workflow](39-state-machines/0552-workflow/) — a multi-step approval workflow
 
 ## How to run
 

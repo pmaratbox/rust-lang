@@ -1,0 +1,11 @@
+[package]
+name = "workflow"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "workflow"
+path = "src/main.rs"
+
+[dependencies]
+rust-fsm = "0.6"
