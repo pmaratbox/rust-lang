@@ -1,0 +1,11 @@
+[package]
+name = "sort-idempotent"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sort-idempotent"
+path = "src/main.rs"
+
+[dependencies]
+proptest = "1"
