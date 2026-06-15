@@ -653,6 +653,7 @@ macOS via Homebrew (alternative):
 - [0562-md5](41-crypto-hashing/0562-md5/) — mD5 hash of a string
 - [0563-hmac-sha256](41-crypto-hashing/0563-hmac-sha256/) — hMAC-SHA256 with a key
 - [0564-pbkdf2](41-crypto-hashing/0564-pbkdf2/) — derive a key with PBKDF2
+- [0565-base64-encode](41-crypto-hashing/0565-base64-encode/) — base64-encode bytes
 
 ## How to run
 

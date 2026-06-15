@@ -1,0 +1,11 @@
+[package]
+name = "base64_encode"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "base64-encode"
+path = "src/main.rs"
+
+[dependencies]
+base64 = "0.22"
