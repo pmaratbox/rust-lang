@@ -1,0 +1,11 @@
+[package]
+name = "multiple_values"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "multiple_values"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
