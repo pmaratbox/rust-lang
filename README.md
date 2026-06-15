@@ -496,6 +496,9 @@ macOS via Homebrew (alternative):
 - [0423-event-emitter-pubsub](25-reactive/0423-event-emitter-pubsub/) — build a multi-topic EventEmitter with on(topic, handler), emit(topic, payload), and off(topic, handler)
 - [0424-reactive-signal-computed](25-reactive/0424-reactive-signal-computed/) — implement fine-grained reactivity: a writable signal and a derived computed that recomputes when its dependency changes
 
+### Databases (SQLite)
+- [0437-connect-and-query](27-database-sqlite/0437-connect-and-query/) — open an in-memory SQLite database and run a single query
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
