@@ -616,6 +616,7 @@ macOS via Homebrew (alternative):
 - [0533-map-filter](37-immutable-collections/0533-map-filter/) — transform via map/filter returning new collections
 - [0534-set-union](37-immutable-collections/0534-set-union/) — union of two immutable sets
 - [0535-prepend-append](37-immutable-collections/0535-prepend-append/) — add to both ends
+- [0536-nested-update](37-immutable-collections/0536-nested-update/) — update a nested value immutably
 
 ## How to run
 

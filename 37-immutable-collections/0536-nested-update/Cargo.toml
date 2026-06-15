@@ -1,0 +1,11 @@
+[package]
+name = "nested_update"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "nested_update"
+path = "src/main.rs"
+
+[dependencies]
+im = "15"
