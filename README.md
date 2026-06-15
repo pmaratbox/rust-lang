@@ -515,6 +515,7 @@ macOS via Homebrew (alternative):
 - [0450-filter-where](28-orm/0450-filter-where/) — query rows matching a condition
 - [0451-order-by](28-orm/0451-order-by/) — sort results by a column
 - [0452-limit](28-orm/0452-limit/) — take only the top N rows
+- [0453-update-row](28-orm/0453-update-row/) — modify a persisted entity
 
 ## How to run
 
