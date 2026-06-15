@@ -628,6 +628,9 @@ macOS via Homebrew (alternative):
 - [0543-whitespace](38-parser-combinators/0543-whitespace/) — skip surrounding whitespace
 - [0544-expression](38-parser-combinators/0544-expression/) — parse and evaluate a sum expression
 
+### State Machines
+- [0545-basic-transition](39-state-machines/0545-basic-transition/) — one event changes state
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
