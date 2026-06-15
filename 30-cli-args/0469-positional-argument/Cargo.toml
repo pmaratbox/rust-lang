@@ -1,0 +1,11 @@
+[package]
+name = "positional_argument"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "positional_argument"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
