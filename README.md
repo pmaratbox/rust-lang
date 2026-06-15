@@ -611,6 +611,7 @@ macOS via Homebrew (alternative):
 ### Immutable Collections
 - [0529-immutable-list](37-immutable-collections/0529-immutable-list/) — adding returns a new list; original unchanged
 - [0530-immutable-map](37-immutable-collections/0530-immutable-map/) — setting a key returns a new map
+- [0531-immutable-set](37-immutable-collections/0531-immutable-set/) — adding to a set returns a new set
 
 ## How to run
 
