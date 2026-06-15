@@ -643,6 +643,7 @@ macOS via Homebrew (alternative):
 - [0554-dot-product](40-numeric-arrays/0554-dot-product/) — dot product of two vectors
 - [0555-elementwise-add](40-numeric-arrays/0555-elementwise-add/) — add two vectors element-wise
 - [0556-matrix-multiply](40-numeric-arrays/0556-matrix-multiply/) — multiply two 2x2 matrices
+- [0557-transpose](40-numeric-arrays/0557-transpose/) — transpose a matrix
 
 ## How to run
 
