@@ -584,6 +584,7 @@ macOS via Homebrew (alternative):
 - [0507-object-field](34-graphql/0507-object-field/) — return an object type and select a field
 - [0508-list-field](34-graphql/0508-list-field/) — return a list of scalars
 - [0509-nested-object](34-graphql/0509-nested-object/) — select a field through nested object types
+- [0510-multiple-fields](34-graphql/0510-multiple-fields/) — select multiple fields of an object
 
 ## How to run
 

@@ -1,0 +1,8 @@
+[package]
+name = "multiple_fields"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+async-graphql = "7"
+tokio = { version = "1", features = ["full"] }
