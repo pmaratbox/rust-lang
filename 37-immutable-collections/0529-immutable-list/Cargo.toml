@@ -1,0 +1,11 @@
+[package]
+name = "immutable-list"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "immutable-list"
+path = "src/main.rs"
+
+[dependencies]
+im = "15"

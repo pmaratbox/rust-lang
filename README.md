@@ -608,6 +608,9 @@ macOS via Homebrew (alternative):
 - [0527-timezone-offset](36-datetime/0527-timezone-offset/) — convert a UTC instant to a fixed offset
 - [0528-unix-timestamp](36-datetime/0528-unix-timestamp/) — epoch seconds of a UTC instant
 
+### Immutable Collections
+- [0529-immutable-list](37-immutable-collections/0529-immutable-list/) — adding returns a new list; original unchanged
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
