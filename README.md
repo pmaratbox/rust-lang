@@ -544,6 +544,9 @@ macOS via Homebrew (alternative):
 - [0475-required-option](30-cli-args/0475-required-option/) — declare an option as required
 - [0476-choice-option](30-cli-args/0476-choice-option/) — restrict an option to a set of choices
 
+### Template Engines
+- [0477-variable-substitution](31-template-engines/0477-variable-substitution/) — render a template with a variable
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

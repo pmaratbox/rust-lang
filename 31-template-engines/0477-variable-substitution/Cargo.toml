@@ -1,0 +1,11 @@
+[package]
+name = "variable_substitution"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "variable_substitution"
+path = "src/main.rs"
+
+[dependencies]
+tera = "1"
