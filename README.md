@@ -526,6 +526,7 @@ macOS via Homebrew (alternative):
 - [0459-serialize-object](29-serialization/0459-serialize-object/) — serialize a typed object to a compact JSON string
 - [0460-deserialize-object](29-serialization/0460-deserialize-object/) — parse a JSON string into a typed object
 - [0461-nested-object](29-serialization/0461-nested-object/) — serialize an object containing another object
+- [0462-array-of-objects](29-serialization/0462-array-of-objects/) — serialize a list of objects to a JSON array
 
 ## How to run
 
