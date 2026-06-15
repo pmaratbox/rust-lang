@@ -651,6 +651,7 @@ macOS via Homebrew (alternative):
 - [0560-sha512](41-crypto-hashing/0560-sha512/) — sHA-512 hash of a string
 - [0561-sha1](41-crypto-hashing/0561-sha1/) — sHA-1 hash of a string
 - [0562-md5](41-crypto-hashing/0562-md5/) — mD5 hash of a string
+- [0563-hmac-sha256](41-crypto-hashing/0563-hmac-sha256/) — hMAC-SHA256 with a key
 
 ## How to run
 
