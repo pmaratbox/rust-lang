@@ -598,6 +598,9 @@ macOS via Homebrew (alternative):
 - [0519-precondition](35-property-testing/0519-precondition/) — constrain inputs with a precondition
 - [0520-finds-counterexample](35-property-testing/0520-finds-counterexample/) — a false property is detected
 
+### Date & Time Libraries
+- [0521-parse-and-format](36-datetime/0521-parse-and-format/) — parse an ISO date and format it back
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

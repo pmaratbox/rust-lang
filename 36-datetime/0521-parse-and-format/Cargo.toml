@@ -1,0 +1,11 @@
+[package]
+name = "parse_and_format"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "parse_and_format"
+path = "src/main.rs"
+
+[dependencies]
+chrono = "0.4"
