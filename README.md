@@ -671,6 +671,7 @@ macOS via Homebrew (alternative):
 - [0576-csv-headers](43-csv/0576-csv-headers/) — read the CSV header row
 - [0577-csv-quoted-fields](43-csv/0577-csv-quoted-fields/) — parse a quoted field containing a comma
 - [0578-csv-write](43-csv/0578-csv-write/) — write rows to CSV with the library
+- [0579-csv-column](43-csv/0579-csv-column/) — extract one column from the CSV
 
 ## How to run
 
