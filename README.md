@@ -668,6 +668,7 @@ macOS via Homebrew (alternative):
 
 ### CSV
 - [0575-csv-parse](43-csv/0575-csv-parse/) — parse CSV text into rows
+- [0576-csv-headers](43-csv/0576-csv-headers/) — read the CSV header row
 
 ## How to run
 
