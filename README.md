@@ -659,6 +659,7 @@ macOS via Homebrew (alternative):
 ### YAML & TOML
 - [0567-yaml-scalars](42-yaml-toml/0567-yaml-scalars/) — parse a YAML mapping and read scalar fields
 - [0568-yaml-nested](42-yaml-toml/0568-yaml-nested/) — read a value from a nested YAML mapping
+- [0569-yaml-sequence](42-yaml-toml/0569-yaml-sequence/) — parse a YAML sequence (list)
 
 ## How to run
 
