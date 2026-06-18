@@ -1,0 +1,11 @@
+[package]
+name = "yaml_nested"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "yaml_nested"
+path = "src/main.rs"
+
+[dependencies]
+serde_yaml = "0.9"
