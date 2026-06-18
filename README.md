@@ -674,6 +674,7 @@ macOS via Homebrew (alternative):
 - [0579-csv-column](43-csv/0579-csv-column/) — extract one column from the CSV
 - [0580-csv-sum](43-csv/0580-csv-sum/) — sum a numeric CSV column
 - [0581-csv-custom-delimiter](43-csv/0581-csv-custom-delimiter/) — parse semicolon-delimited data
+- [0582-csv-filter](43-csv/0582-csv-filter/) — filter CSV rows by a predicate
 
 ## How to run
 
