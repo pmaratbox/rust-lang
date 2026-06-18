@@ -656,6 +656,9 @@ macOS via Homebrew (alternative):
 - [0565-base64-encode](41-crypto-hashing/0565-base64-encode/) — base64-encode bytes
 - [0566-incremental-hash](41-crypto-hashing/0566-incremental-hash/) — hash data in two update calls
 
+### YAML & TOML
+- [0567-yaml-scalars](42-yaml-toml/0567-yaml-scalars/) — parse a YAML mapping and read scalar fields
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
