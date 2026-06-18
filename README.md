@@ -664,6 +664,7 @@ macOS via Homebrew (alternative):
 - [0571-toml-scalars](42-yaml-toml/0571-toml-scalars/) — parse top-level TOML keys
 - [0572-toml-table](42-yaml-toml/0572-toml-table/) — read fields from a TOML [table]
 - [0573-toml-array](42-yaml-toml/0573-toml-array/) — parse a TOML array
+- [0574-toml-array-of-tables](42-yaml-toml/0574-toml-array-of-tables/) — parse a TOML array-of-tables ([[...]])
 
 ## How to run
 
