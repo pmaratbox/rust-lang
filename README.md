@@ -662,6 +662,7 @@ macOS via Homebrew (alternative):
 - [0569-yaml-sequence](42-yaml-toml/0569-yaml-sequence/) — parse a YAML sequence (list)
 - [0570-yaml-dump](42-yaml-toml/0570-yaml-dump/) — serialize a map to sorted block-style YAML
 - [0571-toml-scalars](42-yaml-toml/0571-toml-scalars/) — parse top-level TOML keys
+- [0572-toml-table](42-yaml-toml/0572-toml-table/) — read fields from a TOML [table]
 
 ## How to run
 
