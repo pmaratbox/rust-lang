@@ -666,6 +666,9 @@ macOS via Homebrew (alternative):
 - [0573-toml-array](42-yaml-toml/0573-toml-array/) — parse a TOML array
 - [0574-toml-array-of-tables](42-yaml-toml/0574-toml-array-of-tables/) — parse a TOML array-of-tables ([[...]])
 
+### CSV
+- [0575-csv-parse](43-csv/0575-csv-parse/) — parse CSV text into rows
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
