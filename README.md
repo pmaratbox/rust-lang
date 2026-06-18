@@ -673,6 +673,7 @@ macOS via Homebrew (alternative):
 - [0578-csv-write](43-csv/0578-csv-write/) — write rows to CSV with the library
 - [0579-csv-column](43-csv/0579-csv-column/) — extract one column from the CSV
 - [0580-csv-sum](43-csv/0580-csv-sum/) — sum a numeric CSV column
+- [0581-csv-custom-delimiter](43-csv/0581-csv-custom-delimiter/) — parse semicolon-delimited data
 
 ## How to run
 
