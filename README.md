@@ -721,6 +721,7 @@ macOS via Homebrew (alternative):
 - [0616-http-status](48-http-clients/0616-http-status/) — read the HTTP status code
 - [0617-http-json](48-http-clients/0617-http-json/) — gET and parse a JSON body
 - [0618-http-post](48-http-clients/0618-http-post/) — pOST a request body
+- [0619-http-query-params](48-http-clients/0619-http-query-params/) — send query parameters
 
 ## How to run
 
