@@ -807,6 +807,7 @@ macOS via Homebrew (alternative):
 - [0686-fp-unique](56-functional-utils/0686-fp-unique/) — remove duplicates preserving order
 - [0687-fp-zip](56-functional-utils/0687-fp-zip/) — zip two lists
 - [0688-fp-group-by](56-functional-utils/0688-fp-group-by/) — group a list by a key
+- [0689-fp-take](56-functional-utils/0689-fp-take/) — take the first N elements
 
 ## How to run
 
