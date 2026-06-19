@@ -738,6 +738,9 @@ macOS via Homebrew (alternative):
 - [0631-log-field-sorting](49-logging/0631-log-field-sorting/) — fields are printed sorted by key
 - [0632-log-level-filter](49-logging/0632-log-level-filter/) — records below the minimum level are dropped
 
+### Configuration
+- [0633-config-read](50-config/0633-config-read/) — read a top-level config value
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
