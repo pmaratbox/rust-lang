@@ -773,6 +773,7 @@ macOS via Homebrew (alternative):
 - [0658-di-dependency](53-dependency-injection/0658-di-dependency/) — a service depends on another
 - [0659-di-singleton](53-dependency-injection/0659-di-singleton/) — same instance resolved twice
 - [0660-di-interface](53-dependency-injection/0660-di-interface/) — resolve by interface
+- [0661-di-multiple-deps](53-dependency-injection/0661-di-multiple-deps/) — a service with two dependencies
 
 ## How to run
 
