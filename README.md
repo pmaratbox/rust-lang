@@ -758,6 +758,9 @@ macOS via Homebrew (alternative):
 - [0647-cache-contains](51-caching/0647-cache-contains/) — check key membership
 - [0648-cache-capacity](51-caching/0648-cache-capacity/) — size never exceeds capacity
 
+### Retry & Resilience
+- [0649-retry-success](52-resilience/0649-retry-success/) — no retry needed
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
