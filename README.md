@@ -795,6 +795,7 @@ macOS via Homebrew (alternative):
 - [0676-graph-has-edge](55-graph-algorithms/0676-graph-has-edge/) — check whether edges exist
 - [0677-graph-shortest-distance](55-graph-algorithms/0677-graph-shortest-distance/) — weighted shortest-path distance
 - [0678-graph-shortest-path](55-graph-algorithms/0678-graph-shortest-path/) — the shortest-path node sequence
+- [0679-graph-connected](55-graph-algorithms/0679-graph-connected/) — whether two nodes are connected
 
 ## How to run
 
