@@ -694,6 +694,7 @@ macOS via Homebrew (alternative):
 - [0595-xml-all-attributes](45-xml/0595-xml-all-attributes/) — collect an attribute from all elements
 - [0596-xml-count](45-xml/0596-xml-count/) — count matching elements
 - [0597-xml-sum](45-xml/0597-xml-sum/) — sum a numeric child element
+- [0598-xml-filter](45-xml/0598-xml-filter/) — filter elements by attribute value
 
 ## How to run
 
