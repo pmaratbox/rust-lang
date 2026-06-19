@@ -731,6 +731,7 @@ macOS via Homebrew (alternative):
 ### Structured Logging
 - [0625-log-info](49-logging/0625-log-info/) — emit an info-level log record
 - [0626-log-warn](49-logging/0626-log-warn/) — emit a warn-level log record
+- [0627-log-error](49-logging/0627-log-error/) — emit an error-level log record
 
 ## How to run
 
