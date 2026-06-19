@@ -740,6 +740,7 @@ macOS via Homebrew (alternative):
 
 ### Configuration
 - [0633-config-read](50-config/0633-config-read/) — read a top-level config value
+- [0634-config-nested](50-config/0634-config-nested/) — read a nested config value
 
 ## How to run
 
