@@ -691,6 +691,7 @@ macOS via Homebrew (alternative):
 - [0592-xml-attribute](45-xml/0592-xml-attribute/) — read an element attribute
 - [0593-xml-nested](45-xml/0593-xml-nested/) — read a nested element's text
 - [0594-xml-find-all](45-xml/0594-xml-find-all/) — find all matching elements
+- [0595-xml-all-attributes](45-xml/0595-xml-all-attributes/) — collect an attribute from all elements
 
 ## How to run
 
