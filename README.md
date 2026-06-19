@@ -736,6 +736,7 @@ macOS via Homebrew (alternative):
 - [0629-log-int-field](49-logging/0629-log-int-field/) — attach an integer structured field
 - [0630-log-multiple-fields](49-logging/0630-log-multiple-fields/) — attach multiple structured fields
 - [0631-log-field-sorting](49-logging/0631-log-field-sorting/) — fields are printed sorted by key
+- [0632-log-level-filter](49-logging/0632-log-level-filter/) — records below the minimum level are dropped
 
 ## How to run
 
