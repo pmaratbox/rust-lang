@@ -1,0 +1,11 @@
+[package]
+name = "graph-shortest-distance"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "graph-shortest-distance"
+path = "src/main.rs"
+
+[dependencies]
+petgraph = "0.6"

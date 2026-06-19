@@ -793,6 +793,7 @@ macOS via Homebrew (alternative):
 - [0674-graph-degree](55-graph-algorithms/0674-graph-degree/) — degree of a node
 - [0675-graph-neighbors](55-graph-algorithms/0675-graph-neighbors/) — sorted neighbors of a node
 - [0676-graph-has-edge](55-graph-algorithms/0676-graph-has-edge/) — check whether edges exist
+- [0677-graph-shortest-distance](55-graph-algorithms/0677-graph-shortest-distance/) — weighted shortest-path distance
 
 ## How to run
 
