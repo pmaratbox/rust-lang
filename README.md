@@ -693,6 +693,7 @@ macOS via Homebrew (alternative):
 - [0594-xml-find-all](45-xml/0594-xml-find-all/) — find all matching elements
 - [0595-xml-all-attributes](45-xml/0595-xml-all-attributes/) — collect an attribute from all elements
 - [0596-xml-count](45-xml/0596-xml-count/) — count matching elements
+- [0597-xml-sum](45-xml/0597-xml-sum/) — sum a numeric child element
 
 ## How to run
 
