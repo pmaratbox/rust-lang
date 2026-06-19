@@ -1,0 +1,11 @@
+[package]
+name = "graph-has-edge"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "graph-has-edge"
+path = "src/main.rs"
+
+[dependencies]
+petgraph = "0.6"
