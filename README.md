@@ -770,6 +770,7 @@ macOS via Homebrew (alternative):
 
 ### Dependency Injection
 - [0657-di-resolve](53-dependency-injection/0657-di-resolve/) — register and resolve a service
+- [0658-di-dependency](53-dependency-injection/0658-di-dependency/) — a service depends on another
 
 ## How to run
 
