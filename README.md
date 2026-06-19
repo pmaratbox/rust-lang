@@ -701,6 +701,7 @@ macOS via Homebrew (alternative):
 - [0600-md-bold](46-markdown/0600-md-bold/) — render bold (strong) text
 - [0601-md-italic](46-markdown/0601-md-italic/) — render italic (em) text
 - [0602-md-link](46-markdown/0602-md-link/) — render a Markdown link
+- [0603-md-inline-code](46-markdown/0603-md-inline-code/) — render inline code
 
 ## How to run
 
