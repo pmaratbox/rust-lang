@@ -791,6 +791,7 @@ macOS via Homebrew (alternative):
 ### Graph Algorithms
 - [0673-graph-build](55-graph-algorithms/0673-graph-build/) — count nodes and edges
 - [0674-graph-degree](55-graph-algorithms/0674-graph-degree/) — degree of a node
+- [0675-graph-neighbors](55-graph-algorithms/0675-graph-neighbors/) — sorted neighbors of a node
 
 ## How to run
 

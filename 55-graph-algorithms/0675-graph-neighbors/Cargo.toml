@@ -1,0 +1,11 @@
+[package]
+name = "graph-neighbors"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "graph-neighbors"
+path = "src/main.rs"
+
+[dependencies]
+petgraph = "0.6"
