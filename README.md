@@ -755,6 +755,7 @@ macOS via Homebrew (alternative):
 - [0644-cache-lru-recency](51-caching/0644-cache-lru-recency/) — a get promotes a key so it survives eviction
 - [0645-cache-size](51-caching/0645-cache-size/) — number of entries
 - [0646-cache-update](51-caching/0646-cache-update/) — re-putting a key updates its value
+- [0647-cache-contains](51-caching/0647-cache-contains/) — check key membership
 
 ## How to run
 
