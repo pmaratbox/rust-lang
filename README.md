@@ -753,6 +753,7 @@ macOS via Homebrew (alternative):
 - [0642-cache-miss](51-caching/0642-cache-miss/) — look up an absent key
 - [0643-cache-eviction](51-caching/0643-cache-eviction/) — oldest entry is evicted at capacity
 - [0644-cache-lru-recency](51-caching/0644-cache-lru-recency/) — a get promotes a key so it survives eviction
+- [0645-cache-size](51-caching/0645-cache-size/) — number of entries
 
 ## How to run
 
