@@ -713,6 +713,7 @@ macOS via Homebrew (alternative):
 - [0610-encode-array](47-encoding-binary/0610-encode-array/) — messagePack-encode an array of ints
 - [0611-encode-nested-array](47-encoding-binary/0611-encode-nested-array/) — messagePack-encode a nested array
 - [0612-encode-map](47-encoding-binary/0612-encode-map/) — messagePack-encode a single-key map
+- [0613-encode-null](47-encoding-binary/0613-encode-null/) — messagePack-encode null/nil
 
 ## How to run
 
