@@ -794,6 +794,7 @@ macOS via Homebrew (alternative):
 - [0675-graph-neighbors](55-graph-algorithms/0675-graph-neighbors/) — sorted neighbors of a node
 - [0676-graph-has-edge](55-graph-algorithms/0676-graph-has-edge/) — check whether edges exist
 - [0677-graph-shortest-distance](55-graph-algorithms/0677-graph-shortest-distance/) — weighted shortest-path distance
+- [0678-graph-shortest-path](55-graph-algorithms/0678-graph-shortest-path/) — the shortest-path node sequence
 
 ## How to run
 

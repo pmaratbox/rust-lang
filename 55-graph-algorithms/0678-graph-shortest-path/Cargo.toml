@@ -1,0 +1,11 @@
+[package]
+name = "graph-shortest-path"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "graph-shortest-path"
+path = "src/main.rs"
+
+[dependencies]
+petgraph = "0.6"
