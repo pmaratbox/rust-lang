@@ -754,6 +754,7 @@ macOS via Homebrew (alternative):
 - [0643-cache-eviction](51-caching/0643-cache-eviction/) — oldest entry is evicted at capacity
 - [0644-cache-lru-recency](51-caching/0644-cache-lru-recency/) — a get promotes a key so it survives eviction
 - [0645-cache-size](51-caching/0645-cache-size/) — number of entries
+- [0646-cache-update](51-caching/0646-cache-update/) — re-putting a key updates its value
 
 ## How to run
 
