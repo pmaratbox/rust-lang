@@ -800,6 +800,7 @@ macOS via Homebrew (alternative):
 
 ### Functional Utilities
 - [0681-fp-map](56-functional-utils/0681-fp-map/) — map a function over a list
+- [0682-fp-filter](56-functional-utils/0682-fp-filter/) — filter a list by a predicate
 
 ## How to run
 
