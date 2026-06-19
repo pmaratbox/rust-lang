@@ -682,6 +682,7 @@ macOS via Homebrew (alternative):
 - [0585-html-select-class](44-html-parsing/0585-html-select-class/) — select the first element of a class (.class)
 - [0586-html-select-all](44-html-parsing/0586-html-select-all/) — select all elements matching a selector
 - [0587-html-attribute](44-html-parsing/0587-html-attribute/) — read an element attribute
+- [0588-html-nested](44-html-parsing/0588-html-nested/) — select with a descendant CSS selector
 
 ## How to run
 
