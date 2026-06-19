@@ -804,6 +804,7 @@ macOS via Homebrew (alternative):
 - [0683-fp-reduce](56-functional-utils/0683-fp-reduce/) — reduce a list to a value
 - [0684-fp-chunk](56-functional-utils/0684-fp-chunk/) — split a list into fixed-size chunks
 - [0685-fp-flatten](56-functional-utils/0685-fp-flatten/) — flatten a list of lists
+- [0686-fp-unique](56-functional-utils/0686-fp-unique/) — remove duplicates preserving order
 
 ## How to run
 
