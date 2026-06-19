@@ -748,6 +748,9 @@ macOS via Homebrew (alternative):
 - [0639-config-int](50-config/0639-config-int/) — read an integer config value
 - [0640-config-section](50-config/0640-config-section/) — read multiple keys from a section
 
+### Caching & Eviction
+- [0641-cache-put-get](51-caching/0641-cache-put-get/) — store and retrieve a value
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
