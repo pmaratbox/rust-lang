@@ -686,6 +686,9 @@ macOS via Homebrew (alternative):
 - [0589-html-table](44-html-parsing/0589-html-table/) — extract all cells from a table
 - [0590-html-count](44-html-parsing/0590-html-count/) — count elements matching a selector
 
+### XML
+- [0591-xml-element-text](45-xml/0591-xml-element-text/) — read an element's text
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
