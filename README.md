@@ -706,6 +706,9 @@ macOS via Homebrew (alternative):
 - [0605-md-blockquote](46-markdown/0605-md-blockquote/) — render a blockquote
 - [0606-md-ordered-list](46-markdown/0606-md-ordered-list/) — render an ordered list
 
+### Binary Encoding
+- [0607-encode-int](47-encoding-binary/0607-encode-int/) — messagePack-encode an integer
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
