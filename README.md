@@ -676,6 +676,9 @@ macOS via Homebrew (alternative):
 - [0581-csv-custom-delimiter](43-csv/0581-csv-custom-delimiter/) — parse semicolon-delimited data
 - [0582-csv-filter](43-csv/0582-csv-filter/) — filter CSV rows by a predicate
 
+### HTML Parsing
+- [0583-html-select-tag](44-html-parsing/0583-html-select-tag/) — select an element by tag name
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
