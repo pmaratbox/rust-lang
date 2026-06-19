@@ -802,6 +802,7 @@ macOS via Homebrew (alternative):
 - [0681-fp-map](56-functional-utils/0681-fp-map/) — map a function over a list
 - [0682-fp-filter](56-functional-utils/0682-fp-filter/) — filter a list by a predicate
 - [0683-fp-reduce](56-functional-utils/0683-fp-reduce/) — reduce a list to a value
+- [0684-fp-chunk](56-functional-utils/0684-fp-chunk/) — split a list into fixed-size chunks
 
 ## How to run
 
