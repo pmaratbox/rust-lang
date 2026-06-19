@@ -724,6 +724,7 @@ macOS via Homebrew (alternative):
 - [0619-http-query-params](48-http-clients/0619-http-query-params/) — send query parameters
 - [0620-http-request-header](48-http-clients/0620-http-request-header/) — send a custom request header
 - [0621-http-response-header](48-http-clients/0621-http-response-header/) — read a custom response header
+- [0622-http-404](48-http-clients/0622-http-404/) — handle a 404 status
 
 ## How to run
 
