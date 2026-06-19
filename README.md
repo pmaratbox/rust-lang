@@ -806,6 +806,7 @@ macOS via Homebrew (alternative):
 - [0685-fp-flatten](56-functional-utils/0685-fp-flatten/) — flatten a list of lists
 - [0686-fp-unique](56-functional-utils/0686-fp-unique/) — remove duplicates preserving order
 - [0687-fp-zip](56-functional-utils/0687-fp-zip/) — zip two lists
+- [0688-fp-group-by](56-functional-utils/0688-fp-group-by/) — group a list by a key
 
 ## How to run
 
