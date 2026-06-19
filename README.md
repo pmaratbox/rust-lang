@@ -798,6 +798,9 @@ macOS via Homebrew (alternative):
 - [0679-graph-connected](55-graph-algorithms/0679-graph-connected/) — whether two nodes are connected
 - [0680-graph-topological-sort](55-graph-algorithms/0680-graph-topological-sort/) — topo order of a DAG
 
+### Functional Utilities
+- [0681-fp-map](56-functional-utils/0681-fp-map/) — map a function over a list
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
