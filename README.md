@@ -726,6 +726,7 @@ macOS via Homebrew (alternative):
 - [0621-http-response-header](48-http-clients/0621-http-response-header/) — read a custom response header
 - [0622-http-404](48-http-clients/0622-http-404/) — handle a 404 status
 - [0623-http-post-json](48-http-clients/0623-http-post-json/) — pOST JSON and parse the JSON reply
+- [0624-http-put](48-http-clients/0624-http-put/) — make a PUT request
 
 ## How to run
 
