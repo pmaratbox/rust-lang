@@ -743,6 +743,7 @@ macOS via Homebrew (alternative):
 - [0634-config-nested](50-config/0634-config-nested/) — read a nested config value
 - [0635-config-list](50-config/0635-config-list/) — read a list/array config value
 - [0636-config-bool](50-config/0636-config-bool/) — read a boolean config value
+- [0637-config-default](50-config/0637-config-default/) — provide a default for a missing key
 
 ## How to run
 
