@@ -683,6 +683,7 @@ macOS via Homebrew (alternative):
 - [0586-html-select-all](44-html-parsing/0586-html-select-all/) — select all elements matching a selector
 - [0587-html-attribute](44-html-parsing/0587-html-attribute/) — read an element attribute
 - [0588-html-nested](44-html-parsing/0588-html-nested/) — select with a descendant CSS selector
+- [0589-html-table](44-html-parsing/0589-html-table/) — extract all cells from a table
 
 ## How to run
 
