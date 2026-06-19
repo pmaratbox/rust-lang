@@ -1,0 +1,11 @@
+[package]
+name = "graph-degree"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "graph-degree"
+path = "src/main.rs"
+
+[dependencies]
+petgraph = "0.6"
