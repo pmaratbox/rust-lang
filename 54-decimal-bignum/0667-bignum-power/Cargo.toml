@@ -1,0 +1,12 @@
+[package]
+name = "bignum-power"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "bignum-power"
+path = "src/main.rs"
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2"
