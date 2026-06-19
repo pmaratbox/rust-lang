@@ -805,6 +805,7 @@ macOS via Homebrew (alternative):
 - [0684-fp-chunk](56-functional-utils/0684-fp-chunk/) — split a list into fixed-size chunks
 - [0685-fp-flatten](56-functional-utils/0685-fp-flatten/) — flatten a list of lists
 - [0686-fp-unique](56-functional-utils/0686-fp-unique/) — remove duplicates preserving order
+- [0687-fp-zip](56-functional-utils/0687-fp-zip/) — zip two lists
 
 ## How to run
 
