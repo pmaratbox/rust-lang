@@ -722,6 +722,7 @@ macOS via Homebrew (alternative):
 - [0617-http-json](48-http-clients/0617-http-json/) — gET and parse a JSON body
 - [0618-http-post](48-http-clients/0618-http-post/) — pOST a request body
 - [0619-http-query-params](48-http-clients/0619-http-query-params/) — send query parameters
+- [0620-http-request-header](48-http-clients/0620-http-request-header/) — send a custom request header
 
 ## How to run
 
