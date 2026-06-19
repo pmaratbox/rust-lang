@@ -704,6 +704,7 @@ macOS via Homebrew (alternative):
 - [0603-md-inline-code](46-markdown/0603-md-inline-code/) — render inline code
 - [0604-md-list](46-markdown/0604-md-list/) — render an unordered list
 - [0605-md-blockquote](46-markdown/0605-md-blockquote/) — render a blockquote
+- [0606-md-ordered-list](46-markdown/0606-md-ordered-list/) — render an ordered list
 
 ## How to run
 
