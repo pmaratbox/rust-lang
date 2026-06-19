@@ -680,6 +680,7 @@ macOS via Homebrew (alternative):
 - [0583-html-select-tag](44-html-parsing/0583-html-select-tag/) — select an element by tag name
 - [0584-html-select-id](44-html-parsing/0584-html-select-id/) — select an element by id (#id)
 - [0585-html-select-class](44-html-parsing/0585-html-select-class/) — select the first element of a class (.class)
+- [0586-html-select-all](44-html-parsing/0586-html-select-all/) — select all elements matching a selector
 
 ## How to run
 
