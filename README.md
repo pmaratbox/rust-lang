@@ -788,6 +788,9 @@ macOS via Homebrew (alternative):
 - [0671-decimal-subtract](54-decimal-bignum/0671-decimal-subtract/) — 1.0 - 0.1 exactly
 - [0672-decimal-compare](54-decimal-bignum/0672-decimal-compare/) — 0.1+0.2 equals 0.3
 
+### Graph Algorithms
+- [0673-graph-build](55-graph-algorithms/0673-graph-build/) — count nodes and edges
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
