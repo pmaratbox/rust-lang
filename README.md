@@ -763,6 +763,7 @@ macOS via Homebrew (alternative):
 - [0650-retry-eventual-success](52-resilience/0650-retry-eventual-success/) — succeeds after one failure
 - [0651-retry-exhausted](52-resilience/0651-retry-exhausted/) — give up after max attempts
 - [0652-retry-return-value](52-resilience/0652-retry-return-value/) — return the successful result
+- [0653-retry-count-attempts](52-resilience/0653-retry-count-attempts/) — count total attempts on failure
 
 ## How to run
 
