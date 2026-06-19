@@ -803,6 +803,7 @@ macOS via Homebrew (alternative):
 - [0682-fp-filter](56-functional-utils/0682-fp-filter/) — filter a list by a predicate
 - [0683-fp-reduce](56-functional-utils/0683-fp-reduce/) — reduce a list to a value
 - [0684-fp-chunk](56-functional-utils/0684-fp-chunk/) — split a list into fixed-size chunks
+- [0685-fp-flatten](56-functional-utils/0685-fp-flatten/) — flatten a list of lists
 
 ## How to run
 
