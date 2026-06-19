@@ -1,0 +1,11 @@
+[package]
+name = "decimal-add"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "decimal-add"
+path = "src/main.rs"
+
+[dependencies]
+rust_decimal = "1"

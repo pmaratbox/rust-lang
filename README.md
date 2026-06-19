@@ -783,6 +783,7 @@ macOS via Homebrew (alternative):
 - [0666-bignum-multiply](54-decimal-bignum/0666-bignum-multiply/) — multiply two large integers
 - [0667-bignum-power](54-decimal-bignum/0667-bignum-power/) — compute 2^100
 - [0668-bignum-factorial](54-decimal-bignum/0668-bignum-factorial/) — compute 30!
+- [0669-decimal-add](54-decimal-bignum/0669-decimal-add/) — 0.1 + 0.2 exactly
 
 ## How to run
 
