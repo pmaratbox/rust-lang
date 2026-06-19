@@ -778,6 +778,9 @@ macOS via Homebrew (alternative):
 - [0663-di-factory](53-dependency-injection/0663-di-factory/) — build a service via a factory
 - [0664-di-nested](53-dependency-injection/0664-di-nested/) — a 3-level dependency chain
 
+### Exact & Big Numbers
+- [0665-bignum-add](54-decimal-bignum/0665-bignum-add/) — add two huge integers
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
