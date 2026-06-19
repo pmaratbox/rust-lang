@@ -723,6 +723,7 @@ macOS via Homebrew (alternative):
 - [0618-http-post](48-http-clients/0618-http-post/) — pOST a request body
 - [0619-http-query-params](48-http-clients/0619-http-query-params/) — send query parameters
 - [0620-http-request-header](48-http-clients/0620-http-request-header/) — send a custom request header
+- [0621-http-response-header](48-http-clients/0621-http-response-header/) — read a custom response header
 
 ## How to run
 
