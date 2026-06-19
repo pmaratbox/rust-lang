@@ -751,6 +751,7 @@ macOS via Homebrew (alternative):
 ### Caching & Eviction
 - [0641-cache-put-get](51-caching/0641-cache-put-get/) — store and retrieve a value
 - [0642-cache-miss](51-caching/0642-cache-miss/) — look up an absent key
+- [0643-cache-eviction](51-caching/0643-cache-eviction/) — oldest entry is evicted at capacity
 
 ## How to run
 
