@@ -696,6 +696,9 @@ macOS via Homebrew (alternative):
 - [0597-xml-sum](45-xml/0597-xml-sum/) — sum a numeric child element
 - [0598-xml-filter](45-xml/0598-xml-filter/) — filter elements by attribute value
 
+### Markdown
+- [0599-md-heading](46-markdown/0599-md-heading/) — render a Markdown heading
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
