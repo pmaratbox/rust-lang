@@ -766,6 +766,7 @@ macOS via Homebrew (alternative):
 - [0653-retry-count-attempts](52-resilience/0653-retry-count-attempts/) — count total attempts on failure
 - [0654-retry-result-predicate](52-resilience/0654-retry-result-predicate/) — retry based on the returned value
 - [0655-retry-fixed-backoff](52-resilience/0655-retry-fixed-backoff/) — retry with a fixed delay strategy
+- [0656-retry-exponential-backoff](52-resilience/0656-retry-exponential-backoff/) — retry with an exponential delay strategy
 
 ## How to run
 
