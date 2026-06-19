@@ -733,6 +733,7 @@ macOS via Homebrew (alternative):
 - [0626-log-warn](49-logging/0626-log-warn/) — emit a warn-level log record
 - [0627-log-error](49-logging/0627-log-error/) — emit an error-level log record
 - [0628-log-string-field](49-logging/0628-log-string-field/) — attach a string structured field
+- [0629-log-int-field](49-logging/0629-log-int-field/) — attach an integer structured field
 
 ## How to run
 
