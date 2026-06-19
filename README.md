@@ -776,6 +776,7 @@ macOS via Homebrew (alternative):
 - [0661-di-multiple-deps](53-dependency-injection/0661-di-multiple-deps/) — a service with two dependencies
 - [0662-di-value](53-dependency-injection/0662-di-value/) — inject a constant value
 - [0663-di-factory](53-dependency-injection/0663-di-factory/) — build a service via a factory
+- [0664-di-nested](53-dependency-injection/0664-di-nested/) — a 3-level dependency chain
 
 ## How to run
 
