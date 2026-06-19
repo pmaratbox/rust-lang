@@ -745,6 +745,7 @@ macOS via Homebrew (alternative):
 - [0636-config-bool](50-config/0636-config-bool/) — read a boolean config value
 - [0637-config-default](50-config/0637-config-default/) — provide a default for a missing key
 - [0638-config-env-override](50-config/0638-config-env-override/) — an env var overrides the file value
+- [0639-config-int](50-config/0639-config-int/) — read an integer config value
 
 ## How to run
 
