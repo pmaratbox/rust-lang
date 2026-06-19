@@ -709,6 +709,7 @@ macOS via Homebrew (alternative):
 ### Binary Encoding
 - [0607-encode-int](47-encoding-binary/0607-encode-int/) — messagePack-encode an integer
 - [0608-encode-string](47-encoding-binary/0608-encode-string/) — messagePack-encode a string
+- [0609-encode-bool](47-encoding-binary/0609-encode-bool/) — messagePack-encode a boolean
 
 ## How to run
 
