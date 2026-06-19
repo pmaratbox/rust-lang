@@ -746,6 +746,7 @@ macOS via Homebrew (alternative):
 - [0637-config-default](50-config/0637-config-default/) — provide a default for a missing key
 - [0638-config-env-override](50-config/0638-config-env-override/) — an env var overrides the file value
 - [0639-config-int](50-config/0639-config-int/) — read an integer config value
+- [0640-config-section](50-config/0640-config-section/) — read multiple keys from a section
 
 ## How to run
 
