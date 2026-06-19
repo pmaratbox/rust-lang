@@ -728,6 +728,9 @@ macOS via Homebrew (alternative):
 - [0623-http-post-json](48-http-clients/0623-http-post-json/) — pOST JSON and parse the JSON reply
 - [0624-http-put](48-http-clients/0624-http-put/) — make a PUT request
 
+### Structured Logging
+- [0625-log-info](49-logging/0625-log-info/) — emit an info-level log record
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
