@@ -768,6 +768,9 @@ macOS via Homebrew (alternative):
 - [0655-retry-fixed-backoff](52-resilience/0655-retry-fixed-backoff/) — retry with a fixed delay strategy
 - [0656-retry-exponential-backoff](52-resilience/0656-retry-exponential-backoff/) — retry with an exponential delay strategy
 
+### Dependency Injection
+- [0657-di-resolve](53-dependency-injection/0657-di-resolve/) — register and resolve a service
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
