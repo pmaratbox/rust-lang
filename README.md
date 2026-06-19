@@ -714,6 +714,7 @@ macOS via Homebrew (alternative):
 - [0611-encode-nested-array](47-encoding-binary/0611-encode-nested-array/) — messagePack-encode a nested array
 - [0612-encode-map](47-encoding-binary/0612-encode-map/) — messagePack-encode a single-key map
 - [0613-encode-null](47-encoding-binary/0613-encode-null/) — messagePack-encode null/nil
+- [0614-decode-string](47-encoding-binary/0614-decode-string/) — decode MessagePack bytes back to a value
 
 ## How to run
 
