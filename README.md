@@ -775,6 +775,7 @@ macOS via Homebrew (alternative):
 - [0660-di-interface](53-dependency-injection/0660-di-interface/) — resolve by interface
 - [0661-di-multiple-deps](53-dependency-injection/0661-di-multiple-deps/) — a service with two dependencies
 - [0662-di-value](53-dependency-injection/0662-di-value/) — inject a constant value
+- [0663-di-factory](53-dependency-injection/0663-di-factory/) — build a service via a factory
 
 ## How to run
 
