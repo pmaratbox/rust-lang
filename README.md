@@ -716,6 +716,9 @@ macOS via Homebrew (alternative):
 - [0613-encode-null](47-encoding-binary/0613-encode-null/) — messagePack-encode null/nil
 - [0614-decode-string](47-encoding-binary/0614-decode-string/) — decode MessagePack bytes back to a value
 
+### HTTP Clients
+- [0615-http-get](48-http-clients/0615-http-get/) — make a GET request and read the body
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
