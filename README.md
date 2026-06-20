@@ -816,6 +816,7 @@ macOS via Homebrew (alternative):
 - [0693-ansi-yellow](57-terminal-ansi/0693-ansi-yellow/) — color text yellow (ANSI 33)
 - [0694-ansi-blue](57-terminal-ansi/0694-ansi-blue/) — color text blue (ANSI 34)
 - [0695-ansi-magenta](57-terminal-ansi/0695-ansi-magenta/) — color text magenta (ANSI 35)
+- [0696-ansi-cyan](57-terminal-ansi/0696-ansi-cyan/) — color text cyan (ANSI 36)
 
 ## How to run
 
