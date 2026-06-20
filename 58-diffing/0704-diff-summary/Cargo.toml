@@ -1,0 +1,11 @@
+[package]
+name = "diff-summary"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "diff-summary"
+path = "src/main.rs"
+
+[dependencies]
+similar = "2"
