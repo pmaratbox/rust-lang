@@ -1,0 +1,11 @@
+[package]
+name = "diff-removed-count"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "diff-removed-count"
+path = "src/main.rs"
+
+[dependencies]
+similar = "2"

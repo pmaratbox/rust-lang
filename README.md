@@ -822,6 +822,7 @@ macOS via Homebrew (alternative):
 
 ### Text Diffing
 - [0699-diff-added-count](58-diffing/0699-diff-added-count/) — number of added lines
+- [0700-diff-removed-count](58-diffing/0700-diff-removed-count/) — number of removed lines
 
 ## How to run
 
