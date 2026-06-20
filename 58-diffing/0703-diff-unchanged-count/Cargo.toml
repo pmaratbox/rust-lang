@@ -1,0 +1,11 @@
+[package]
+name = "diff-unchanged-count"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "diff-unchanged-count"
+path = "src/main.rs"
+
+[dependencies]
+similar = "2"
