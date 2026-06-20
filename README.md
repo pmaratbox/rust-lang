@@ -836,6 +836,7 @@ macOS via Homebrew (alternative):
 - [0709-uuid-nil](59-uuid-id/0709-uuid-nil/) — the all-zero UUID
 - [0710-uuid-version](59-uuid-id/0710-uuid-version/) — read a UUID's version number
 - [0711-uuid-roundtrip](59-uuid-id/0711-uuid-roundtrip/) — parse an uppercase UUID, print canonical
+- [0712-uuid-v5-name](59-uuid-id/0712-uuid-v5-name/) — a different name yields a different UUID
 
 ## How to run
 
