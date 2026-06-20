@@ -820,6 +820,9 @@ macOS via Homebrew (alternative):
 - [0697-ansi-white](57-terminal-ansi/0697-ansi-white/) — color text white (ANSI 37)
 - [0698-ansi-black](57-terminal-ansi/0698-ansi-black/) — color text black (ANSI 30)
 
+### Text Diffing
+- [0699-diff-added-count](58-diffing/0699-diff-added-count/) — number of added lines
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
