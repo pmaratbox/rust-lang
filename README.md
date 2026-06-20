@@ -824,6 +824,7 @@ macOS via Homebrew (alternative):
 - [0699-diff-added-count](58-diffing/0699-diff-added-count/) — number of added lines
 - [0700-diff-removed-count](58-diffing/0700-diff-removed-count/) — number of removed lines
 - [0701-diff-added-lines](58-diffing/0701-diff-added-lines/) — the added lines
+- [0702-diff-removed-lines](58-diffing/0702-diff-removed-lines/) — the removed lines
 
 ## How to run
 
