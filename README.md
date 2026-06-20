@@ -830,6 +830,9 @@ macOS via Homebrew (alternative):
 - [0705-diff-identical](58-diffing/0705-diff-identical/) — no differences
 - [0706-diff-all-added](58-diffing/0706-diff-all-added/) — diffing from empty
 
+### Deterministic IDs
+- [0707-uuid-v5](59-uuid-id/0707-uuid-v5/) — deterministic UUIDv5 from a name
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

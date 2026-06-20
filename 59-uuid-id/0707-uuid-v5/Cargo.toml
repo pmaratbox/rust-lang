@@ -1,0 +1,11 @@
+[package]
+name = "uuid-v5"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "uuid-v5"
+path = "src/main.rs"
+
+[dependencies]
+uuid = { version = "1", features = ["v5"] }
